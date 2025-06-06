@@ -48,4 +48,4 @@ This module requires a licensed copy of Foundry Virtual Tabletop to run.
 
 # Trademarks and Copyright  
 Pathfinder® is a registered trademark of Paizo Inc. All rights reserved.  
-Foundry Virtual Tabletop © 2025 Foundry Gaming, LLC. All rights reserved.
+Foundry Virtual Tabletop © 2025 Foundry Gaming, LLC. All rights reserved. Refer to [Foundry Virtual Tabletop End User License Agreement](https://foundryvtt.com/article/license/) for full license terms.  
