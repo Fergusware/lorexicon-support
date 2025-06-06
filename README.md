@@ -19,7 +19,9 @@ Loreweaver integrates seamlessly into your GM toolkit so you spend less time on 
 
 > **Note:** Loreweaver is run as a hosted service on Amazon Web Services. The Loreweaver codebase is proprietary and hosted in a private repository. This public repo is dedicated solely to support, feedback, and community discussion.
 
-See our current [Feature List](./FEATURES.md) and upcoming [Development Roadmap](./ROADMAP.md)!
+See our current [Feature List](./FEATURES.md) and upcoming [Development Roadmap](./ROADMAP.md)!  
+
+You can find us on [Discord](https://discord.gg/7HqVGQ7vnR)!
 
 ## Purpose of This Repository
 
