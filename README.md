@@ -1,3 +1,5 @@
+![Fergusware Banner](./images/fergusware-banner-3.jpg)
+
 # Loreweaver Support
 
 _A public space for feature requests and support questions for Loreweaver._
