@@ -1,4 +1,4 @@
-![Fergusware Banner](./images/fergusware-banner-3.jpg)
+![Fergusware Banner](./images/fergusware-banner-3.png)
 
 # Loreweaver Support
 
