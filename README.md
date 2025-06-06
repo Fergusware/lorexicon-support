@@ -43,6 +43,9 @@ By keeping support and feature tracking transparent, everyone in the Loreweaver 
    - **For support questions**: Explain what you’re trying to do, what you’ve tried so far, and where you’re stuck.  
 5. Click **Submit new issue**.
 
-# Acknowledgements
+# Dependencies
+This module requires a licensed copy of Foundry Virtual Tabletop to run.
 
-Pathfinder is a registered trademark of Paizo Inc. All rights reserved.
+# Trademarks and Copyright  
+Pathfinder® is a registered trademark of Paizo Inc. All rights reserved.  
+Foundry Virtual Tabletop © 2025 Foundry Gaming, LLC. All rights reserved.
