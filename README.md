@@ -7,8 +7,8 @@ _A public space for feature requests and support questions for Loreweaver._
 Loreweaver is an AI-powered companion module for Foundry VTT. Currently it is designed specifically for Pathfinder 2e Remaster. With Loreweaver, you can:
 
 - Generate Pathfinder 2e Remaster stat blocks on the fly  
-- Conjure custom creatures and NPCs  
-- (Coming Soon!) Create immersive scene descriptions and artwork directly in chat  
+- Conjure custom creatures and NPCs as Actors  
+- (Coming Soon!) Create immersive scene descriptions and artwork directly in the Journal  
 - Produce token art and portraits without leaving Foundry  
 
 Loreweaver integrates seamlessly into your GM toolkit so you spend less time on menus and more time telling your story.
