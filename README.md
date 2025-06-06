@@ -13,7 +13,9 @@ Loreweaver is an AI-powered companion module for Foundry VTT. Currently it is de
 
 Loreweaver integrates seamlessly into your GM toolkit so you spend less time on menus and more time telling your story.
 
-> **Note:** The Loreweaver codebase is proprietary and hosted in a private repository. This public repo is dedicated solely to support, feedback, and community discussion.
+> **Note:** Fergusware covers all AI service costs for Loreweaver. You will not incur any additional AI fees when using this module.
+
+> **Note:** Loreweaver is run as a hosted service on Amazon Web Services. The Loreweaver codebase is proprietary and hosted in a private repository. This public repo is dedicated solely to support, feedback, and community discussion.
 
 See our current [Feature List](./FEATURES.md) and upcoming [Development Roadmap](./ROADMAP.md)!
 
