@@ -42,3 +42,7 @@ By keeping support and feature tracking transparent, everyone in the Loreweaver 
    - **For feature requests**: Describe what you’d like to see, why it would be helpful, and any example use cases.  
    - **For support questions**: Explain what you’re trying to do, what you’ve tried so far, and where you’re stuck.  
 5. Click **Submit new issue**.
+
+# Acknowledgements
+
+Pathfinder is a registered trademark of Paizo Inc. All rights reserved.
