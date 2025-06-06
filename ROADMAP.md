@@ -8,3 +8,4 @@ The following features are planned for upcoming releases:
 - **Support for additional DC types and targets**  
 - **Improved formatting of Reactions**  
 - **Improved GUI with configurable folder locations**
+- **Support for additional game systems through our modular pipeline architecture**
