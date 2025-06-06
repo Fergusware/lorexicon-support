@@ -47,5 +47,5 @@ By keeping support and feature tracking transparent, everyone in the Loreweaver 
 This module requires a licensed copy of Foundry Virtual Tabletop to run.
 
 # Trademarks and Copyright  
-Pathfinder® is a registered trademark of Paizo Inc. All rights reserved.  
+Pathfinder® is a registered trademark of Paizo Inc. All rights reserved. See [Paizo Licenses](https://paizo.com/licenses) for full license terms.   
 Foundry Virtual Tabletop © 2025 Foundry Gaming, LLC. All rights reserved. Refer to [Foundry Virtual Tabletop End User License Agreement](https://foundryvtt.com/article/license/) for full license terms.  
