@@ -23,6 +23,8 @@ See our current [Feature List](./FEATURES.md) and upcoming [Development Roadmap]
 
 You can find us on [Discord](https://discord.gg/7HqVGQ7vnR)!
 
+More questions? Please read our [FAQ](./FAQ.md)!
+
 ## Purpose of This Repository
 
 This repository exists to centralize everything related to:
