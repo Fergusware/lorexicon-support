@@ -1,24 +1,42 @@
-# Loreweaver’s Gamemaster’s FAQ*
+# Loreweaver’s Gamemaster’s FAQ
 
 *Sharpen your quill, brave traveler—here lie the answers to your most pressing inquiries, seasoned with a dash of humor and a pinch of RPG flair.*
 
 ---
 
-### **Q: Am I charged if my job fails?**
+### **Q: How do monthly creation limits work?**
 
-**A:** Never! If your spell fizzles or your rogue trips the trap, you won’t lose any gold—or credits, in this case. You can always inspect your current usage with the `/lw-usage` command, as easily as checking your hit points before diving into a dungeon.
+**A:** Each tier grants you a number of creations per month (tracked by your account). You can spend these on generating creatures, NPCs, images, and other wondrous things through Loreweaver.
+
+If your job fails, you’re never charged.
+
+If you simply don’t like a result, it still counts — but if something goes truly awry or you have recurring issues, just reach out to [Support](https://github.com/Fergusware/loreweaver-support) and we'll help.
+
+Unused creations do not roll over from month to month (the Guild’s magic resets with each new moon).
+
+Think of it like spell slots — plan your casting wisely!
 
 ---
 
-### **Q: Am I charged if I don’t like the result?**
+### **Q: So just to be clear, I am *not* charged if my job fails?**
 
-**A:** Alas, yes—you still expend your credit as if you’d looted a +1 sword. If this happens more often than a kobold ambush, please post a message on our [Tavern Notice Board](https://github.com/Fergusware/loreweaver-support).
+**A:** Never! If your spell fizzles or your rogue trips the trap, you won’t lose any gold—or credits, in this case. You can always inspect your current usage with the `/lw-usage` command, as easily as checking your hit points before diving into a dungeon.
 
 ---
 
 ### **Q: What information do you collect on me?**
 
 **A:** Virtually nothing beyond your Patreon userId (a public numeric identifier) and your subscriber tier. No secret scrolls, no soul-binding rituals—just enough to know who you are and what benefits you’ve unlocked.
+
+---
+
+### **Q: Do you have access to my payment information?**
+
+**A:** Perish the thought, brave patron! The Loreweaver’s Guild is bound by ancient oaths (and modern privacy practices). We do not, cannot, and shall not gaze upon your coinpurse. Any payment details you entrust to the shadowy vaults of Patreon remain solely within their keeping.
+
+Our records know but two things: your valiant Patreon user ID and your Guild rank (tier). That is all we require to grant you access to the magical creation forges.
+
+Spend freely, but fear not — no rogue hands here shall rifle your pouch!
 
 ---
 
