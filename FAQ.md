@@ -24,9 +24,16 @@ Think of it like spell slots — plan your casting wisely!
 
 ---
 
-### **Q: What information do you collect on me?**
+### **Q: What does the Guild know of me?**
 
-**A:** Virtually nothing beyond your Patreon userId (a public numeric identifier) and your subscriber tier. No secret scrolls, no soul-binding rituals—just enough to know who you are and what benefits you’ve unlocked.
+**A:** Little indeed, adventurer. We collect only:
+
+- Your Patreon user ID (a numeric identifier)
+- Your Guild rank (Patreon tier)
+
+That is all we require to open the gates of creation to you. We do not track your email, name, location, or browsing habits (nor, if we're being honest, would we desire to do so).
+
+*"A wise mage keeps no more records than they can defend."*
 
 ---
 
@@ -92,6 +99,14 @@ As for refunds: the Guild is but a humble creator of tools, not a merchant of wa
 ### **Q: Where did you get the idea for Loreweaver?**
 
 **A:** Funny you ask! It all began as a brainstorming session with ChatGPT, trying to imagine how AI could level-up tabletop adventures. And thus, Loreweaver was born!
+
+---
+
+### **Still have questions?**
+
+If any mysteries remain, do not hesitate to send a missive! Our [Support Page](https://github.com/Fergusware/loreweaver-support) is always open.
+
+The Guild's scribes will respond as swiftly as mortal limits allow (summoning a reply scroll takes time and we are few in number — we thank you for your patience).
 
 ---
 
