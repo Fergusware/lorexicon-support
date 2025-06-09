@@ -40,6 +40,18 @@ Spend freely, but fear not — no rogue hands here shall rifle your pouch!
 
 ---
 
+### **Q: What happens if my payment fails? Or if I change tiers?**
+
+**A:** Fear not — the Loreweaver's magic is flexible.
+
+If your payment fails, your access to the Guild's forges will pause, but no penalties shall befall you. Should the issue be resolved, your access returns as swiftly as a recalled familiar.
+
+If you change tiers, your quota shall adjust immediately. No rituals required.
+
+As for refunds: the Guild is but a humble creator of tools, not a merchant of wares. Please consult the wise scribes of Patreon if you seek a refund, as we cannot process them directly.
+
+---
+
 ### **Q: Why do I have to log into Patreon? I don’t have to do that for other modules!**
 
 **A:** Great question, noble friend. Most modules live entirely on your local map; they never leave your screen. Loreweaver, however, uses both client and server—to authenticate you via Patreon, track your monthly guild dues, and securely invoke our AI for you. That extra login is our way of ensuring you’re truly the hero you claim to be.
