@@ -59,9 +59,21 @@ As for refunds: the Guild is but a humble creator of tools, not a merchant of wa
 
 ---
 
-### **Q: Why do I have to log into Patreon? I don’t have to do that for other modules!**
+### **Q: Why do I have to log into Patreon? I don’t have to do that for other premium modules! I just link Foundry to Patreon and install them.**
 
 **A:** Great question, noble friend. Most modules live entirely on your local map; they never leave your screen. Loreweaver, however, uses both client and server—to authenticate you via Patreon, track your monthly guild dues, and securely invoke our AI for you. That extra login is our way of ensuring you’re truly the hero you claim to be.
+
+---
+
+### **Q: How do I get Free Tier access? Do I need to click "Follow"?**
+
+No arcane rituals required! To gain Free Tier access (3 creations per month), simply log in with your Patreon account through the Loreweaver site or tool.
+
+If you are an active paying patron, you'll receive the benefits of your Guild rank (tier).
+
+If you are not an active patron, you’ll be treated as a Free Tier user — whether or not you’ve clicked "Follow" on our page.
+
+That said — clicking Follow is encouraged! It lets you stay updated on new features and announcements, and helps support the Guild. But it is not required to access the Free Tier.
 
 ---
 
