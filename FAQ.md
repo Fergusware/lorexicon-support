@@ -1,138 +1,120 @@
 # Loreweaver’s Gamemaster’s FAQ
 
-*Sharpen your quill, brave traveler—here lie the answers to your most pressing inquiries, seasoned with a dash of humor and a pinch of RPG flair.*
+*Sharpen your quill, brave traveler —- here lie the answers to your most pressing inquiries, seasoned with a dash of humor and a pinch of RPG flair.*
 
 ---
+
+## 📜 Quotas & Usage
 
 ### **Q: How do monthly creation limits work?**
 
-**A:** Each tier grants you a number of creations per month (tracked by your account). You can spend these on generating creatures, NPCs, images, and other wondrous things through Loreweaver.
+Each tier grants you a number of creations per month (tracked by your account). You can spend these on generating creatures, NPCs, images, and other wondrous things through Loreweaver.
 
-If your job fails, you’re never charged.
-
-If you simply don’t like a result, it still counts — but if something goes truly awry or you have recurring issues, just reach out to [Support](https://github.com/Fergusware/loreweaver-support) and we'll help.
-
-Unused creations do not roll over from month to month (the Guild’s magic resets with each new moon).
-
-Think of it like spell slots — plan your casting wisely!
-
----
+* If your job fails, you’re never charged.
+* If you simply don’t like a result, it still counts — but if something goes truly awry or you have recurring issues, just reach out to [Support](https://github.com/Fergusware/loreweaver-support) and we’ll help.
+* Unused creations do not roll over—when the new moon rises, your spell slots reset.
+  Think of it like spell slots—plan your casting wisely!
 
 ### **Q: So just to be clear, I am *not* charged if my job fails?**
 
-**A:** Never! If your spell fizzles or your rogue trips the trap, you won’t lose any gold—or credits, in this case. You can always inspect your current usage with the `/lw-usage` command, as easily as checking your hit points before diving into a dungeon.
+Never! If your spell fizzles or your rogue trips the trap, you won’t lose any gold -- or credits, in this case. Your usage is always displayed for you on-screen, as easily as checking your hit points before diving into a dungeon.
+
+### **Q: What happens if I cancel a job?**
+
+Canceling a job before it completes does **not** deduct from your monthly quota—think of it as calling off the ritual before the final incantation. Your resources remain intact, and you can try again immediately.
+*However*, if cancellations become frequent enough to resemble mischief (dozens of aborted runs in rapid succession), the Guild of Loreweavers reserves the right to intercede and guard against abuse.
 
 ---
 
-### **Q: What happens if I cancel a job? I bet a canceled job counts against my quota.**
-
-**A:** Canceling a job before it completes does not deduct from your monthly quota—think of it as calling off the ritual before the final incantation. Your resources remain intact, and you can try again immediately.
-However, if cancellations become frequent enough to resemble mischief (e.g. dozens of aborted runs in rapid succession), the Guild of Loreweavers reserves the right to intercede and guard against abuse. Tempting fate on an aborted ritual too many times can have undesired side-effects.
-
----
+## 🛠️ Customization & Content
 
 ### **Q: Why do the creations have so many abilities? It seems like too many.**
 
-**A:** We’ve deliberately over-provisioned each Actor with a generous suite of talents —- imagine gifting your adventurers a well-stocked armory rather than a single blade. This abundance ensures you, the GM, can cherry-pick the most evocative abilities to fit your story, rather than being constrained by a bare-bones template. Think of it as choice over scarcity: you’ll never wish you had more options when crafting the perfect encounter. _If you prefer a leaner build, simply remove or ignore the extras —- your game, your rules._
+We’ve deliberately over-provisioned each Actor with a generous suite of talents—imagine gifting your adventurers a well-stocked armory rather than a single blade. This abundance ensures you, the GM, can cherry-pick the most evocative abilities to fit your story, rather than being constrained by a bare-bones template. Think of it as choice over scarcity: you’ll never wish you had more options when crafting the perfect encounter.
+*If you prefer a leaner build, simply remove or ignore the extras—your game, your rules.*
 
 ---
+
+## 🔒 Privacy & Security
 
 ### **Q: What does the Guild know of me?**
 
-**A:** Little indeed, adventurer. We collect only:
+Little indeed, adventurer. We collect only:
 
-- Your Patreon user ID (a numeric identifier)
-- Your Guild rank (Patreon tier)
+* Your Patreon user ID (a numeric identifier)
+* Your Guild rank (Patreon tier)
+  That is all we require to open the gates of creation to you. We do not track your email, name, location, or browsing habits.
 
-That is all we require to open the gates of creation to you. We do not track your email, name, location, or browsing habits (nor, if we're being honest, would we desire to do so).
-
-*"A wise mage keeps no more records than they can defend."*
-
----
+> “A wise mage keeps no more records than they can defend.”
 
 ### **Q: Do you have access to my payment information?**
 
-**A:** Perish the thought, brave patron! The Loreweaver’s Guild is bound by ancient oaths (and modern privacy practices). We do not, cannot, and shall not gaze upon your coinpurse. Any payment details you entrust to the shadowy vaults of Patreon remain solely within their keeping.
-
-Our records know but two things: your valiant Patreon user ID and your Guild rank (tier). That is all we require to grant you access to the magical creation forges.
-
-Spend freely, but fear not — no rogue hands here shall rifle your pouch!
+Perish the thought! The Loreweaver’s Guild is bound by ancient oaths (and modern privacy practices). We do not, cannot, and shall not gaze upon your coinpurse. Any payment details you entrust to Patreon remain solely within their keeping.
 
 ---
+
+## 💰 Billing & Tiers
 
 ### **Q: What happens if my payment fails? Or if I change tiers?**
 
-**A:** Fear not — the Loreweaver's magic is flexible.
+Fear not -- the Loreweaver’s magic is flexible.
 
-If your payment fails, your access to the Guild's forges will pause, but no penalties shall befall you. Should the issue be resolved, your access returns as swiftly as a recalled familiar.
+* If your payment fails, your access to the Guild’s forges will pause, but no penalties shall befall you.
+* If you resolve the issue, access returns as swiftly as a recalled familiar.
+* If you change tiers, your quota will adjust within the hour -- no rituals required.
+  For refunds, please consult Patreon’s scribes; we cannot issue them ourselves.
 
-If you change tiers, your quota shall adjust immediately. No rituals required.
+### **Q: Why do I have to log into Patreon?**
 
-As for refunds: the Guild is but a humble creator of tools, not a merchant of wares. Please consult the wise scribes of Patreon if you seek a refund, as we cannot process them directly.
+Great question! Most modules live entirely on your local map; they never leave your screen. Loreweaver, however, uses both client and server —- to authenticate you via Patreon, track your monthly guild dues, and securely invoke our AI for you. That extra login ensures you’re truly the hero you claim to be.
 
----
+### **Q: How do I get Free Tier access? Do I need to click “Follow”?**
 
-### **Q: Why do I have to log into Patreon? I don’t have to do that for other premium modules! I just link Foundry to Patreon and install them.**
+No arcane rituals required! To gain Free Tier access (3 creations per month), simply log in with your Patreon account. If you’re an active patron, you’ll receive your Guild rank benefits automatically. Clicking “Follow” is encouraged for announcements, but it’s not required for Free Tier access.
 
-**A:** Great question, noble friend. Most modules live entirely on your local map; they never leave your screen. Loreweaver, however, uses both client and server—to authenticate you via Patreon, track your monthly guild dues, and securely invoke our AI for you. That extra login is our way of ensuring you’re truly the hero you claim to be.
-
----
-
-### **Q: How do I get Free Tier access? Do I need to click "Follow"?**
-
-No arcane rituals required! To gain Free Tier access (3 creations per month), simply log in with your Patreon account through the Loreweaver site or tool.
-
-If you are an active paying patron, you'll receive the benefits of your Guild rank (tier).
-
-If you are not an active patron, you’ll be treated as a Free Tier user — whether or not you’ve clicked "Follow" on our page.
-
-That said — clicking Follow is encouraged! It lets you stay updated on new features and announcements, and helps support the Guild. But it is not required to access the Free Tier.
+_Note: The Guild reserves the right to alter or remove Free Tier quotas at any time._
 
 ---
+
+## 🤖 Technical & Models
 
 ### **Q: What AI service do you use?**
 
-**A:** We currently summon the power of OpenAI's arcane engines. We're also perusing tomes on Anthropic and Gemini, and may grant you choice of familiars (AI providers) in the near future.
-
----
+We currently summon the power of OpenAI’s arcane engines. We’re also perusing tomes on Anthropic and Gemini and may grant you the choice of familiars (AI providers) in the near future.
 
 ### **Q: What model do you use?**
 
-**A:** By default, the lean-and-mean **gpt-4o-mini**—balanced to keep costs down while still conjuring clever results. Higher-end models may be available as premium guild upgrades soon.
-
----
+By default, the lean-and-mean **gpt-4o-mini**, balanced to keep costs down while still conjuring clever results. Higher-end models may become available as premium Guild upgrades soon.
 
 ### **Q: Can I bring my own API key?**
 
-**A:** We're deliberating that option at the council table. If lowering your personal cost is a quest you'd embark on, your feedback will help us decide!
+We’re deliberating that option at the council table. If lowering your personal cost is a quest you’d embark on, your feedback will help us decide!
 
 ---
+
+## 🗄️ Retention & Recovery
 
 ### **Q: How long do you retain my creations?**
 
-**A:** Your job history (the quest log) lives forever in our archives, while the actual assets (the magic items--JSON and images--you craft) remain in our vault for **90 days** before we gently release them back into the wild. No JPEGs are ever harmed by our servers.
+Your quest log (or job history) lives forever in our archives, while the conjurations (JSON and images) remain in our vault for **90 days** before we gently release them back into the wild.
+
+### **Q: I accidentally deleted my creation. Can I get it back?**
+
+Not automatically (yet), but our support scribes can assist. Visit our [Support Page](https://github.com/Fergusware/loreweaver-support) and we'll help recover your lost treasure.
 
 ---
 
-### **Q: I accidentally deleted my creation—can I get it back?**
-
-**A:** Not automatically (yet), but our support scribes can assist. Send a carrier pigeon—or better yet, visit our [Support Page](https://github.com/Fergusware/loreweaver-support)—and we’ll assist in recovering your lost treasure:
-[https://github.com/Fergusware/loreweaver-support]
-
----
+## 🎓 Lore & Origins
 
 ### **Q: Where did you get the idea for Loreweaver?**
 
-**A:** Funny you ask! It all began as a brainstorming session with ChatGPT, trying to imagine how AI could level-up tabletop adventures. And thus, Loreweaver was born!
+Funny you ask! It all began as a brainstorming session with ChatGPT, imagining how AI could level-up tabletop adventures. And thus, Loreweaver was born!
 
 ---
 
-### **Still have questions?**
+## ❓ Still have questions?
 
-If any mysteries remain, do not hesitate to send a missive! Our [Support Page](https://github.com/Fergusware/loreweaver-support) is always open.
-
-The Guild's scribes will respond as swiftly as mortal limits allow (summoning a reply scroll takes time and we are few in number — we thank you for your patience).
-
----
+If any mysteries remain, do not hesitate to send a missive! Our [Support Page](https://github.com/Fergusware/loreweaver-support) is always open as is our [Discord](https://discord.gg/7HqVGQ7vnR).
+The Guild’s scribes will respond as swiftly as mortal limits allow—thank you for your patience.
 
 *May your rolls be high and your creativity boundless!*
