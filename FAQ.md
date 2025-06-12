@@ -31,6 +31,12 @@ However, if cancellations become frequent enough to resemble mischief (e.g. doze
 
 ---
 
+### **Q: Why do the creations have so many abilities? It seems like too many.**
+
+**A:** We’ve deliberately over-provisioned each Actor with a generous suite of talents—imagine gifting your adventurers a well-stocked armory rather than a single blade. This abundance ensures you, the GM, can cherry-pick the most evocative abilities to fit your story, rather than being constrained by a bare-bones template. Think of it as choice over scarcity: you’ll never wish you had more options when crafting the perfect encounter. _If you prefer a leaner build, simply remove or ignore the extras —- your game, your rules._
+
+---
+
 ### **Q: What does the Guild know of me?**
 
 **A:** Little indeed, adventurer. We collect only:
