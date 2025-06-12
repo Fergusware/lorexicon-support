@@ -24,6 +24,13 @@ Think of it like spell slots — plan your casting wisely!
 
 ---
 
+### **Q: What happens if I cancel a job? I bet a canceled job counts against my quota.**
+
+**A:** Canceling a job before it completes does not deduct from your monthly quota—think of it as calling off the ritual before the final incantation. Your resources remain intact, and you can try again immediately.
+However, if cancellations become frequent enough to resemble mischief (e.g. dozens of aborted runs in rapid succession), the Guild of Loreweavers reserves the right to intercede and guard against abuse. Tempting fate on an aborted ritual too many times can have undesired side-effects.
+
+---
+
 ### **Q: What does the Guild know of me?**
 
 **A:** Little indeed, adventurer. We collect only:
