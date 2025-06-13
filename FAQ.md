@@ -19,6 +19,10 @@
 
 **A:** Never! If your spell fizzles or your rogue trips the trap, you won’t lose any gold -- or credits, in this case. Your usage is always displayed for you on-screen, as easily as checking your hit points before diving into a dungeon.
 
+### **Q: Why _do_ some jobs fail?**
+
+**A:** Even the most seasoned wizards can hit a stubborn spell, and our AI is no exception. Occasionally it simply refuses to cooperate -- tricks of the arcane, we suppose. When that happens, we beg your pardon and humbly ask you to submit again. Know that with each hiccup, we’re probing its hidden runes and teaching it new lessons, so the next summoning has an ever-better chance of success.
+
 ### **Q: What happens if I cancel a job?**
 
 **A:** Canceling a job before it completes does **not** deduct from your monthly quota—think of it as calling off the ritual before the final incantation. Your resources remain intact, and you can try again immediately. *However*, if cancellations become frequent enough to resemble mischief (dozens of aborted runs in rapid succession), the Guild of Loreweavers reserves the right to intercede and guard against abuse.
