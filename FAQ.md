@@ -43,6 +43,8 @@
 * Your Guild rank (Patreon tier)
   That is all we require to open the gates of creation to you. We do not track your email, name, location, or browsing habits.
 
+Should you wish to sever your ties with the Guild, just click the little chain-breaker icon next to your Patreon login. Your account will be unlinked instantly—no questions asked, no lingering enchantments.
+
 > “A wise mage keeps no more records than they can defend.”
 
 ### **Q: Do you have access to my payment information?**
