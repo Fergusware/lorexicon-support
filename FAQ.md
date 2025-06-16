@@ -1,4 +1,4 @@
-# Loreweaver’s Gamemaster’s FAQ
+# Lorexicon’s Gamemaster’s FAQ
 
 *Sharpen your quill, brave traveler —- here lie the answers to your most pressing inquiries, seasoned with a dash of humor and a pinch of RPG flair.*
 
@@ -8,7 +8,7 @@
 
 ### **Q: How do monthly creation limits work?**
 
-**A:** Each tier grants you a number of creations per month (tracked by your account). You can spend these on generating creatures, NPCs, images, and other wondrous things through Loreweaver.
+**A:** Each tier grants you a number of creations per month (tracked by your account). You can spend these on generating creatures, NPCs, images, and other wondrous things through Lorexicon.
 
 * If your job fails, you’re never charged.
 * If you simply don’t like a result, it still counts — but if something goes truly awry or you have recurring issues, just reach out to [Support](https://github.com/Fergusware/loreweaver-support) and we’ll help.
@@ -25,7 +25,7 @@
 
 ### **Q: What happens if I cancel a job?**
 
-**A:** Canceling a job before it completes does **not** deduct from your monthly quota—think of it as calling off the ritual before the final incantation. Your resources remain intact, and you can try again immediately. *However*, if cancellations become frequent enough to resemble mischief (dozens of aborted runs in rapid succession), the Guild of Loreweavers reserves the right to intercede and guard against abuse.
+**A:** Canceling a job before it completes does **not** deduct from your monthly quota—think of it as calling off the ritual before the final incantation. Your resources remain intact, and you can try again immediately. *However*, if cancellations become frequent enough to resemble mischief (dozens of aborted runs in rapid succession), the Lorexicon Guild reserves the right to intercede and guard against abuse.
 
 ---
 
@@ -53,7 +53,7 @@ Should you wish to sever your ties with the Guild, just click the little chain-b
 
 ### **Q: Do you have access to my payment information?**
 
-**A:** Perish the thought! The Loreweaver’s Guild is bound by ancient oaths (and modern privacy practices). We do not, cannot, and shall not gaze upon your coinpurse. Any payment details you entrust to Patreon remain solely within their keeping.
+**A:** Perish the thought! The Lorexicon's Guild is bound by ancient oaths (and modern privacy practices). We do not, cannot, and shall not gaze upon your coinpurse. Any payment details you entrust to Patreon remain solely within their keeping.
 
 ---
 
@@ -61,7 +61,7 @@ Should you wish to sever your ties with the Guild, just click the little chain-b
 
 ### **Q: What happens if my payment fails? Or if I change tiers?**
 
-**A:** Fear not -- the Loreweaver’s magic is flexible.
+**A:** Fear not -- the Loreicon's magic is flexible.
 
 * If your payment fails, your access to the Guild’s forges will pause, but no penalties shall befall you.
 * If you resolve the issue, access returns as swiftly as a recalled familiar.
@@ -70,7 +70,7 @@ Should you wish to sever your ties with the Guild, just click the little chain-b
 
 ### **Q: Why do I have to log into Patreon?**
 
-**A:** Great question! Most modules live entirely on your local map; they never leave your screen. Loreweaver, however, uses both client and server —- to authenticate you via Patreon, track your monthly guild dues, and securely invoke our AI for you. That extra login ensures you’re truly the hero you claim to be.
+**A:** Great question! Most modules live entirely on your local map; they never leave your screen. Lorexicon, however, uses both client and server —- to authenticate you via Patreon, track your monthly guild dues, and securely invoke our AI for you. That extra login ensures you’re truly the hero you claim to be.
 
 ### **Q: How do I get Free Tier access? Do I need to click “Follow”?**
 
@@ -104,21 +104,21 @@ _Note: The Guild reserves the right to alter or remove Free Tier quotas at any t
 
 ### **Q: I accidentally deleted my creation. Can I get it back?**
 
-**A:** Not automatically (yet), but our support scribes can assist. Visit our [Support Page](https://github.com/Fergusware/loreweaver-support) and we'll help recover your lost treasure.
+**A:** Not automatically (yet), but our support scribes can assist. Visit our [Support Page](https://github.com/Fergusware/lorexicon-support) and we'll help recover your lost treasure.
 
 ---
 
 ## 🎓 Lore & Origins
 
-### **Q: Where did you get the idea for Loreweaver?**
+### **Q: Where did you get the idea for Lorexicon?**
 
-**A:** Funny you ask! It all began as a brainstorming session with ChatGPT, imagining how AI could level-up tabletop adventures. And thus, Loreweaver was born!
+**A:** Funny you ask! It all began as a brainstorming session with ChatGPT, imagining how AI could level-up tabletop adventures. And thus, Lorexicon was born!
 
 ---
 
 ## ❓ Still have questions?
 
-If any mysteries remain, do not hesitate to send a missive! Our [Support Page](https://github.com/Fergusware/loreweaver-support) is always open as is our [Discord](https://discord.gg/7HqVGQ7vnR).
+If any mysteries remain, do not hesitate to send a missive! Our [Support Page](https://github.com/Fergusware/lorexicon-support) is always open as is our [Discord](https://discord.gg/7HqVGQ7vnR).
 The Guild’s scribes will respond as swiftly as mortal limits allow—thank you for your patience.
 
 *May your rolls be high and your creativity boundless!*
