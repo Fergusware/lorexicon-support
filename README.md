@@ -1,23 +1,23 @@
 ![Fergusware Banner](./images/fergusware-banner-3.png)
 
-# Loreweaver Support
+# Lorexicon Support
 
-_A public space for feature requests and support questions for Loreweaver._
+_A public space for feature requests and support questions for Lorexicon._
 
 ## Project Overview
 
-Loreweaver is an AI-powered companion module for Foundry VTT. Currently it is designed specifically for Pathfinder 2e Remaster. With Loreweaver, you can:
+Lorexicon is an AI-powered companion module for Foundry VTT. Currently it is designed specifically for Pathfinder 2e Remaster. With Lorexicon, you can:
 
 - Generate Pathfinder 2e Remaster stat blocks on the fly  
 - Conjure custom creatures and NPCs as Actors  
 - (Coming Soon!) Create immersive scene descriptions and artwork directly in the Journal  
 - Produce token art and portraits without leaving Foundry  
 
-Loreweaver integrates seamlessly into your GM toolkit so you spend less time on menus and more time telling your story.
+Lorexicon integrates seamlessly into your GM toolkit so you spend less time on menus and more time telling your story.
 
-**Fergusware covers all AI service costs** for Loreweaver through [Patreon](https://www.patreon.com/c/fergusware/about) memberships. You will not incur any additional AI fees when using this module.  _An AI API key is NOT required to use Loreweaver._  
+**Fergusware covers all AI service costs** for Lorexicon through [Patreon](https://www.patreon.com/c/fergusware/about) memberships. You will not incur any additional AI fees when using this module.  _An AI API key is NOT required to use Lorexicon._  
 
-> **Note:** Loreweaver is run as a hosted service on Amazon Web Services. The Loreweaver codebase is proprietary and hosted in a private repository. This public repo is dedicated solely to support, feedback, and community discussion.
+> **Note:** Lorexicon is run as a hosted service on Amazon Web Services. The Lorexicon codebase is proprietary and hosted in a private repository. This public repo is dedicated solely to support, feedback, and community discussion.
 
 See our current [Feature List](./FEATURES.md) and upcoming [Development Roadmap](./ROADMAP.md)!  
 
@@ -30,15 +30,15 @@ More questions? Please read our [FAQ](./FAQ.md)!
 This repository exists to centralize everything related to:
 
 - **Feature Requests**  
-  Have an idea for an enhancement or a new AI-driven tool within Loreweaver? Let us know here.
+  Have an idea for an enhancement or a new AI-driven tool within Lorexicon? Let us know here.
 
 - **Support Questions**  
   General usage questions, troubleshooting help, or configuration guidance—ask them through Issues and we’ll respond.
 
 - **Bug Reports**  
-  If you encounter unexpected behavior, crashes, or errors when using Loreweaver, file a new issue describing the problem.
+  If you encounter unexpected behavior, crashes, or errors when using Lorexicon, file a new issue describing the problem.
 
-By keeping support and feature tracking transparent, everyone in the Loreweaver community can see what’s in progress, upvote requests, and follow along with fixes and enhancements.
+By keeping support and feature tracking transparent, everyone in the Lorexicon community can see what’s in progress, upvote requests, and follow along with fixes and enhancements.
 
 ## How to File an Issue
 
@@ -46,7 +46,7 @@ By keeping support and feature tracking transparent, everyone in the Loreweaver 
 2. Choose **New issue**.  
 3. Give your issue a clear title.  
 4. In the description, be as detailed as possible:
-   - **For bugs**: Include your Foundry version, Loreweaver version, steps to reproduce, and any error messages or screenshots.  
+   - **For bugs**: Include your Foundry version, Lorexicon version, steps to reproduce, and any error messages or screenshots.  
    - **For feature requests**: Describe what you’d like to see, why it would be helpful, and any example use cases.  
    - **For support questions**: Explain what you’re trying to do, what you’ve tried so far, and where you’re stuck.  
 5. Click **Submit new issue**.
