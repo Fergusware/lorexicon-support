@@ -3,10 +3,10 @@
 **Effective Date:** June 6, 2025
 
 ## 1. Acceptance of Terms  
-By installing or using the “Loreweaver” Foundry VTT module (the “Service”), you (“User”) agree to these terms.
+By installing or using the "Lorexicon" Foundry VTT module (the “Service”), you (“User”) agree to these terms.
 
 ## 2. Definitions  
-- **Service**: The Loreweaver module, documentation, and any updates.  
+- **Service**: The Lorexicon module, documentation, and any updates.  
 - **User**: Any person or entity that installs, runs, or accesses the Service.
 
 ## 3. License Grant  
