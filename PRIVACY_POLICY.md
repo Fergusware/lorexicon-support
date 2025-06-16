@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-"By my honor as a Loreweaver, I swear it to be true."
+"By my honor as a wielder of the Lorexicon, I swear it to be true."
 
 We collect no personal information beyond that which the Patreon system provides: your Patreon user ID (a number visible to you) and your current Guild rank (tier). We do not seek your true name, the location of your secret tower, nor the contents of your vault.
 
