@@ -1,6 +1,6 @@
 # Features
 
-Loreweaver currently offers the following features:
+Lorexicon currently offers the following features:
 
 - **Automatic Actor creation with embedded automation links**  
   All Actors are created automatically, complete with linked rolls for templates, damage, defense rolls, flat checks, perception checks, and skill checks. All markup follows the PF2e module's [Style Guide](https://github.com/foundryvtt/pf2e/wiki/Style-Guide).
