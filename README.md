@@ -21,7 +21,7 @@ Lorexicon integrates seamlessly into your GM toolkit so you spend less time on m
 
 See our current [Feature List](./FEATURES.md) and upcoming [Development Roadmap](./ROADMAP.md)!  
 
-You can find us on [Discord](https://discord.gg/7HqVGQ7vnR)!
+You can find us on [Discord](https://discord.gg/Xb6FHpPdpF)!
 
 More questions? Please read our [FAQ](./FAQ.md)!
 
