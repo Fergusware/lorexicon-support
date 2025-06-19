@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Seraphine
+carousel: true
 ---
 
 <div class="swiper" style="width:100%;max-width:600px;margin:2rem auto;">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <img src="/images/seraphine/02-prompt.png" alt="Stats panel" style="width:100%">
+      <img src="../images/seraphine/02-prompt.png" alt="Stats panel" style="width:100%">
     </div>
     <div class="swiper-slide">
-      <img src="/images/seraphine/04-progress.png" alt="Attacks panel" style="width:100%">
+      <img src="../images/seraphine/04-progress.png" alt="Attacks panel" style="width:100%">
     </div>
     <div class="swiper-slide">
-      <img src="/images/seraphine/05-complete.png" alt="Notes panel" style="width:100%">
+      <img src="../images/seraphine/05-complete.png" alt="Notes panel" style="width:100%">
     </div>
     <!-- add more .swiper-slide blocks as needed -->
   </div>
