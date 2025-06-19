@@ -14,7 +14,7 @@
 
 ### **Q: That name, tho...**
 
-“Aye, it's incanted as 'low-REX-ih-KAHN.' Slice together **Lore** and **Lexicon**, and you’ve bound a 'dictionary of lore' —- the perfect grimoire for your Foundry. Truth be told, we tried a few dozen other arcane titles, but every worthy name was already claimed by other wizards. So we settled on Lorexicon: a unique fusion worthy of its magic.
+**A:** Aye, it's incanted as 'low-REX-ih-KAHN.' Slice together **Lore** and **Lexicon**, and you’ve bound a 'dictionary of lore' —- the perfect grimoire for your Foundry. Truth be told, we tried a few dozen other arcane titles, but every worthy name was already claimed by other wizards. So we settled on Lorexicon: a unique fusion worthy of its magic.
 
 ---
 
