@@ -1,4 +1,4 @@
-# Welcome to the Lorexicon Support Wiki!
+# Welcome to Lorexicon Support!
 
 Welcome! This is your one-stop hub for everything you need to get up and running with **Lorexicon**, find answers to common questions, and see where we’re headed next. Browse the sections below to explore our documentation, feature list, FAQ, and roadmap.
 
