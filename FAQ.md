@@ -2,9 +2,23 @@
 
 *Sharpen your quill, brave traveler —- here lie the answers to your most pressing inquiries, seasoned with a dash of humor and a pinch of RPG flair.*
 
+## 📜 General
+
+### **Q: So what does it do, exactly?**
+
+**A:** Lorexicon is your enchanted grimoire, bound to the very heart of Foundry VTT. Whisper a simple phrase—or spin an epic saga—and it will conjure a fully realized Pathfinder 2e Actor before your eyes. With a flick of its arcane quill, it inscribes every stat, every skill check, and every tactic onto the page, perfectly tuned to your chosen level. When the ritual completes, a new creature or NPC springs to life in your “Lorexicon” folder, its stat block gleaming, its portrait summoned, and its tokens ready for battle. No manual import, no tedious adjustments—just pure creation at your command.
+
+### **Q: It creates actors then, using AI?**
+
+**A:** Indeed. Lorexicon channels the arcane currents of artificial intelligence to forge complete Pathfinder 2e Actors at your command. You whisper your prompt, and the AI creates a detailed background and GM notes, then inscribes every stat, skill, and ability... even a portrait -— then Lorexicon binds the finished creation directly into your Foundry world as a fully-formed Actor document, ready to use.
+
+### **Q: That name, tho...**
+
+“Aye, it's incanted as 'low-REX-ih-KAHN.' Slice together **Lore** and **Lexicon**, and you’ve bound a 'dictionary of lore' —- the perfect grimoire for your Foundry. Truth be told, we tried a few dozen other arcane titles, but every worthy name was already claimed by other wizards. So we settled on Lorexicon: a unique fusion worthy of its magic.
+
 ---
 
-## 📜 Quotas & Usage
+## ⏳ Quotas & Usage
 
 ### **Q: How do monthly creation limits work?**
 
