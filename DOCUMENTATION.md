@@ -14,7 +14,7 @@ Before you invoke the Lorexicon’s power, ensure your realm meets these glyphs:
 
 ---
 
-### Chapter II: Summoning the Module
+### Chapter II: Invoking the Module
 
 1. In Foundry’s **Add-on Modules → Install Module**, paste the manifest oracle:
 
@@ -72,7 +72,7 @@ Below the runes, a **Progress Bar** pulses while the forge works its magic (≈1
 
 ---
 
-### Chapter VII: The Birth of Your Actor
+### Chapter VII: The Summoning of Your Actor
 
 When the progress bar runs its course:
 
