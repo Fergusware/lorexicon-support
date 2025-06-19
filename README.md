@@ -30,10 +30,10 @@ More questions? Please read our [FAQ](./FAQ.md)!
 This repository exists to centralize everything related to:
 
 - **Feature Requests**  
-  Have an idea for an enhancement or a new AI-driven tool within Lorexicon? Let us know here.
+  Have an idea for an enhancement or a new AI-driven tool within Lorexicon? Let us know!
 
 - **Support Questions**  
-  General usage questions, troubleshooting help, or configuration guidance—ask them through Issues and we’ll respond.
+  General usage questions, troubleshooting help, or configuration guidance -- ask them through Issues and we'll respond.
 
 - **Bug Reports**  
   If you encounter unexpected behavior, crashes, or errors when using Lorexicon, file a new issue describing the problem.
