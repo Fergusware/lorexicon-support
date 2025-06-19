@@ -8,10 +8,10 @@ _A public space for feature requests and support questions for Lorexicon._
 
 Lorexicon is an AI-powered companion module for Foundry VTT. Currently it is designed specifically for Pathfinder 2e Remaster. With Lorexicon, you can:
 
-- Generate Pathfinder 2e Remaster stat blocks on the fly  
-- Conjure custom creatures and NPCs as Actors  
+- Generate fully formed, immediately usable Pathfinder 2e Remaster Actors on the fly  
+- Conjure either unique NPCs or generic creatures    
+- Produce NPC and creature portraits without leaving Foundry  
 - (Coming Soon!) Create immersive scene descriptions and artwork directly in the Journal  
-- Produce token art and portraits without leaving Foundry  
 
 Lorexicon integrates seamlessly into your GM toolkit so you spend less time on menus and more time telling your story.
 
