@@ -18,28 +18,27 @@
 
 ---
 
-## ⏳ Quotas & Usage
+## 🖋️ The Art of Prompting
 
-### **Q: How do monthly creation limits work?**
+### **Q: How vague or specific should my incantation be?**
 
-**A:** Each tier grants you a number of creations per month (tracked by your account). You can spend these on generating creatures, NPCs, images, and other wondrous things through Lorexicon.
+**A:** Lorexicon delights in the mists of ambiguity. A simple whisper—“A cunning goblin rogue” or “An ancient forest guardian”—can bloom into a tapestry of detail far richer than you might expect. Trust its creativity, and you may find surprises more wondrous than your own design.
 
-* If your job fails, you’re never charged.
-* If you simply don’t like a result, it still counts — but if something goes truly awry or you have recurring issues, just reach out to [Support](https://github.com/Fergusware/loreweaver-support) and we’ll help.
-* Unused creations do not roll over—when the new moon rises, your spell slots reset.
-  Think of it like spell slots—plan your casting wisely!
+### **Q: Will it heed my detailed directives?**
 
-### **Q: So just to be clear, I am *not* charged if my job fails?**
+**A:** In most cases, yes. If you decree “Level 5 fire mage with a staff of ember, Knowledge (Arcana) focus, and Slow (Enchantment) cantrip,” the Lorexicon’s quill will strive to honor each rune. Yet know this: even the most precise spells allow for a spark of improvisation. The AI may embellish or interpret your vision to keep the story alive.
 
-**A:** Never! If your spell fizzles or your rogue trips the trap, you won’t lose any gold -- or credits, in this case. Your usage is always displayed for you on-screen, as easily as checking your hit points before diving into a dungeon.
+### **Q: What if my prompt grows too long or labyrinthine?**
 
-### **Q: Why _do_ some jobs fail?**
+**A:** Lengthy scrolls of instruction can sometimes confound the arcane forge. When the ritual grows over‐elaborate, the AI may wend its own path, weaving in unexpected threads. For best results, strike a balance—focus on the essentials, then let Lorexicon fill the tapestry’s finer stitches.
 
-**A:** Even the most seasoned wizards can hit a stubborn spell, and our AI is no exception. Occasionally it simply refuses to cooperate -- tricks of the arcane, we suppose. When that happens, we beg your pardon and humbly ask you to submit again. Know that with each hiccup, we’re probing its hidden runes and teaching it new lessons, so the next summoning has an ever-better chance of success.
+### **Q: Can I demand exact abilities, feats, or statistics?**
 
-### **Q: What happens if I cancel a job?**
+**A:** You may petition for them, but know that the Lorexicon’s arcane muse values narrative over pedantic precision. Your specific requests—“give me Sudden Charge and Power Attack”—will often appear, but occasionally the forge substitutes akin talents or adjusts values for balance. Embrace the variance; it breeds freshness in your tales.
 
-**A:** Canceling a job before it completes does **not** deduct from your monthly quota—think of it as calling off the ritual before the final incantation. Your resources remain intact, and you can try again immediately. *However*, if cancellations become frequent enough to resemble mischief (dozens of aborted runs in rapid succession), the Lorexicon Guild reserves the right to intercede and guard against abuse.
+### **Q: How do I master the forge’s creativity?**
+
+**A:** Treat your prompt as an invocation, not a blueprint. Name the soul or theme you desire, hint at its power and purpose, then step back. Lorexicon will sculpt the rest, blending your vision with its own enchanted insights. The result: Actors that feel alive, not just assembled.
 
 ---
 
@@ -72,6 +71,31 @@ Should you wish to sever your ties with the Guild, just click the little chain-b
 ### **Q: Do you have access to my payment information?**
 
 **A:** Perish the thought! The Lorexicon's Guild is bound by ancient oaths (and modern privacy practices). We do not, cannot, and shall not gaze upon your coinpurse. Any payment details you entrust to Patreon remain solely within their keeping.
+
+---
+
+## ⏳ Quotas & Usage
+
+### **Q: How do monthly creation limits work?**
+
+**A:** Each tier grants you a number of creations per month (tracked by your account). You can spend these on generating creatures, NPCs, images, and other wondrous things through Lorexicon.
+
+* If your job fails, you’re never charged.
+* If you simply don’t like a result, it still counts — but if something goes truly awry or you have recurring issues, just reach out to [Support](https://github.com/Fergusware/loreweaver-support) and we’ll help.
+* Unused creations do not roll over—when the new moon rises, your spell slots reset.
+  Think of it like spell slots—plan your casting wisely!
+
+### **Q: So just to be clear, I am *not* charged if my job fails?**
+
+**A:** Never! If your spell fizzles or your rogue trips the trap, you won’t lose any gold -- or credits, in this case. Your usage is always displayed for you on-screen, as easily as checking your hit points before diving into a dungeon.
+
+### **Q: Why _do_ some jobs fail?**
+
+**A:** Even the most seasoned wizards can hit a stubborn spell, and our AI is no exception. Occasionally it simply refuses to cooperate -- tricks of the arcane, we suppose. When that happens, we beg your pardon and humbly ask you to submit again. Know that with each hiccup, we’re probing its hidden runes and teaching it new lessons, so the next summoning has an ever-better chance of success.
+
+### **Q: What happens if I cancel a job?**
+
+**A:** Canceling a job before it completes does **not** deduct from your monthly quota—think of it as calling off the ritual before the final incantation. Your resources remain intact, and you can try again immediately. *However*, if cancellations become frequent enough to resemble mischief (dozens of aborted runs in rapid succession), the Lorexicon Guild reserves the right to intercede and guard against abuse.
 
 ---
 
