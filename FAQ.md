@@ -4,7 +4,7 @@
 
 ## 📜 General
 
-### **Q: So what does it do, exactly?**
+### **Q: So what does it do?**
 
 **A:** Lorexicon is your enchanted grimoire, bound to the very heart of Foundry VTT. Whisper a simple phrase—or spin an epic saga—and it will conjure a fully realized Pathfinder 2e Actor before your eyes. With a flick of its arcane quill, it inscribes every stat, every skill check, and every tactic onto the page, perfectly tuned to your chosen level. When the ritual completes, a new creature or NPC springs to life in your “Lorexicon” folder, its stat block gleaming, its portrait summoned, and its tokens ready for battle. No manual import, no tedious adjustments—just pure creation at your command.
 
