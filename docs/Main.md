@@ -1,0 +1,35 @@
+# Welcome to the Lorexicon Support Wiki!
+
+Welcome! This is your one-stop hub for everything you need to get up and running with **Lorexicon**, find answers to common questions, and see where we’re headed next. Browse the sections below to explore our documentation, feature list, FAQ, and roadmap.
+
+---
+
+## 🚀 Getting Started
+Your step-by-step guide to installing, configuring, and launching Lorexicon for the first time.  
+[→ Jump to Getting Started](Getting-Started)
+
+---
+
+## 📋 Features
+A high-level overview of all the tools, modules, and capabilities built into Lorexicon.  
+[→ See the full Features list](Features)
+
+---
+
+## ❓ FAQ
+Answers to the most common questions about pricing, usage limits, and how to get the most out of Lorexicon.  
+[→ Read the FAQ](FAQ)
+
+---
+
+## 🛣️ Roadmap
+See what’s coming next: planned enhancements, upcoming releases, and long-term vision for Lorexicon.  
+[→ View our Roadmap](Roadmap)
+
+---
+
+> **Note:** For legal, licensing, or version-specific details, check the  
+> [PRIVACY POLICY](https://github.com/Fergusware/lorexicon-support/blob/main/PRIVACY_POLICY.md),  
+> [CHANGELOG](https://github.com/Fergusware/lorexicon-support/blob/main/CHANGELOG.md),  
+> [LICENSE](https://github.com/Fergusware/lorexicon-support/blob/main/LICENSE), and  
+> [TERMS OF SERVICE](https://github.com/Fergusware/lorexicon-support/blob/main/TERMS_OF_SERVICE.md) files in the main repository.
