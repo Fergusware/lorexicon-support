@@ -12,7 +12,7 @@
 
 **A:** Indeed. Lorexicon channels the arcane currents of artificial intelligence to forge complete Pathfinder 2e Actors at your command. You whisper your prompt, and the AI creates a detailed background and GM notes, then inscribes every stat, skill, and ability... even a portrait -— then Lorexicon binds the finished creation directly into your Foundry world as a fully-formed Actor document, ready to use.
 
-### **Q: What tomes of power does Lorexicon forge for me?**
+### **Q: What detailed runes does Lorexicon inscribe for me?**
 
 **A:** Every spark of creation you invoke, Lorexicon weaves into a fully realized Actor, complete with every rune and detail you could desire:
 
