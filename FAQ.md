@@ -49,6 +49,10 @@
 
 **A:** We’ve deliberately over-provisioned each Actor with a generous suite of talents—imagine gifting your adventurers a well-stocked armory rather than a single blade. This abundance ensures you, the GM, can cherry-pick the most evocative abilities to fit your story, rather than being constrained by a bare-bones template. Think of it as choice over scarcity: you’ll never wish you had more options when crafting the perfect encounter. *If you prefer a leaner build, simply remove or ignore the extras—your game, your rules.*
 
+### **Q: Does Lorexicon understand prompts in languages other than English?**
+
+**A:** Indeed! The Lorexicon’s arcane engine can decipher incantations penned in tongues beyond Common. Yet, for now, its quill faithfully scripts its replies in the Common tongue alone. Fear not -- behind the scenes our scribes have etched the runes for a truly multilingual grimoire. As our patrons’ voices rise, we shall prioritize weaving full localization into both prompts and interface, letting Elven, Dwarven, and other dialects join the chorus of creation. Should you wish to lend your own quill to this grand endeavor of translation, dispatch a raven to our scribes and join the localization guild!
+
 ---
 
 ## 🔒 Privacy & Security
