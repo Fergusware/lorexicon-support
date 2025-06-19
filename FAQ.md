@@ -30,9 +30,7 @@
 
 ### **Q: Where can I view the tiers, prices, and limits?**
 
-**A:** Seek the full slate of offerings on our Patreon page:
-[Patreon.com/Fergusware/Lorexicon](https://www.patreon.com/Fergusware/Lorexicon)
-There you’ll find all the details -- tier names, monthly creation limits, and the gold required to maintain your legendary status.
+**A:** Seek the full slate of offerings on our [Patreon](https://www.patreon.com/Fergusware/Lorexicon) page: There you’ll find all the details -- tier names, monthly creation limits, and the gold required to maintain your legendary status.
 
 *Embark upon your journey with confidence, knowing that whether you walk the path of the free scribe or rise as a grand patron, Lorexicon’s grimoire awaits your command!*
 
