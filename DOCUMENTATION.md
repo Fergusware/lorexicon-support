@@ -1,4 +1,5 @@
-**🪄 The Lorexicon Grimoire of Creation**
+# **🪄 The Lorexicon Grimoire of Creation**
+
 *Your PF2e Foundry VTT Arcane Companion*
 
 ---
@@ -7,9 +8,9 @@
 
 Before you invoke the Lorexicon’s power, ensure your realm meets these glyphs:
 
-* **Foundry VTT**: Version 12.343
-* **Pathfinder 2e Remaster**: System v6.12
-* **Dependencies**: None -— Lorexicon stands alone.
+* **Foundry VTT**: v12.343
+* **Pathfinder 2e Remaster**: v6.12
+* **Dependencies**: None -— Lorexicon stands alone
 
 ---
 
