@@ -12,6 +12,25 @@
 
 **A:** Indeed. Lorexicon channels the arcane currents of artificial intelligence to forge complete Pathfinder 2e Actors at your command. You whisper your prompt, and the AI creates a detailed background and GM notes, then inscribes every stat, skill, and ability... even a portrait -— then Lorexicon binds the finished creation directly into your Foundry world as a fully-formed Actor document, ready to use.
 
+### **Q: What tomes of power does Lorexicon forge for me?**
+
+**A:** Every spark of creation you invoke, Lorexicon weaves into a fully realized Actor, complete with every rune and detail you could desire:
+
+* **Detailed Concept**: A rich backstory and GM notes to bring your creation to life.
+* **Statistics**: Rarity, Size, Traits, Attributes, Hit Points, Speeds, Perception, Initiative, Senses, and Languages.
+* **Defenses**: AC, Fortitude, Reflex, Will -- plus Immunities, Resistances, and Weaknesses.
+* **Skills**: All trained skill modifiers, ready for checks.
+* **Attacks**: Melee and Ranged weapon entries, each with damage formulas and traits.
+* **Actions**:
+
+  * Standard Actions, Reactions, Free Actions, and Passive abilities
+  * Flavor text to enliven each maneuver
+  * Support for Area Effects and Checks (Defense, Flat, Perception, Skill)
+  * Damage rolls with inline, clickable controls -- styled exactly to the [PF2e Style Guide](https://github.com/foundryvtt/pf2e/wiki/Style-Guide).
+* **Portrait Images**: A thematic illustration to grace your token and character sheet.
+
+All of this is conjured in one seamless ritual -- no tedious copy-pasting, no missing details -- so you can focus on the story, not the stat block.
+
 ### **Q: That name, tho...**
 
 **A:** Aye, it's incanted as 'low-REX-ih-KAHN.' Slice together **Lore** and **Lexicon**, and you’ve bound a 'dictionary of lore' —- the perfect grimoire for your Foundry. Truth be told, we tried a few dozen other arcane titles, but every worthy name was already claimed by other wizards. Thus we arrived at Lorexicon: a unique fusion worthy of its magic.
