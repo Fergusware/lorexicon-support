@@ -137,6 +137,6 @@ _Note: The Guild reserves the right to alter or remove Free Tier quotas at any t
 ## ❓ Still have questions?
 
 If any mysteries remain, do not hesitate to send a missive! Our [Support Page](https://github.com/Fergusware/lorexicon-support) is always open as is our [Discord](https://discord.gg/Xb6FHpPdpF).
-The Guild’s scribes will respond as swiftly as mortal limits allow—thank you for your patience.
+The Guild’s scribes will respond as swiftly as mortal limits allow—thank you for your patience. See the [Grimoire of Creation](./DOCUMENTATION.md) for additional information!
 
 *May your rolls be high and your creativity boundless!*
