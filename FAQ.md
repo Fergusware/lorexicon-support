@@ -22,17 +22,17 @@
 
 ### **Q: Must I pay gold to harness Lorexicon’s power?**
 
-**A:** Fear not, intrepid GM—Lorexicon itself bears no charge to install. All explorers of the beta forge may sample its magic with a handful of free creations each moon (month). Beyond that, a modest Patreon pact is required to replenish your allotment of conjurations.
+**A:** Fear not, intrepid GM -- Lorexicon itself bears no charge to install. All explorers of the forge may sample its magic with a handful of free creations each moon (month). Beyond that, a modest Patreon pact is required to replenish your allotment of conjurations.
 
 ### **Q: How do I pledge my support to the Guild?**
 
-**A:** Simply voyage to our Patreon stronghold and select the tier that best suits your adventuring needs. Each tier grants additional monthly spell slots—more creations, more glory! Your pledge sustains the Guild’s scribes and fuels ever-greater innovations in the arcane arts.
+**A:** Simply voyage to our Patreon stronghold and select the tier that best suits your adventuring needs. Each tier grants additional monthly spell slots -- more creations, more glory! Your pledge sustains the Guild’s scribes and fuels ever-greater innovations in the arcane arts.
 
 ### **Q: Where can I view the tiers, prices, and limits?**
 
 **A:** Seek the full slate of offerings on our Patreon page:
 [Patreon.com/Fergusware/Lorexicon](https://www.patreon.com/Fergusware/Lorexicon)
-There you’ll find all the details—tier names, monthly creation limits, and the gold required to maintain your legendary status.
+There you’ll find all the details -- tier names, monthly creation limits, and the gold required to maintain your legendary status.
 
 *Embark upon your journey with confidence, knowing that whether you walk the path of the free scribe or rise as a grand patron, Lorexicon’s grimoire awaits your command!*
 
