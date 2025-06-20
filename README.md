@@ -4,7 +4,7 @@
 
 _A public space for feature requests and support questions for Lorexicon._
 
-**📚 Explore the full documentation → [Lorexicon Docs](https://fergusware.github.io/lorexicon-support/)**
+**📚 Explore the full documentation → [Lorexicon Docs](https://support.fergusware.com/lorexicon-support/)**
 
 ## Project Overview
 
@@ -25,7 +25,7 @@ See our current [Feature List](./FEATURES.md) and upcoming [Development Roadmap]
 
 You can find us on [Discord](https://discord.gg/Xb6FHpPdpF)!
 
-More questions? Please read our [FAQ](./FAQ.md) or visit the full **[Lorexicon Docs site](https://fergusware.github.io/lorexicon-support/)** for tutorials, examples, and deep dives.
+More questions? Please read our [FAQ](./FAQ.md) or visit the full **[Lorexicon Docs site](https://support.fergusware.com/lorexicon-support/)** for tutorials, examples, and deep dives.
 
 ## Purpose of This Repository
 
