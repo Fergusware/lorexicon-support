@@ -1,8 +1,8 @@
-/* .swiper {
-  max-height: 400px;
+.swiper {
+  max-height: 950px;
   position: relative;
   overflow: hidden;
-} */
+}
 
 .swiper-button-next,
 .swiper-button-prev {
