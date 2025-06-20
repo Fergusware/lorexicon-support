@@ -10,11 +10,28 @@
 
   /* Dark background behind the logo */
   --fw-bg-dark: #121212;
+
+  --fw-text-light: #ddd;
 }
 
 html,
 body {
   background-color: var(--fw-bg-dark) !important;
+}
+
+.wrapper {
+  background-color: var(--fw-bg-dark) !important;
+  box-shadow: none !important;
+}
+
+.wrapper,
+.wrapper p,
+.wrapper li,
+.wrapper h1,
+.wrapper h2,
+.wrapper h3,
+.wrapper a {
+  color: var(--fw-text-light) !important;
 }
 
 .wrapper > header > h1 > a {
@@ -28,8 +45,15 @@ body {
   color: var(--fw-accent-orange) !important;
 }
 
+.markdown-body pre,
+.markdown-body blockquote,
+.markdown-body table {
+  background-color: var(--fw-bg-dark) !important;
+  color: var(--fw-text-light) !important;
+}
+
 .wrapper > footer {
-  color: #bbb !important;
+  color: var(--fw-text-light) !important;
 }
 .wrapper > footer a {
   color: var(--fw-accent-green) !important;
