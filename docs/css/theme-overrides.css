@@ -12,6 +12,11 @@
   --fw-bg-dark: #121212;
 }
 
+html,
+body {
+  background-color: var(--fw-bg-dark) !important;
+}
+
 .wrapper > header > h1 > a {
   color: var(--fw-accent-green) !important;
 }
@@ -24,7 +29,6 @@
 }
 
 .wrapper > footer {
-  background-color: var(--fw-bg-dark) !important;
   color: #bbb !important;
 }
 .wrapper > footer a {
