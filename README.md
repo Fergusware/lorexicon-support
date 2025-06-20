@@ -4,6 +4,8 @@
 
 _A public space for feature requests and support questions for Lorexicon._
 
+**📚 Explore the full documentation → [Lorexicon Docs](https://support.fergusware.com/lorexicon-support)**
+
 ## Project Overview
 
 Lorexicon is an AI-powered companion module for Foundry VTT. Currently it is designed specifically for Pathfinder 2e Remaster. With Lorexicon, you can:
@@ -23,7 +25,7 @@ See our current [Feature List](./FEATURES.md) and upcoming [Development Roadmap]
 
 You can find us on [Discord](https://discord.gg/Xb6FHpPdpF)!
 
-More questions? Please read our [FAQ](./FAQ.md)!
+More questions? Please read our [FAQ](./FAQ.md) or visit the full **[Lorexicon Docs site](https://support.fergusware.com/lorexicon-support/)** for tutorials, examples, and deep dives.
 
 ## Purpose of This Repository
 
