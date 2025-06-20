@@ -39,11 +39,11 @@
         </ul>
         {% endif %}
 
-        {% if page.url != "/" %}
+        {% unless page.path == "index.md" %}
           <p class="back-home">
             <a href="{{ "/" | relative_url }}">← Back to Docs Home</a>
           </p>
-        {% endif %}
+        {% endunless %}
       </header>
       <section>
 
