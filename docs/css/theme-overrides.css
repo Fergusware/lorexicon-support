@@ -65,13 +65,8 @@ strong {
   color: var(--fw-accent-green) !important;
 }
 
-.site-banner {
-  text-align: center;
-  margin: 1rem 0;
-}
-
-.banner-img {
-  max-width: 100%;
+header img {
+  max-width: 300px;
   height: auto;
-  border-radius: 4px;
+  margin-bottom: 1rem;
 }
