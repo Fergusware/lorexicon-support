@@ -1,0 +1,38 @@
+:root {
+  /* Logo-green “F” circuitry */
+  --fw-accent-green: #8ce03d;
+
+  /* Magic-hat purple outline */
+  --fw-accent-purple: #9c27b0;
+
+  /* D20 / sword-hilt orange */
+  --fw-accent-orange: #ff9800;
+
+  /* Dark background behind the logo */
+  --fw-bg-dark: #121212;
+}
+
+/* 1) Change your site’s primary heading color */
+h1,
+.page-title {
+  color: var(--fw-accent-green) !important;
+}
+
+/* 2) Tweak your sidebar link colors */
+.sidebar a {
+  color: var(--fw-accent-purple) !important;
+}
+.sidebar a:hover {
+  color: var(--fw-accent-orange) !important;
+}
+
+/* 3) Restyle your “Hosted on Pages” footer line */
+.site-footer {
+  background: var(--fw-bg-dark) !important;
+  color: #bbb !important;
+}
+
+/* 4) Any other Minimal theme selector you want to override... */
+.markdown-body a {
+  color: var(--fw-accent-orange) !important;
+}

@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="{{ 'css/theme-overrides.css' | relative_url }}" />
+
+{% if page.carousel %}
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
+/>
+<!-- Make sure these load after the Swiper defaults -->
+<link rel="stylesheet" href="{{ 'css/carousel.css' | relative_url }}" />
+{% endif %}
