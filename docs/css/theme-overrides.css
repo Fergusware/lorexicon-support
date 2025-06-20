@@ -20,7 +20,7 @@ body {
 }
 
 strong {
-  background-color: rgba(140, 224, 61, 0.2);
+  color: inherit;
   padding: 0.1em 0.2em;
   border-radius: 2px;
 }
