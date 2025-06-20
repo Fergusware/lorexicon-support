@@ -1,8 +1,12 @@
 ---
 layout: default
-title: shadow-dire-wolf Grimbeard
+title: Shadow Dire Wolf
 carousel: true
 ---
+
+# Shadow Dire Wolf - Creature
+
+> Create a dire wolf, but it's shadow-tainted
 
 <div class="swiper" style="width:100%;max-width:600px;margin:2rem auto;">
   <div class="swiper-wrapper">

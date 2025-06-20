@@ -4,6 +4,10 @@ title: Seraphine Steelbloom
 carousel: true
 ---
 
+# Seraphine Steelbloom - NPC
+
+> Create a warrior
+
 <div class="swiper" style="width:100%;max-width:600px;margin:2rem auto;">
   <div class="swiper-wrapper">
     <div class="swiper-slide">

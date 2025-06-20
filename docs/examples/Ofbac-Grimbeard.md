@@ -4,6 +4,10 @@ title: Ofbac Grimbeard
 carousel: true
 ---
 
+# Ofbac Grimbeard - NPC
+
+> Create a level 8 dwarven barbarian named Ofbac Grimbeard who has an obsession with attacking giants by hammering their toes with his warhammer
+
 <div class="swiper" style="width:100%;max-width:600px;margin:2rem auto;">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
