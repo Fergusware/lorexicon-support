@@ -19,6 +19,10 @@ body {
   background-color: var(--fw-bg-dark) !important;
 }
 
+strong {
+  color: var(--fw-text-light) !important;
+}
+
 .wrapper {
   background-color: var(--fw-bg-dark) !important;
   box-shadow: none !important;

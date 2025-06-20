@@ -5,24 +5,37 @@ Welcome! This is your one-stop hub for everything you need to get up and running
 ---
 
 ## 🚀 Getting Started
+
 Your step-by-step guide to installing, configuring, and launching Lorexicon for the first time.  
 [→ Jump to Getting Started](Getting-Started)
 
 ---
 
 ## 📋 Features
+
 A high-level overview of all the tools, modules, and capabilities built into Lorexicon.  
 [→ See the full Features list](Features)
 
 ---
 
+## 🎨 Examples
+
+A small gallery of sample creations brought to life by Lorexicon.  
+→ [Seraphine Steelbloom](examples/Seraphine-Steelbloom)  
+→ [Ofbac Grimbeard](examples/Ofbac-Grimbeard)  
+→ [Shadow-Tainted Dire Wolf](Shadow-Tainted Dire Wolf)
+
+---
+
 ## ❓ FAQ
+
 Answers to the most common questions about pricing, usage limits, and how to get the most out of Lorexicon.  
 [→ Read the FAQ](FAQ)
 
 ---
 
 ## 🛣️ Roadmap
+
 See what’s coming next: planned enhancements, upcoming releases, and long-term vision for Lorexicon.  
 [→ View our Roadmap](Roadmap)
 
