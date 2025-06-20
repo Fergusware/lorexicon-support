@@ -64,3 +64,14 @@ strong {
 .wrapper > footer a {
   color: var(--fw-accent-green) !important;
 }
+
+.site-banner {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.banner-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
