@@ -1,3 +1,17 @@
+:root {
+  /* Logo-green “F” circuitry */
+  --fw-accent-green: #8ce03d;
+
+  /* Magic-hat purple outline */
+  --fw-accent-purple: #9c27b0;
+
+  /* D20 / sword-hilt orange */
+  --fw-accent-orange: #ff9800;
+
+  /* Dark background behind the logo */
+  --fw-bg-dark: #121212;
+}
+
 .swiper {
   max-height: 950px;
   position: relative;
@@ -6,15 +20,30 @@
 
 .swiper-button-next,
 .swiper-button-prev {
-  color: #1e90ff;
+  color: var(--fw-accent-green);
   width: 44px;
   height: 44px;
 }
 
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  color: var(--fw-accent-orange);
+}
+
 .swiper-pagination-bullet {
-  background: #888;
-  opacity: 1;
+  background: var(--fw-accent-purple);
+  opacity: 0.6;
 }
 .swiper-pagination-bullet-active {
-  background: #1e90ff;
+  background: var(--fw-accent-green);
+  opacity: 1;
+}
+
+.swiper-slide img {
+  display: block; /* remove inline‐image gaps */
+  width: auto; /* let natural width prevail */
+  height: auto; /* ditto */
+  max-width: 100%; /* but don’t exceed the container */
+  max-height: 100%; /* keep it from overflowing vertically */
+  object-fit: contain; /* center and letterbox it if needed */
 }
