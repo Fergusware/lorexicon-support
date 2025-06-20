@@ -12,27 +12,21 @@
   --fw-bg-dark: #121212;
 }
 
-/* 1) Change your site’s primary heading color */
-h1,
-.page-title {
+.wrapper > header > h1 > a {
   color: var(--fw-accent-green) !important;
 }
 
-/* 2) Tweak your sidebar link colors */
-.sidebar a {
+.wrapper > header > p.view > a {
   color: var(--fw-accent-purple) !important;
 }
-.sidebar a:hover {
+.wrapper > header > p.view > a:hover {
   color: var(--fw-accent-orange) !important;
 }
 
-/* 3) Restyle your “Hosted on Pages” footer line */
-.site-footer {
-  background: var(--fw-bg-dark) !important;
+.wrapper > footer {
+  background-color: var(--fw-bg-dark) !important;
   color: #bbb !important;
 }
-
-/* 4) Any other Minimal theme selector you want to override... */
-.markdown-body a {
-  color: var(--fw-accent-orange) !important;
+.wrapper > footer a {
+  color: var(--fw-accent-green) !important;
 }
