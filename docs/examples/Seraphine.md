@@ -49,19 +49,3 @@ carousel: true
   <!-- Pagination dots -->
   <div class="swiper-pagination"></div>
 </div>
-
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-    /* eslint-disable no-undef */
-    const mySwiper = new Swiper(".swiper", {
-      loop: true,
-      pagination: { el: ".swiper-pagination", clickable: true },
-      navigation: {
-        nextEl: ".swiper-button-next",
-        prevEl: ".swiper-button-prev",
-      },
-    });
-  });
-</script>
-
-<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
