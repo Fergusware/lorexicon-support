@@ -34,10 +34,10 @@ carousel: true
       <img src="../images/seraphine/11-portrait.png" alt="Portrait" style="width:100%">
     </div>
     <div class="swiper-slide">
-      <img src="../images/seraphine/12-complete.png" alt="Statistics panel" style="width:100%">
+      <img src="../images/seraphine/12-statistics.png" alt="Statistics panel" style="width:100%">
     </div>
     <div class="swiper-slide">
-      <img src="../images/seraphine/13-complete.png" alt="Statistics panel" style="width:100%">
+      <img src="../images/seraphine/13-statistics.png" alt="Statistics panel" style="width:100%">
     </div>
     <!-- add more .swiper-slide blocks as needed -->
   </div>
