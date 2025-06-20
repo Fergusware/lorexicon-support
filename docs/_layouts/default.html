@@ -7,8 +7,8 @@
 
     {% if page.carousel %}
     <link
-        rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
     />
     <!-- Make sure these load after the Swiper defaults -->
     <link
@@ -16,7 +16,6 @@
       href="{{ 'css/custom.css' | relative_url }}"
     />
     {% endif %}
-
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -69,23 +68,23 @@
     {% if page.carousel %}
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
     <script>
-        document.addEventListener("DOMContentLoaded", () => {
+      document.addEventListener("DOMContentLoaded", () => {
         new Swiper(".swiper", {
-            loop: true,
-            /* autoplay: {
-                delay: 3000, // 3 seconds between slides
-                disableOnInteraction: true
-            }, */
-            speed: 600, // slide transition in ms
-            effect: 'fade', // or 'cube', 'coverflow', etc.
-            fadeEffect: { crossFade: true },
-            pagination: { el: ".swiper-pagination", clickable: true },
-            navigation: {
-                nextEl: ".swiper-button-next",
-                prevEl: ".swiper-button-prev",
-            },
+          loop: true,
+          autoplay: {
+            delay: 3000, // 3 seconds between slides
+            disableOnInteraction: true
+          },
+          speed: 600, // slide transition in ms
+          effect: 'fade', // or 'cube', 'coverflow', etc.
+          fadeEffect: { crossFade: true },
+          pagination: { el: ".swiper-pagination", clickable: true },
+          navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+          },
         });
-        });
+      });
     </script>
     {% endif %}
   </body>
