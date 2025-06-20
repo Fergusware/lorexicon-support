@@ -10,6 +10,10 @@
         rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
     />
+    <link
+      rel="stylesheet"
+      href="{{ 'css/custom.css' | relative_url }}"
+    />
     {% endif %}
 
 
@@ -62,16 +66,21 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 
     {% if page.carousel %}
-    <!-- Carousel JS only on carousel pages -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
         new Swiper(".swiper", {
             loop: true,
+            autoplay: {
+                delay: 3000, // 3 seconds between slides
+                disableOnInteraction: true
+            },
+            speed: 600, // slide transition in ms
+            effect: 'fade', // or 'cube', 'coverflow', etc.
             pagination: { el: ".swiper-pagination", clickable: true },
             navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
             },
         });
         });
