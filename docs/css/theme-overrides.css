@@ -70,3 +70,16 @@ header img {
   height: auto;
   margin-bottom: 1rem;
 }
+
+.back-home {
+  margin: 0.5em 0 1em;
+}
+.back-home a {
+  font-size: 0.9em;
+  color: var(--fw-accent-green);
+  text-decoration: none;
+}
+.back-home a:hover {
+  color: var(--fw-accent-orange);
+  text-decoration: underline;
+}
