@@ -1,3 +1,8 @@
+.swiper {
+  max-height: 400px; /* fixed carousel height */
+  position: relative; /* ensures nav is positioned within this box */
+}
+
 .swiper-button-next,
 .swiper-button-prev {
   color: #1e90ff;
