@@ -23,7 +23,7 @@ A high-level overview of all the tools, modules, and capabilities built into Lor
 A small gallery of sample creations brought to life by Lorexicon.  
 → [Seraphine Steelbloom](examples/Seraphine-Steelbloom)  
 → [Ofbac Grimbeard](examples/Ofbac-Grimbeard)  
-→ [Shadow-Tainted Dire Wolf](Shadow-Dire-Wolf)
+→ [Shadow-Tainted Dire Wolf](examples/Shadow-Dire-Wolf)
 
 ---
 
