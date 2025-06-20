@@ -17,13 +17,13 @@ carousel: true
       <img src="../images/shadow-dire-wolf/02-actor.png" alt="Actor">
     </div>
     <div class="swiper-slide">
-      <img src="../images/shadow-dire-wolf/03-attacks.png" alt="Attacks panel">
+      <img src="../images/shadow-dire-wolf/03-notes.png" alt="Notes tab">
     </div>
     <div class="swiper-slide">
-      <img src="../images/shadow-dire-wolf/04-actions.png" alt="Actions panel">
+      <img src="../images/shadow-dire-wolf/04-attacks.png" alt="Attacks panel">
     </div>
     <div class="swiper-slide">
-      <img src="../images/shadow-dire-wolf/05-notes.png" alt="Notes tab">
+      <img src="../images/shadow-dire-wolf/05-actions.png" alt="Actions panel">
     </div>
     <div class="swiper-slide">
       <img src="../images/shadow-dire-wolf/06-portrait.png" alt="Portrait">

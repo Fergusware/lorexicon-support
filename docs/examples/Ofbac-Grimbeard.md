@@ -14,16 +14,16 @@ carousel: true
       <img src="../images/ofbac/01-prompt.png" alt="Prompt">
     </div>
     <div class="swiper-slide">
-      <img src="../images/ofbac/02-actor.png" alt="Progress">
+      <img src="../images/ofbac/02-actor.png" alt="Actor">
     </div>
     <div class="swiper-slide">
-      <img src="../images/ofbac/03-attacks.png" alt="Attacks panel">
+      <img src="../images/ofbac/03-notes.png" alt="Notes tab">
     </div>
     <div class="swiper-slide">
-      <img src="../images/ofbac/04-actions.png" alt="Actions panel">
+      <img src="../images/ofbac/04-attacks.png" alt="Attacks panel">
     </div>
     <div class="swiper-slide">
-      <img src="../images/ofbac/05-notes.png" alt="Notes tab">
+      <img src="../images/ofbac/05-actions.png" alt="Actions panel">
     </div>
     <div class="swiper-slide">
       <img src="../images/ofbac/06-portrait.png" alt="Portrait">

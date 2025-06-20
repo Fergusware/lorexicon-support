@@ -11,37 +11,22 @@ carousel: true
 <div class="swiper" style="width:100%;max-width:600px;margin:2rem auto;">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <img src="../images/seraphine/02-prompt.png" alt="Prompt">
+      <img src="../images/seraphine/01-prompt.png" alt="Prompt">
     </div>
     <div class="swiper-slide">
-      <img src="../images/seraphine/04-progress.png" alt="Progress">
+      <img src="../images/seraphine/02-actor.png" alt="Actor">
     </div>
     <div class="swiper-slide">
-      <img src="../images/seraphine/05-complete.png" alt="Complete">
+      <img src="../images/seraphine/03-notes.png" alt="Notes tab">
     </div>
     <div class="swiper-slide">
-      <img src="../images/seraphine/06-actor.png" alt="Actor">
+      <img src="../images/seraphine/04-attacks.png" alt="Attacks panel">
     </div>
     <div class="swiper-slide">
-      <img src="../images/seraphine/07-notes.png" alt="Notes tab">
+      <img src="../images/seraphine/05-actions.png" alt="Actions panel">
     </div>
     <div class="swiper-slide">
-      <img src="../images/seraphine/08-attacks.png" alt="Attacks panel">
-    </div>
-    <div class="swiper-slide">
-      <img src="../images/seraphine/09-actions.png" alt="Actions panel">
-    </div>
-    <div class="swiper-slide">
-      <img src="../images/seraphine/10-passives.png" alt="Passives panel">
-    </div>
-    <div class="swiper-slide">
-      <img src="../images/seraphine/11-portrait.png" alt="Portrait">
-    </div>
-    <div class="swiper-slide">
-      <img src="../images/seraphine/12-statistics.png" alt="Statistics panel">
-    </div>
-    <div class="swiper-slide">
-      <img src="../images/seraphine/13-statistics.png" alt="Statistics panel">
+      <img src="../images/seraphine/06-portrait.png" alt="Portrait">
     </div>
   </div>
 
