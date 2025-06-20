@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seraphine
+title: Seraphine Steelbloom
 carousel: true
 ---
 
@@ -39,7 +39,6 @@ carousel: true
     <div class="swiper-slide">
       <img src="../images/seraphine/13-statistics.png" alt="Statistics panel">
     </div>
-    <!-- add more .swiper-slide blocks as needed -->
   </div>
 
   <!-- Navigation buttons -->
