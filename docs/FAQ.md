@@ -129,7 +129,7 @@ Should you wish to sever your ties with the Guild, just click the little chain-b
 **A:** Each tier grants you a number of creations per month (tracked by your account). You can spend these on generating creatures, NPCs, images, and other wondrous things through Lorexicon.
 
 - If your job fails, you’re never charged.
-- If you simply don’t like a result, it still counts — but if something goes truly awry or you have recurring issues, just reach out to [Support](https://github.com/Fergusware/loreweaver-support) and we’ll help.
+- If you simply don’t like a result, it still counts — but if something goes truly awry or you have recurring issues, just reach out to [Support](https://github.com/Fergusware/lorexicon-support) and we’ll help.
 - Unused creations do not roll over—when the new moon rises, your spell slots reset.
   Think of it like spell slots—plan your casting wisely!
 
