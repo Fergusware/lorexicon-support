@@ -8,8 +8,8 @@ _Your PF2e Foundry VTT Arcane Companion_
 
 Before you invoke the Lorexicon’s power, ensure your realm meets these glyphs:
 
-- **Foundry VTT**: v12.343
-- **Pathfinder 2e Remaster**: v6.12
+- **Foundry VTT**: v12.343 or later
+- **Pathfinder 2e Remaster**: v6.12 or later
 - **Dependencies**: None -— Lorexicon stands alone
 
 ---
