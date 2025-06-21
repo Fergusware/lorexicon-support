@@ -1,6 +1,6 @@
 # **🪄 The Lorexicon Grimoire of Creation**
 
-*Your PF2e Foundry VTT Arcane Companion*
+_Your PF2e Foundry VTT Arcane Companion_
 
 ---
 
@@ -8,9 +8,9 @@
 
 Before you invoke the Lorexicon’s power, ensure your realm meets these glyphs:
 
-* **Foundry VTT**: v12.343
-* **Pathfinder 2e Remaster**: v6.12
-* **Dependencies**: None -— Lorexicon stands alone
+- **Foundry VTT**: v12.343
+- **Pathfinder 2e Remaster**: v6.12
+- **Dependencies**: None -— Lorexicon stands alone
 
 ---
 
@@ -19,8 +19,9 @@ Before you invoke the Lorexicon’s power, ensure your realm meets these glyphs:
 1. In Foundry’s **Add-on Modules → Install Module**, paste the manifest oracle:
 
    ```
-   https://raw.githubusercontent.com/Fergusware/lorexicon-support/refs/heads/main/manifests/manifest-0.9.2.json
+   https://github.com/Fergusware/lorexicon-support/releases/download/v0.9.2/module.json
    ```
+
 2. Click **Install**, then in **Manage Modules** enable **Lorexicon**.
 3. Restart your Foundry realm if the fates demand it.
 
@@ -76,11 +77,11 @@ Below the runes, a **Progress Bar** pulses while the forge works its magic (≈1
 
 When the progress bar runs its course:
 
-* Lorexicon conjures your Actor into the world -- safely nestled within a “Lorexicon” folder.
-* The Actor’s sheet opens automatically, eclipsing the prompt window.
-* The **Result** rune bears the Actor's name as a link -- your new companion awaits.
+- Lorexicon conjures your Actor into the world -- safely nestled within a “Lorexicon” folder.
+- The Actor’s sheet opens automatically, eclipsing the prompt window.
+- The **Result** rune bears the Actor's name as a link -- your new companion awaits.
 
-*No further import rituals are required to begin using your Actor.*
+_No further import rituals are required to begin using your Actor._
 
 ---
 
@@ -88,10 +89,10 @@ When the progress bar runs its course:
 
 Each month’s magic is finite. Observe your Usage Panel:
 
-* **Completed:** Prompts expended this month
-* **Remaining:** Spells left (resets at the turn of the calendar)
-* **Patreon ID:** Your bonded Patreon identity (click 🔗 to sever the bond)
-* **Subscription:** Your current tier (beta testers dwell in "free", rewarded with an increased quota)
+- **Completed:** Prompts expended this month
+- **Remaining:** Spells left (resets at the turn of the calendar)
+- **Patreon ID:** Your bonded Patreon identity (click 🔗 to sever the bond)
+- **Subscription:** Your current tier (beta testers dwell in "free", rewarded with an increased quota)
 
 Hover any rune for further illumination.
 
@@ -101,22 +102,22 @@ Hover any rune for further illumination.
 
 Should darkness cloud your ritual:
 
-| **Affliction**                   | **Lorexicon’s Response**                                                     |
-| -------------------------------- | ---------------------------------------------------------------------------- |
-| **Auth Denied/Failure**          | Chat scrolls an "authentication error" -- reopen the popup and retry.        |
+| **Affliction**                   | **Lorexicon’s Response**                                                       |
+| -------------------------------- | ------------------------------------------------------------------------------ |
+| **Auth Denied/Failure**          | Chat scrolls an "authentication error" -- reopen the popup and retry.          |
 | **Quota Depleted**               | A red "Remaining" rune blazes 0; a toast and chat warning cry "No more magic." |
-| **Generation Timeout/API Error** | Chat: "Generation failed -— please try again."                               |
-| **Popup Blocked/Closed/Timeout** | Chat: "Patreon authentication failed. Allow pop-ups and retry."              |
+| **Generation Timeout/API Error** | Chat: "Generation failed -— please try again."                                 |
+| **Popup Blocked/Closed/Timeout** | Chat: "Patreon authentication failed. Allow pop-ups and retry."                |
 
 ---
 
 ### Chapter X: Sage Advice & Troubleshooting
 
-* **Lorexicon button vanished?** Ensure the module is enabled and your realm restarted.
-* **Pop-up barred?** Permit pop-ups for your Foundry domain.
-* **Remaining stuck at 0?** Quotas renew at the start of each calendar month.
-* **Auth errors persist?** Click 🔗 to unlink, then reforge your Patreon pact.
+- **Lorexicon button vanished?** Ensure the module is enabled and your realm restarted.
+- **Pop-up barred?** Permit pop-ups for your Foundry domain.
+- **Remaining stuck at 0?** Quotas renew at the start of each calendar month.
+- **Auth errors persist?** Click 🔗 to unlink, then reforge your Patreon pact.
 
 ---
 
-*Go forth, brimming with confidence. May every NPC you summon serve your tale, and may your creatures be legends in their own right.*
+_Go forth, brimming with confidence. May every NPC you summon serve your tale, and may your creatures be legends in their own right._
