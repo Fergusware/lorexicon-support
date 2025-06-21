@@ -19,7 +19,7 @@ Before you invoke the Lorexicon’s power, ensure your realm meets these glyphs:
 1. In Foundry’s **Add-on Modules → Install Module**, paste the manifest oracle:
 
    ```
-   https://github.com/Fergusware/lorexicon-support/releases/download/v0.9.2/module.json
+   https://raw.githubusercontent.com/Fergusware/lorexicon-support/refs/heads/main/manifests/module.json
    ```
 
 2. Click **Install**, then in **Manage Modules** enable **Lorexicon**.
