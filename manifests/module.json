@@ -14,7 +14,7 @@
   ],
   "compatibility": {
     "minimum": "12",
-    "verified": "12.343",
+    "verified": "13.345",
     "maximum": "13.345"
   },
   "relationships": {
@@ -31,7 +31,7 @@
     "requires": []
   },
   "scripts": [],
-  "manifest": "https://github.com/Fergusware/lorexicon-support/releases/download/v0.9.3/module.json",
+  "manifest": "https://raw.githubusercontent.com/Fergusware/lorexicon-support/refs/heads/main/manifests/module.json",
   "download": "https://github.com/Fergusware/lorexicon-support/releases/download/v0.9.3/lorexicon-0.9.3.zip",
   "esmodules": ["main.js"],
   "styles": ["styles/main-app.css"],
