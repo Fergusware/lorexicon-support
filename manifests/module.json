@@ -1,0 +1,56 @@
+{
+  "id": "lorexicon",
+  "title": "Lorexicon",
+  "description": "AI Tools to Level Up Your Foundry VTT Games",
+  "version": "0.9.3",
+  "library": false,
+  "authors": [
+    {
+      "name": "Steve Ferguson",
+      "email": "guildmaster@fergusware.com",
+      "discord": "guildmaster_ferg",
+      "url": "https://github.com/Fergusware"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.343",
+    "maximum": "13.345"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/master/system.json",
+        "compatibility": {
+          "minimum": "6.12.4"
+        }
+      }
+    ],
+    "requires": []
+  },
+  "scripts": [],
+  "manifest": "https://github.com/Fergusware/lorexicon-support/releases/download/v0.9.3/module.json",
+  "download": "https://github.com/Fergusware/lorexicon-support/releases/download/v0.9.3/lorexicon-0.9.3.zip",
+  "esmodules": ["main.js"],
+  "styles": ["styles/main-app.css"],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "url": "https://github.com/Fergusware/lorexicon-support",
+  "readme": "https://github.com/Fergusware/lorexicon-support/blob/main/README.md",
+  "changelog": "https://github.com/Fergusware/lorexicon-support/blob/main/CHANGELOG.md",
+  "bugs": "https://github.com/Fergusware/lorexicon-support/issues",
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://raw.githubusercontent.com/Fergusware/lorexicon-support/refs/heads/main/images/lorexicon-icon.jpg"
+    }
+  ]
+}
