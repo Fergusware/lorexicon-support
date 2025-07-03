@@ -2,7 +2,7 @@
   "id": "lorexicon",
   "title": "Lorexicon",
   "description": "AI Tools to Level Up Your Foundry VTT Games",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "library": false,
   "authors": [
     {
@@ -15,7 +15,7 @@
   "compatibility": {
     "minimum": "12",
     "verified": "13.345",
-    "maximum": "13.345"
+    "maximum": "13"
   },
   "relationships": {
     "systems": [
