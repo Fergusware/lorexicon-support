@@ -11,13 +11,13 @@ carousel: true
 <div class="swiper" style="width:100%;max-width:600px;margin:2rem auto;">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <img src="../images/wrath-of-the-lava-lord/01-wrath" alt="Screen 1">
+      <img src="../images/wrath-of-the-lava-lord/01-wrath.png" alt="Screen 1">
     </div>
     <div class="swiper-slide">
-      <img src="../images/wrath-of-the-lava-lord/02-wrath" alt="Screen 2">
+      <img src="../images/wrath-of-the-lava-lord/02-wrath.png" alt="Screen 2">
     </div>
     <div class="swiper-slide">
-      <img src="../images/wrath-of-the-lava-lord/03-wrath" alt="Screen 3">
+      <img src="../images/wrath-of-the-lava-lord/03-wrath.png" alt="Screen 3">
     </div>
   </div>
 
