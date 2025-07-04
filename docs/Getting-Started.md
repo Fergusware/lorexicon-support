@@ -31,7 +31,7 @@ Before you invoke the Lorexicon’s power, ensure your realm meets these glyphs:
 
 To call Lorexicon forth:
 
-1. Venture to the **Actors** tab of your Foundry interface.
+1. Venture to either the **Actors** tab or **Journal** of your Foundry interface.
 2. Click the **Lorexicon** button nestled at the bottom.
 3. On first start, you will be prompted to **Bind Your Patreon Pact** (see below)
 4. Behold the enchanted prompt window, alive with your monthly usage runes.
@@ -63,9 +63,9 @@ When first summoned, Lorexicon will unfurl its greeting as a herald in the Chat 
 
 | **Arcane Element** | **Description**                                                                                                          |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| **Type**           | Radio runes: **NPC** or **Creature**                                                                                     |
+| **Type**           | Lore Codex: **Encounter**, **NPC**, or                                                                                   |
 | **Prompt**         | Vast textarea (up to 12,000 characters) for your narrative or mechanical visions                                         |
-| **Result**         | When the summoning is complete, displays your creation’s name, linked to its freshly born Actor document                 |
+| **Result**         | When the summoning is complete, displays your creation’s name, linked to its freshly born document                       |
 | **Usage Panel**    | • **Completed:** x / y<br>• **Remaining:** z (flames red at 0)<br>• **Patreon ID:** 12345 🔗<br>• **Subscription:** free |
 | **Buttons**        | • **Submit**: commence creation<br>• **Cancel**: banish or close the portal<br>• **Reset**: clear all runes              |
 
@@ -73,15 +73,15 @@ Below the runes, a **Progress Bar** pulses while the forge works its magic (≈1
 
 ---
 
-### Chapter VII: The Summoning of Your Actor
+### Chapter VII: The Summoning of Your Creation
 
 When the progress bar runs its course:
 
-- Lorexicon conjures your Actor into the world -- safely nestled within a “Lorexicon” folder.
-- The Actor’s sheet opens automatically, eclipsing the prompt window.
-- The **Result** rune bears the Actor's name as a link -- your new companion awaits.
+- Lorexicon conjures your creation into the world -- safely nestled within a “Lorexicon” folder on the **Actor** or **Journal** tab.
+- The creation opens automatically, eclipsing the prompt window.
+- The **Result** rune bears the name of the creation as a link -- your new creation awaits.
 
-_No further import rituals are required to begin using your Actor._
+_No further import rituals are required to begin using your creation._
 
 ---
 

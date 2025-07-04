@@ -6,13 +6,25 @@ _Sharpen your quill, brave traveler —- here lie the answers to your most press
 
 **Q: So what does it do?**
 
-**A:** Lorexicon is your enchanted grimoire, bound to the very heart of Foundry VTT. Whisper a simple phrase—or spin an epic saga—and it will conjure a fully realized Pathfinder 2e Actor before your eyes. With a flick of its arcane quill, it inscribes every stat, every skill check, and every tactic onto the page, perfectly tuned to your chosen level. When the ritual completes, a new creature or NPC springs to life in your “Lorexicon” folder, its stat block gleaming, its portrait summoned, and its tokens ready for battle. No manual import, no tedious adjustments—just pure creation at your command.
+**A:** Lorexicon is your enchanted grimoire, woven into the very heart of Foundry VTT. Speak your desire—be it a harrowing dungeon showdown, a web of courtly intrigue, or the summons of a fearsome beast—and it will conjure a fully realized Pathfinder 2e encounter, NPC, or creature before your eyes. With a flourish of its arcane quill, it drafts balanced monster rosters with dynamic party-size scaling, weaves evocative scene art and narrative text, and inscribes every stat, skill check, and tactic directly into a Foundry document. When the ritual completes, your “Lorexicon” folder overflows with ready-to-play encounters, stat blocks, portraits, and tokens—no manual import, no tedium—just pure, instantaneous creation at your command.
 
-**Q: It creates actors then, using AI?**
+**Q: What can Lorexicon summon for me?**
 
-**A:** Indeed. Lorexicon channels the arcane currents of artificial intelligence to forge complete Pathfinder 2e Actors at your command. You whisper your prompt, and the AI creates a detailed background and GM notes, then inscribes every stat, skill, and ability... even a portrait -— then Lorexicon binds the finished creation directly into your Foundry world as a fully-formed Actor document, ready to use.
+**A:** Lorexicon channels the arcane intelligence of AI to conjure everything you need for your next session—fully formed Pathfinder 2e Actors (NPCs and creatures) complete with backgrounds, GM notes, portraits, stats, skills, and tactics, and entire encounters balanced to your party’s size. Speak your prompt, and watch as it weaves monster rosters, narrative text, and scene art, then binds them all into Foundry as ready-to-play journal entries, tokens, and maps -- just pure magical creation.
 
-**Q: What detailed runes does Lorexicon inscribe for me?**
+**Q: What detailed runes does Lorexicon inscribe for me when creating an Encounter?**
+
+**A:** With every invocation, Lorexicon weaves a tapestry of arcane runes into a complete, ready-to-run encounter:
+
+- **Encounter Synopsis**: A thematic title, key objectives, and stakes to frame the scene.
+- **Monster Roster**: Suggestions for balanced bestiary—frontline brutes, skirmishers, and support minions.
+- **Scaling Guidance**: Automatic scaling for party-size adjustments.
+- **Environment & Hazards**: Terrain features, obstacles, and traps.
+- **Narrative Text**: Vivid scene-setting prose and GM cues to spark player immersion.
+- **Visual Summonings**: A generated scene illustration to anchor your players' imaginations.
+- **Journal Integration**: A Foundry-ready journal entry with title, description, tags, tokens, and map placement.
+
+**Q: What detailed runes does Lorexicon inscribe for me when creating an Actor?**
 
 **A:** Every spark of creation you invoke, Lorexicon weaves into a fully realized Actor, complete with every rune and detail you could desire:
 
@@ -60,19 +72,19 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 
 **Q: How vague or specific should my incantation be?**
 
-**A:** Lorexicon delights in the mists of ambiguity. A simple whisper—“A cunning goblin rogue” or “An ancient forest guardian”—can bloom into a tapestry of detail far richer than you might expect. Trust its creativity, and you may find surprises more wondrous than your own design.
+**A:** Lorexicon delights in the mists of ambiguity. A simple whisper -- "A forest ambush" or “A cunning goblin rogue” -- can bloom into a tapestry of detail far richer than you might expect. Trust its creativity, and you may find wondrous surprises.
 
 **Q: Will it heed my detailed directives?**
 
-**A:** In most cases, yes. If you decree “Level 5 fire mage with a staff of ember, Knowledge (Arcana) focus, and Slow (Enchantment) cantrip,” the Lorexicon’s quill will strive to honor each rune. Yet know this: even the most precise spells allow for a spark of improvisation. The AI may embellish or interpret your vision to keep the story alive.
+**A:** In most cases, yes. If you decree “Severe threat encounter with a group of bandits” or “Level 5 fire mage with a staff of ember, Knowledge (Arcana) focus, and Slow (Enchantment) cantrip,” the Lorexicon’s quill will strive to honor each rune. Yet know this: even the most precise spells allow for a spark of improvisation. The AI may embellish or interpret your vision to keep the story alive.
 
 **Q: What if my prompt grows too long or labyrinthine?**
 
 **A:** Lengthy scrolls of instruction can sometimes confound the arcane forge. When the ritual grows over‐elaborate, the AI may wend its own path, weaving in unexpected threads. For best results, strike a balance—focus on the essentials, then let Lorexicon fill the tapestry’s finer stitches.
 
-**Q: Can I demand exact abilities, feats, or statistics?**
+**Q: Can I demand exact hazards, environments, abilities, or statistics?**
 
-**A:** You may petition for them, but know that the Lorexicon’s arcane muse values narrative over pedantic precision. Your specific requests—“give me Sudden Charge and Power Attack”—will often appear, but occasionally the forge substitutes akin talents or adjusts values for balance. Embrace the variance; it breeds freshness in your tales.
+**A:** You may petition for them, but know that the Lorexicon’s arcane muse values narrative over pedantic precision. Your specific requests -- “create a skill challenge in an active volcano” -- will often appear, but occasionally the forge substitutes or adjusts values for balance. Embrace the variance; it breeds freshness in your tales.
 
 **Q: How do I master the forge’s creativity?**
 
@@ -82,7 +94,11 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 
 ## 🛠️ Customization & Content
 
-**Q: Why do the creations have so many abilities? It seems like too many.**
+**Q: Why do the encounters not provide specific creatures or statistics?**
+
+**A:** We’ve chosen to let the magic of prose paint the danger rather than drown you in numbers -- imagine a bard’s stirring tale of a haunted crypt instead of a dry list of modifiers. By focusing on vivid scene descriptions, balanced roles, and thematic hooks, Lorexicon leans into the LLM’s strength at evocative narrative. You still have full control: summon the Actors afterward to conjure precise stat blocks when you’re ready for the mechanics. _If you crave every die roll and damage formula up front, simply generate the corresponding Actors to pair with your encounter._
+
+**Q: Why do the Actors have so many abilities? It seems like too many.**
 
 **A:** We’ve deliberately over-provisioned each Actor with a generous suite of talents—imagine gifting your adventurers a well-stocked armory rather than a single blade. This abundance ensures you, the GM, can cherry-pick the most evocative abilities to fit your story, rather than being constrained by a bare-bones template. Think of it as choice over scarcity: you’ll never wish you had more options when crafting the perfect encounter. _If you prefer a leaner build, simply remove or ignore the extras -- your game, your rules._
 
@@ -126,11 +142,11 @@ Should you wish to sever your ties with the Guild, just click the little chain-b
 
 **Q: How do monthly creation limits work?**
 
-**A:** Each tier grants you a number of creations per month (tracked by your account). You can spend these on generating creatures, NPCs, images, and other wondrous things through Lorexicon.
+**A:** Each tier grants you a number of creations per month (tracked by your account). You can spend these on generating encounters, creatures, and NPCs through Lorexicon.
 
 - If your job fails, you’re never charged.
 - If you simply don’t like a result, it still counts — but if something goes truly awry or you have recurring issues, just reach out to [Support](https://github.com/Fergusware/lorexicon-support) and we’ll help.
-- Unused creations do not roll over—when the new moon rises, your spell slots reset.
+- Unused creations do not roll over -- when the new moon rises, your spell slots reset.
   Think of it like spell slots—plan your casting wisely!
 
 **Q: So just to be clear, I am _not_ charged if my job fails?**
@@ -139,7 +155,7 @@ Should you wish to sever your ties with the Guild, just click the little chain-b
 
 **Q: Why _do_ some jobs fail?**
 
-**A:** Even the most seasoned wizards can hit a stubborn spell, and our AI is no exception. Occasionally it simply refuses to cooperate -- tricks of the arcane, we suppose. When that happens, we beg your pardon and humbly ask you to submit again. Know that with each hiccup, we’re probing its hidden runes and teaching it new lessons, so the next summoning has an ever-better chance of success.
+**A:** Even the most seasoned wizards can hit a stubborn spell, and our AI is no exception. On rare occasions, it simply refuses to cooperate -- tricks of the arcane, we suppose. When that happens, we beg your pardon and humbly ask you to submit again. Know that with each hiccup, we’re probing its hidden runes and teaching it new lessons, so the next summoning has an ever-better chance of success.
 
 **Q: What happens if I cancel a job?**
 
