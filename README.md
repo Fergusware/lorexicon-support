@@ -10,18 +10,18 @@ _A public space for feature requests and support questions for Lorexicon._
 
 Lorexicon is an AI-powered companion module for Foundry VTT. Currently it is designed specifically for Pathfinder 2e Remaster. With Lorexicon, you can:
 
-- Generate fully formed, immediately usable Pathfinder 2e Remaster Actors on the fly  
-- Conjure either unique NPCs or generic creatures    
-- Produce NPC and creature portraits without leaving Foundry  
-- (Coming Soon!) Create immersive scene descriptions and artwork directly in the Journal  
+- Create immersive scene descriptions, creature compositions, and artwork directly in the Journal
+- Generate fully formed, immediately usable Pathfinder 2e Remaster Actors on the fly
+- Conjure either unique NPCs or generic creatures
+- Produce NPC and creature portraits without leaving Foundry
 
 Lorexicon integrates seamlessly into your GM toolkit so you spend less time on menus and more time telling your story.
 
-**Fergusware covers all AI service costs** for Lorexicon through [Patreon](https://www.patreon.com/c/fergusware/about) memberships. You will not incur any additional AI fees when using this module.  _An AI API key is NOT required to use Lorexicon._  
+**Fergusware covers all AI service costs** for Lorexicon through [Patreon](https://www.patreon.com/c/fergusware/about) memberships. You will not incur any additional AI fees when using this module. _An AI API key is NOT required to use Lorexicon._
 
 > **Note:** Lorexicon is run as a hosted service on Amazon Web Services. The Lorexicon codebase is proprietary and hosted in a private repository. This public repo is dedicated solely to support, feedback, and community discussion.
 
-See our current [Feature List](./FEATURES.md) and upcoming [Development Roadmap](./ROADMAP.md)!  
+See our current [Feature List](./FEATURES.md) and upcoming [Development Roadmap](./ROADMAP.md)!
 
 You can find us on [Discord](https://discord.gg/Xb6FHpPdpF)!
 
@@ -44,18 +44,20 @@ By keeping support and feature tracking transparent, everyone in the Lorexicon c
 
 ## How to File an Issue
 
-1. Click the “Issues” tab at the top of this repo.  
-2. Choose **New issue**.  
-3. Give your issue a clear title.  
+1. Click the “Issues” tab at the top of this repo.
+2. Choose **New issue**.
+3. Give your issue a clear title.
 4. In the description, be as detailed as possible:
-   - **For bugs**: Include your Foundry version, Lorexicon version, steps to reproduce, and any error messages or screenshots.  
-   - **For feature requests**: Describe what you’d like to see, why it would be helpful, and any example use cases.  
-   - **For support questions**: Explain what you’re trying to do, what you’ve tried so far, and where you’re stuck.  
+   - **For bugs**: Include your Foundry version, Lorexicon version, steps to reproduce, and any error messages or screenshots.
+   - **For feature requests**: Describe what you’d like to see, why it would be helpful, and any example use cases.
+   - **For support questions**: Explain what you’re trying to do, what you’ve tried so far, and where you’re stuck.
 5. Click **Submit new issue**.
 
 # Dependencies
+
 This module requires a licensed copy of Foundry Virtual Tabletop to run.
 
-# Trademarks and Copyright  
-Pathfinder® is a registered trademark of Paizo Inc. All rights reserved. See [Paizo Licenses](https://paizo.com/licenses) for full license terms.   
-Foundry Virtual Tabletop © 2025 Foundry Gaming, LLC. All rights reserved. Refer to [Foundry Virtual Tabletop End User License Agreement](https://foundryvtt.com/article/license/) for full license terms.  
+# Trademarks and Copyright
+
+Pathfinder® is a registered trademark of Paizo Inc. All rights reserved. See [Paizo Licenses](https://paizo.com/licenses) for full license terms.  
+Foundry Virtual Tabletop © 2025 Foundry Gaming, LLC. All rights reserved. Refer to [Foundry Virtual Tabletop End User License Agreement](https://foundryvtt.com/article/license/) for full license terms.
