@@ -21,9 +21,9 @@ A high-level overview of all the tools, modules, and capabilities built into Lor
 ## 🎨 Examples
 
 A small gallery of sample creations brought to life by Lorexicon.  
-→ [Seraphine Steelbloom](examples/Seraphine-Steelbloom)  
-→ [Ofbac Grimbeard](examples/Ofbac-Grimbeard)  
-→ [Shadow-Tainted Dire Wolf](examples/Shadow-Dire-Wolf)
+→ [Wrath of the Lava Lord - Encounter](examples/Wrath-of-the-Lava-Lord)  
+→ [Ofbac Grimbeard - NPC](examples/Ofbac-Grimbeard)  
+→ [Shadow-Tainted Dire Wolf - Creature](examples/Shadow-Dire-Wolf)
 
 ---
 
