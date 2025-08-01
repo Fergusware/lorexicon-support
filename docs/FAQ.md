@@ -118,6 +118,26 @@ In short, we may include extra copies so your creations feel as limitless as you
 
 ---
 
+## 📦 Contexts
+
+**Q: What are “Contexts,” and why should I care?**
+
+**A:** Contexts are your reusable fragments of narrative truth—campaign lore, house rules, character arcs, thematic vibes—all tucked into neat little scrolls. Instead of rewriting the same sacred texts over and over, you simply select the ones that apply, and Lorexicon will whisper them into the forge as part of your summoning. Think of it as preloading your spellbook with the right flavor of magic for the task at hand.
+
+**Q: Can I carry more than one context into a prompt?**
+
+**A:** Of course! Select as many as you need—-whether you're juggling the local town's gloomy secrets, the party's tragic backstories, or a splash of homebrew rules. Lorexicon will faithfully include them all... just mind the overall incantation length.
+
+**Q: Is there a limit to how long each context can be?**
+
+**A:** Aye. Each individual context scroll may hold up to **2,500 characters**--enough for a full town’s worth of flavor, but not an entire encyclopedia. Keep them focused and modular so they can be recombined like runes in a spell.
+
+**Q: Do contexts count toward the total prompt limit?**
+
+**A:** Indeed they do. All selected contexts are bound into your request before it is cast, and together with your main prompt, they must fit within the **12,000 character** ritual limit. If your summoning fails to ignite, trim a scroll or shorten your plea.
+
+---
+
 ## 🔒 Privacy & Security
 
 **Q: What does the Guild know of me?**

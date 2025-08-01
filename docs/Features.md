@@ -8,6 +8,9 @@ Lorexicon currently offers the following features:
 - **Automatic Actor creation with embedded automation links**  
   All Actors are created automatically, complete with linked rolls for templates, damage, defense rolls, flat checks, perception checks, and skill checks. All markup follows the PF2e module's [Style Guide](https://github.com/foundryvtt/pf2e/wiki/Style-Guide).
 
+- **Reusable Context support for consistent results**
+  [Define persistent context blocks](Contexts)—-like your campaign setting, house rules, or plot arcs—-and reuse them across creations to maintain narrative and mechanical consistency without rewriting the same prompt every time.
+
 - **Pathfinder 2e Remaster NPC generation**  
   Generate complete NPC stat blocks adhering to Pathfinder 2e Remaster rules.
 
@@ -15,10 +18,10 @@ Lorexicon currently offers the following features:
   Create balanced, level-appropriate creature stat blocks following Remaster guidelines.
 
 - **Images for all creations**  
-  Automatically generate 1024 × 1024 portrait or scene art for every creation.
+  Automatically generate portrait and scene art for every creation.
 
 - **Follows all guidance for encounter design per [Encounter Design](https://2e.aonprd.com/Rules.aspx?ID=2715)**
-  Automates monster composition & party-size scaling for perfectly balanced, adaptable challenges every session.
+  Automates monster composition and party-size scaling for perfectly balanced, adaptable challenges every session.
 
 - **Strict level adherence for all stats per [Building Creatures](https://2e.aonprd.com/Rules.aspx?ID=2874)**  
   Ensure every stat block follows the official Remaster “Building Creatures” tables and rules.

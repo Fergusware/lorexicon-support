@@ -59,17 +59,17 @@ When first summoned, Lorexicon will unfurl its greeting as a herald in the Chat 
 
 ---
 
-### Chapter VI: Crafting Your Creature
+### Chapter VI: Crafting Your Creation
 
 | **Arcane Element** | **Description**                                                                                                          |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| **Type**           | Lore Codex: **Encounter**, **NPC**, or                                                                                   |
+| **Type**           | Lore Codex: **Encounter**, **NPC**, or **Creature**                                                                      |
 | **Prompt**         | Vast textarea (up to 12,000 characters) for your narrative or mechanical visions                                         |
 | **Result**         | When the summoning is complete, displays your creation’s name, linked to its freshly born document                       |
 | **Usage Panel**    | • **Completed:** x / y<br>• **Remaining:** z (flames red at 0)<br>• **Patreon ID:** 12345 🔗<br>• **Subscription:** free |
 | **Buttons**        | • **Submit**: commence creation<br>• **Cancel**: banish or close the portal<br>• **Reset**: clear all runes              |
 
-Below the runes, a **Progress Bar** pulses while the forge works its magic (≈1 minute).
+Below the runes, a **Progress Bar** pulses while the forge works its magic (~1 minute).
 
 ---
 
@@ -77,7 +77,7 @@ Below the runes, a **Progress Bar** pulses while the forge works its magic (≈1
 
 When the progress bar runs its course:
 
-- Lorexicon conjures your creation into the world -- safely nestled within a “Lorexicon” folder on the **Actor** or **Journal** tab.
+- Lorexicon conjures your creation into the world -- safely nestled within a "Lorexicon" folder on the **Actor** or **Journal** tab.
 - The creation opens automatically, eclipsing the prompt window.
 - The **Result** rune bears the name of the creation as a link -- your new creation awaits.
 
@@ -117,6 +117,18 @@ Should darkness cloud your ritual:
 - **Pop-up barred?** Permit pop-ups for your Foundry domain.
 - **Remaining stuck at 0?** Quotas renew at the start of each calendar month.
 - **Auth errors persist?** Click 🔗 to unlink, then reforge your Patreon pact.
+
+---
+
+### Appendix: Of Deeper Runes and Hidden Scripts
+
+For those who would wield Lorexicon's magic in more intricate ways--binding theme, tone, structure, or lore across multiple summonings--look beyond these pages to the scroll titled:
+
+🧠 [Contexts: Anchoring Your Arcane Intent](Contexts)
+
+This companion tome reveals how to store and reuse prompt fragments, customize behaviors, and guide the generative spirits with precision.
+
+_May its guidance sharpen your craft._
 
 ---
 
