@@ -6,27 +6,21 @@ carousel: true
 
 # Shadow Dire Wolf - Creature
 
-> Create a dire wolf, but it's shadow-tainted
+> Create a dire wolf, but it's shadow-tainted.
 
 <div class="swiper" style="width:100%;max-width:600px;margin:2rem auto;">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <img src="../images/shadow-dire-wolf/01-prompt.png" alt="Prompt">
+      <img src="../images/shadow-dire-wolf/01-prompt.jpg" alt="Prompt">
     </div>
     <div class="swiper-slide">
-      <img src="../images/shadow-dire-wolf/02-actor.png" alt="Actor">
+      <img src="../images/shadow-dire-wolf/02-actor.jpg" alt="Actor">
     </div>
     <div class="swiper-slide">
-      <img src="../images/shadow-dire-wolf/03-notes.png" alt="Notes tab">
+      <img src="../images/shadow-dire-wolf/03-notes.jpg" alt="Notes tab">
     </div>
     <div class="swiper-slide">
-      <img src="../images/shadow-dire-wolf/04-attacks.png" alt="Attacks panel">
-    </div>
-    <div class="swiper-slide">
-      <img src="../images/shadow-dire-wolf/05-actions.png" alt="Actions panel">
-    </div>
-    <div class="swiper-slide">
-      <img src="../images/shadow-dire-wolf/06-portrait.png" alt="Portrait">
+      <img src="../images/shadow-dire-wolf/04-portrait.jpg" alt="Portrait">
     </div>
   </div>
 
