@@ -124,7 +124,7 @@ Should darkness cloud your ritual:
 
 For those who would wield Lorexicon's magic in more intricate ways--binding theme, tone, structure, or lore across multiple summonings--look beyond these pages to the scroll titled:
 
-🧠 [Contexts: Anchoring Your Arcane Intent](Contexts.md)
+🧠 [Contexts: Anchoring Your Arcane Intent](Contexts)
 
 This companion tome reveals how to store and reuse prompt fragments, customize behaviors, and guide the generative spirits with precision.
 

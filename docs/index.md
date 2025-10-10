@@ -18,6 +18,16 @@ A high-level overview of all the tools, modules, and capabilities built into Lor
 
 ---
 
+## 📜 Contexts
+
+Lorexicon’s modular memory scrolls — the secret to keeping your worlds consistent and alive.
+Each **Context** is a reusable grimoire of knowledge: a house rule, a kingdom’s lore, or the saga of a fallen hero.
+Store them once, summon them whenever you weave new tales, and watch Lorexicon shape its creations to match your world’s voice and history.
+
+[→ Learn more about Contexts](Contexts)
+
+---
+
 ## 🎨 Examples
 
 A small gallery of sample creations brought to life by Lorexicon.  

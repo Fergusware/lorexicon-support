@@ -21,11 +21,11 @@ Lorexicon integrates seamlessly into your GM toolkit so you spend less time on m
 
 > **Note:** Lorexicon is run as a hosted service on Amazon Web Services. The Lorexicon codebase is proprietary and hosted in a private repository. This public repo is dedicated solely to support, feedback, and community discussion.
 
-See our current [Feature List](./docs/Features.md) and upcoming [Development Roadmap](./docs/Roadmap.md)!
+See our current [Feature List](https://support.fergusware.com/lorexicon-support/Features) and upcoming [Development Roadmap](https://support.fergusware.com/lorexicon-support/Roadmap)!
 
 You can find us on [Discord](https://discord.gg/Xb6FHpPdpF)!
 
-More questions? Please read our [FAQ](./docs/FAQ.md) or visit the full **[Lorexicon Docs site](https://support.fergusware.com/lorexicon-support/)** for tutorials, examples, and deep dives.
+More questions? Please read our [FAQ](https://support.fergusware.com/lorexicon-support/FAQ) or visit the full **[Lorexicon Docs site](https://support.fergusware.com/lorexicon-support/)** for tutorials, examples, and deep dives.
 
 ## Purpose of This Repository
 
