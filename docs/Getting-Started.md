@@ -31,9 +31,9 @@ Before you invoke the Lorexicon’s power, ensure your realm meets these glyphs:
 
 To call Lorexicon forth:
 
-1. Venture to either the **Actors** tab or **Journal** of your Foundry interface.
+1. Venture to either the **Actors** tab or **Journal** tab of your Foundry interface.
 2. Click the **Lorexicon** button nestled at the bottom.
-3. On first start, you will be prompted to **Bind Your Patreon Pact** (see below)
+3. On first start, you will be prompted to **Bind Your Patreon Pact** (see below).
 4. Behold the enchanted prompt window, alive with your monthly usage runes.
 
 ---
@@ -69,7 +69,7 @@ When first summoned, Lorexicon will unfurl its greeting as a herald in the Chat 
 | **Usage Panel**    | • **Completed:** x / y<br>• **Remaining:** z (flames red at 0)<br>• **Patreon ID:** 12345 🔗<br>• **Subscription:** free |
 | **Buttons**        | • **Submit**: commence creation<br>• **Cancel**: banish or close the portal<br>• **Reset**: clear all runes              |
 
-Below the runes, a **Progress Bar** pulses while the forge works its magic (~1 minute).
+Below the runes, a **Progress Bar** pulses while the forge works its magic (~30-60 seconds).
 
 ---
 
@@ -78,7 +78,7 @@ Below the runes, a **Progress Bar** pulses while the forge works its magic (~1 m
 When the progress bar runs its course:
 
 - Lorexicon conjures your creation into the world -- safely nestled within a "Lorexicon" folder on the **Actor** or **Journal** tab.
-- The creation opens automatically, eclipsing the prompt window.
+- The creation opens automatically.
 - The **Result** rune bears the name of the creation as a link -- your new creation awaits.
 
 _No further import rituals are required to begin using your creation._
@@ -124,7 +124,7 @@ Should darkness cloud your ritual:
 
 For those who would wield Lorexicon's magic in more intricate ways--binding theme, tone, structure, or lore across multiple summonings--look beyond these pages to the scroll titled:
 
-🧠 [Contexts: Anchoring Your Arcane Intent](Contexts)
+🧠 [Contexts: Anchoring Your Arcane Intent](Contexts.md)
 
 This companion tome reveals how to store and reuse prompt fragments, customize behaviors, and guide the generative spirits with precision.
 
