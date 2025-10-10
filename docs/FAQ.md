@@ -198,11 +198,15 @@ Should you wish to sever your ties with the Guild, just click the little chain-b
 
 **A:** Great question! Most modules live entirely on your local map; they never leave your screen. Lorexicon, however, uses both client and server —- to authenticate you via Patreon, track your monthly guild dues, and securely invoke our AI for you. That extra login ensures you’re truly the hero you claim to be.
 
-**Q: How do I get Free Tier access? Do I need to click “Follow”?**
+**Q: I'm using the Electron app. Why can't I log in?**
 
-**A:** No arcane rituals required! To gain Free Tier access (3 creations per month), simply log in with your Patreon account. If you’re an active patron, you’ll receive your Guild rank benefits automatically. Clicking “Follow” is encouraged for announcements, but it’s not required for Free Tier access.
+**A:** The Electron app doesn't support the method we're currently using to handle Patreon authentication, but we will be addressing this in the near future. In the meantime, please use a browser to access Lorexicon.
 
-_Note: The Guild reserves the right to alter or remove Free Tier quotas at any time._
+**Q: How do I get Free Tier access? Do I need to join the Patreon**
+
+**A:** No arcane rituals required! To gain Free Tier access (3 creations per month), simply log in with your Patreon account. If you’re an active patron, you’ll receive your Guild rank benefits automatically. Joining is encouraged for announcements, but it’s not required for Free Tier access.
+
+_Note: Fergusware reserves the right to alter or remove Free Tier quotas at any time._
 
 ---
 

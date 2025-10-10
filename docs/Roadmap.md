@@ -2,12 +2,12 @@
 
 The following features are planned for upcoming releases:
 
-- **Improved ability generation utilizing more constraints**
-- **Generation of Hazards and Traps**
+- **Integrating attacks and actions**
 - **Support for Auras**
-- **Support for template formatting of Standard Effects**
-- **Support for more automations via Rule Elements and Custom Effects**
-- **Support for additional DC types and targets**
-- **Improved formatting of Reactions**
+- **Support for Afflictions**
+- **Many more templates for actions, reactions, free actions, and passive actions**
+- **Further refinement of Encounter generation**
+- **Generation of Hazards and Traps**
+- **Support for fully detailed spellcasters**
 - **Improved GUI settings with configurable folder locations**
 - **Support for additional game systems**
