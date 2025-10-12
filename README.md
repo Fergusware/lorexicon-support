@@ -25,7 +25,7 @@ See our current [Feature List](https://support.fergusware.com/lorexicon-support/
 
 You can find us on [Discord](https://discord.gg/Xb6FHpPdpF)!
 
-More questions? Please read our [FAQ](https://support.fergusware.com/lorexicon-support/FAQ) or visit the full **[Lorexicon Docs site](https://support.fergusware.com/lorexicon-support/)** for tutorials, examples, and deep dives.
+More questions? Please read our [FAQ](https://support.fergusware.com/lorexicon-support/FAQ) or visit the full **[Lorexicon Docs site](https://support.fergusware.com/lorexicon-support/)** for tutorials, examples, and deep dives. We'll post occasional examples and video tutorials on **[YouTube](https://www.youtube.com/@Fergusware)**.
 
 ## Purpose of This Repository
 
