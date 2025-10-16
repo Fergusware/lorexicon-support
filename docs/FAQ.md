@@ -6,11 +6,11 @@ _Sharpen your quill, brave traveler —- here lie the answers to your most press
 
 **Q: So what does it do?**
 
-**A:** Lorexicon is your enchanted grimoire, woven into the very heart of Foundry VTT. Speak your desire—be it a harrowing dungeon showdown, a web of courtly intrigue, or the summons of a fearsome beast—and it will conjure a fully realized Pathfinder 2e encounter, NPC, or creature before your eyes. With a flourish of its arcane quill, it drafts balanced monster rosters with dynamic party-size scaling, weaves evocative scene art and narrative text, and inscribes every stat, skill check, and tactic directly into a Foundry document. When the ritual completes, your “Lorexicon” folder overflows with ready-to-play encounters, stat blocks, portraits, and tokens—no manual import, no tedium—just pure, instantaneous creation at your command.
+**A:** Lorexicon is your enchanted grimoire, woven into the very heart of Foundry VTT. Speak your desire -- be it a harrowing dungeon showdown, a web of courtly intrigue, or the summons of a fearsome beast—and it will conjure a fully realized Pathfinder 2e encounter, NPC, or creature before your eyes. With a flourish of its arcane quill, it drafts balanced monster rosters with dynamic party-size scaling, weaves evocative scene art and narrative text, and inscribes every stat, skill check, and tactic directly into a Foundry document. When the ritual completes, your “Lorexicon” folder overflows with ready-to-play encounters, stat blocks, portraits, and tokens—no manual import, no tedium—just pure, instantaneous creation at your command.
 
 **Q: What can Lorexicon summon for me?**
 
-**A:** Lorexicon channels the arcane intelligence of AI to conjure everything you need for your next session—fully formed Pathfinder 2e Actors (NPCs and creatures) complete with backgrounds, GM notes, portraits, stats, skills, and tactics, and entire encounters balanced to your party’s size. Speak your prompt, and watch as it weaves monster rosters, narrative text, and scene art, then binds them all into Foundry as ready-to-play journal entries, tokens, and maps -- just pure magical creation.
+**A:** Lorexicon channels the arcane intelligence of a complex Pathfinder 2e rules engine, assisted by AI, to conjure everything you need for your next session -- fully formed Pathfinder 2e Actors (NPCs and creatures) complete with backgrounds, GM notes, stats, skills, tactics, and entire encounters balanced to your party’s size. Speak your prompt, and watch as it weaves monster rosters, narrative text, and scene art, then binds them all into Foundry as ready-to-play journal entries, tokens, and maps -- just pure magical creation.
 
 **Q: What detailed runes does Lorexicon inscribe for me when creating an Encounter?**
 
@@ -76,11 +76,11 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 
 **Q: Will it heed my detailed directives?**
 
-**A:** In most cases, yes. If you decree “Severe threat encounter with a group of bandits” or “Level 5 fire mage with a staff of ember, Knowledge (Arcana) focus, and Slow (Enchantment) cantrip,” the Lorexicon’s quill will strive to honor each rune. Yet know this: even the most precise spells allow for a spark of improvisation. The AI may embellish or interpret your vision to keep the story alive.
+**A:** In most cases, yes. If you decree “Severe threat encounter with a group of bandits” or “Level 5 fire mage with a staff of ember, Knowledge (Arcana) focus, and Slow (Enchantment) cantrip,” the Lorexicon’s quill will strive to honor each rune. Yet know this: even the most precise spells allow for a spark of improvisation. While parsing your intent, the LLM may embellish or interpret your vision to keep the story alive.
 
 **Q: What if my prompt grows too long or labyrinthine?**
 
-**A:** Lengthy scrolls of instruction can sometimes confound the arcane forge. When the ritual grows over‐elaborate, the AI may wend its own path, weaving in unexpected threads. For best results, strike a balance—focus on the essentials, then let Lorexicon fill the tapestry’s finer stitches.
+**A:** Lengthy scrolls of instruction can sometimes confound the arcane forge. When the ritual grows over‐elaborate, the LLM may wend its own path, weaving in unexpected threads. For best results, strike a balance -- focus on the essentials, then let Lorexicon fill the tapestry’s finer stitches.
 
 **Q: Can I demand exact hazards, environments, abilities, or statistics?**
 
@@ -100,7 +100,7 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 
 **Q: Why do the Actors have so many abilities? It seems like too many.**
 
-**A:** We’ve deliberately over-provisioned each Actor with a generous suite of talents—imagine gifting your adventurers a well-stocked armory rather than a single blade. This abundance ensures you, the GM, can cherry-pick the most evocative abilities to fit your story, rather than being constrained by a bare-bones template. Think of it as choice over scarcity: you’ll never wish you had more options when crafting the perfect encounter. _If you prefer a leaner build, simply remove or ignore the extras -- your game, your rules._
+**A:** We’ve deliberately over-provisioned each Actor with a generous suite of talents -- imagine gifting your adventurers a well-stocked armory rather than a single blade. This abundance ensures you, the GM, can cherry-pick the most evocative abilities to fit your story, rather than being constrained by a bare-bones template. Think of it as choice over scarcity: you’ll never wish you had more options when crafting the perfect encounter. _If you prefer a leaner build, simply remove or ignore the extras -- your game, your rules._
 
 **Q: Why do abilities sometimes appear more than once?**
 
@@ -175,7 +175,7 @@ Should you wish to sever your ties with the Guild, just click the little chain-b
 
 **Q: Why _do_ some jobs fail?**
 
-**A:** Even the most seasoned wizards can hit a stubborn spell, and our AI is no exception. On rare occasions, it simply refuses to cooperate -- tricks of the arcane, we suppose. When that happens, we beg your pardon and humbly ask you to submit again. Know that with each hiccup, we’re probing its hidden runes and teaching it new lessons, so the next summoning has an ever-better chance of success.
+**A:** Even the most seasoned wizards can hit a stubborn spell, and our conjuration engine is no exception. On rare occasions, it simply refuses to cooperate -- tricks of the arcane, we suppose. When that happens, we beg your pardon and humbly ask you to submit again. Know that with each hiccup, we’re probing its hidden runes and teaching it new lessons, so the next summoning has an ever-better chance of success.
 
 **Q: What happens if I cancel a job?**
 
@@ -196,7 +196,7 @@ Should you wish to sever your ties with the Guild, just click the little chain-b
 
 **Q: Why do I have to log into Patreon?**
 
-**A:** Great question! Most modules live entirely on your local map; they never leave your screen. Lorexicon, however, uses both client and server —- to authenticate you via Patreon, track your monthly guild dues, and securely invoke our AI for you. That extra login ensures you’re truly the hero you claim to be.
+**A:** Great question! Most modules live entirely on your local map; they never leave your screen. Lorexicon, however, uses both client and server -- to authenticate you via Patreon, track your monthly guild dues, and securely invoke our backend service for you. That extra login ensures you’re truly the hero you claim to be.
 
 **Q: I'm using the Electron app. Why can't I log in?**
 
@@ -211,6 +211,10 @@ _Note: Fergusware reserves the right to alter or remove Free Tier quotas at any 
 ---
 
 ## 🤖 Technical & Models
+
+**Q: Just to be clear, this service is backed by AI?**
+
+**A:** Only in part. The real magic lives in the code -- rule logic, automation, and Foundry integration all run on solid craftsmanship, not machine whimsy. The AI lends a hand for creative spark: parsing your prompt into a concept, weaving a bit of narrative flavor, and (if you wish) painting the scene with an image. Think of it less as an all-powerful sorcerer, and more as a clever apprentice helping translate your intent into something beautifully playable.
 
 **Q: What AI service do you use?**
 
@@ -242,7 +246,7 @@ _Note: Fergusware reserves the right to alter or remove Free Tier quotas at any 
 
 **Q: Where did you get the idea for Lorexicon?**
 
-**A:** Funny you ask! It all began as a brainstorming session with ChatGPT, imagining how AI could level-up tabletop adventures. And thus, Lorexicon was born!
+**A:** Funny you ask! It all began as a brainstorming session with ChatGPT, imagining how AI could level up tabletop adventures. And thus, Lorexicon was born!
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "id": "lorexicon",
   "title": "Lorexicon",
-  "description": "AI Tools to Level Up Your Foundry VTT Games",
+  "description": "Tools to Level Up Your Foundry VTT Games",
   "version": "0.9.9",
   "library": false,
   "authors": [

@@ -8,16 +8,16 @@ _A public space for feature requests and support questions for Lorexicon._
 
 ## Project Overview
 
-Lorexicon is an AI-powered companion module for Foundry VTT. Currently it is designed specifically for Pathfinder 2e Remaster. With Lorexicon, you can:
+Lorexicon is a GM assistant companion module for Foundry VTT. Currently it is designed specifically for Pathfinder 2e Remaster. With Lorexicon, you can:
 
 - Create immersive scene descriptions, creature compositions, and artwork directly in the Journal
 - Generate fully formed, immediately usable Pathfinder 2e Remaster Actors on the fly
 - Conjure either unique NPCs or generic creatures
-- Produce NPC and creature portraits without leaving Foundry
+- Optional: Produce NPC and creature portraits without leaving Foundry
 
 Lorexicon integrates seamlessly into your GM toolkit so you spend less time on menus and more time telling your story.
 
-**Fergusware covers all AI service costs** for Lorexicon through [Patreon](https://www.patreon.com/c/fergusware/about) memberships. You will not incur any additional AI fees when using this module. _An AI API key is NOT required to use Lorexicon._
+**Fergusware covers all backend service costs** for Lorexicon through [Patreon](https://www.patreon.com/c/fergusware/about) memberships. You will not incur any additional fees when using this module. _An API key is NOT required to use Lorexicon._
 
 > **Note:** Lorexicon is run as a hosted service on Amazon Web Services. The Lorexicon codebase is proprietary and hosted in a private repository. This public repo is dedicated solely to support, feedback, and community discussion.
 
@@ -32,7 +32,7 @@ More questions? Please read our [FAQ](https://support.fergusware.com/lorexicon-s
 This repository exists to centralize everything related to:
 
 - **Feature Requests**  
-  Have an idea for an enhancement or a new AI-driven tool within Lorexicon? Let us know!
+  Have an idea for an enhancement or a new feature within Lorexicon? Let us know!
 
 - **Support Questions**  
   General usage questions, troubleshooting help, or configuration guidance -- ask them through Issues and we'll respond.
