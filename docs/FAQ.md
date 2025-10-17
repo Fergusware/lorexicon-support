@@ -103,16 +103,6 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 
 **A:** We’ve deliberately over-provisioned each Actor with a generous suite of talents -- imagine gifting your adventurers a well-stocked armory rather than a single blade. This abundance ensures you, the GM, can cherry-pick the most evocative abilities to fit your story, rather than being constrained by a bare-bones template. Think of it as choice over scarcity: you’ll never wish you had more options when crafting the perfect encounter. _If you prefer a leaner build, simply remove or ignore the extras -- your game, your rules._
 
-**Q: Why do abilities sometimes appear more than once?**
-
-**A:** Think of Lorexicon as your arcane arsenal -- rather than handing you a single arrow, it offers a quiver’s worth. We allow duplicate talents in some creations so you can:
-
-- **Forge your own legend.** Choose which sparks of power to ignite, swap out repeats, or stack them for epic effect.
-- **Manifest every facet of power.** Each appearance of an ability might come as a powerful **action**, a swift **reaction**, or a subtle **passive** —- all sharing the same core but wielded in distinct ways.
-- **Craft with freedom.** A broader pool of abilities means you’re never boxed in by "one‐and‐done." Pick, prune, and polish until your creations shine exactly as you envision.
-
-In short, we may include extra copies so your creations feel as limitless as your imagination!
-
 **Q: Does Lorexicon understand prompts in languages other than English?**
 
 **A:** Indeed! The Lorexicon’s arcane engine can decipher incantations penned in tongues beyond Common. Yet, for now, its quill faithfully scripts its replies in the Common tongue alone. Fear not -- behind the scenes our scribes have etched the runes for a truly multilingual grimoire. As our patrons' voices rise, we shall prioritize weaving full localization into both prompts and interface, letting Elven, Dwarven, and other dialects join the chorus of creation. Should you wish to lend your own quill to this grand endeavor of translation, dispatch a raven to our scribes and join us on this journey!
