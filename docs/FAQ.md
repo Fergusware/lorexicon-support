@@ -39,8 +39,9 @@ _Sharpen your quill, brave traveler —- here lie the answers to your most press
   - Flavor text to enliven each maneuver
   - Support for Area Effects and Checks (Defense, Flat, Perception, Skill)
   - Damage rolls with inline, clickable controls -- styled exactly to the [PF2e Style Guide](https://github.com/foundryvtt/pf2e/wiki/Style-Guide).
+  - Effects -- ready to drag and drop onto actors on the scene to apply automated rule elements
 
-- **Portrait Images**: A thematic illustration to grace your token and character sheet.
+- **Portrait Images**: (Optional) A thematic illustration to grace your token and character sheet.
 
 All of this is conjured in one seamless ritual -- no tedious copy-pasting, no manually poring over tables in arcane tomes, no missing details -- so you can focus on the story, not the stat block.
 
