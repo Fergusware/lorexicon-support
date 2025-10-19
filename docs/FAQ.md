@@ -113,19 +113,31 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 
 **Q: What are “Contexts,” and why should I care?**
 
-**A:** Contexts are your reusable fragments of narrative truth—campaign lore, house rules, character arcs, thematic vibes—all tucked into neat little scrolls. Instead of rewriting the same sacred texts over and over, you simply select the ones that apply, and Lorexicon will whisper them into the forge as part of your summoning. Think of it as preloading your spellbook with the right flavor of magic for the task at hand.
+**A:** Contexts are your reusable fragments of narrative truth -- campaign lore, house rules, character arcs, thematic vibes -- all tucked into neat little scrolls. Instead of rewriting the same sacred texts over and over, you simply select the ones that apply, and Lorexicon will whisper them into the forge as part of your summoning. Think of it as preloading your spellbook with the right flavor of magic for the task at hand.
 
 **Q: Can I carry more than one context into a prompt?**
 
-**A:** Of course! Select as many as you need—-whether you're juggling the local town's gloomy secrets, the party's tragic backstories, or a splash of homebrew rules. Lorexicon will faithfully include them all... just mind the overall incantation length.
+**A:** Of course! Select as many as you need -- whether you're juggling the local town's gloomy secrets, the party's tragic backstories, or a splash of homebrew rules. Lorexicon will faithfully include them all... just mind the overall incantation length.
 
 **Q: Is there a limit to how long each context can be?**
 
-**A:** Aye. Each individual context scroll may hold up to **2,500 characters**--enough for a full town’s worth of flavor, but not an entire encyclopedia. Keep them focused and modular so they can be recombined like runes in a spell.
+**A:** Aye. Each individual context scroll may hold up to **2,500 characters** -- enough for a full town’s worth of flavor, but not an entire encyclopedia. Keep them focused and modular so they can be recombined like runes in a spell.
 
 **Q: Do contexts count toward the total prompt limit?**
 
 **A:** Indeed they do. All selected contexts are bound into your request before it is cast, and together with your main prompt, they must fit within the **12,000 character** ritual limit. If your summoning fails to ignite, trim a scroll or shorten your plea.
+
+**Q: How are my Contexts stored and used?**
+
+**A:** Each Context you craft is kept safely within your own vault — private to you and visible only on your account. When you select one for a creation, Lorexicon briefly whispers its contents into the forge for that single act of summoning, then releases it back into the aether. The Context itself remains in your vault; it is never shared, learned from, or remembered by the LLM beyond that request.
+
+**Q: Is my data used to train the AI or shared with anyone else?**
+
+**A:** Absolutely not. Lorexicon uses the OpenAI API strictly for generation -- specifically the /v1/chat/completions, /v1/image/generations, and /v1/moderations endpoints. According to [OpenAI’s data-usage policy](https://platform.openai.com/docs/guides/your-data), data sent to these APIs is not used to train their models unless an explicit opt-in is given. We have not opted in, and no other party has access to your Contexts. Your lore remains your own.
+
+**Q: Will my Context affect other users or future creations?**
+
+**A:** Never. Each user’s spellbook stands alone; your Contexts influence only the conjurations you perform while they’re active. Once you dismiss or deselect them, they vanish from the forge entirely, leaving future summons untouched.
 
 ---
 

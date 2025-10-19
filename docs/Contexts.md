@@ -10,6 +10,8 @@ Contexts are Lorexicon's modular memory scrolls--personal grimoires you inscribe
 
 Each context is a reusable block of text that Lorexicon includes with your prompt. Select one, or many, to inform the forge before casting your spell. The result: consistency, coherence, and faster invocations every time.
 
+See this example from the guild's own epic setting, [Glenhaven](examples/Glenhaven-Context.md)!
+
 ---
 
 ### Chapter II: Why Use Contexts?
@@ -76,5 +78,7 @@ Your contexts are remembered between sessions and can be reused across realms. Y
 But fear not, adventurer--your feedback will shape their evolution. The Guild of Lorexicon listens.
 
 ---
+
+Should you yet have questions, you may seek additional answers about Contexts in our [FAQ](FAQ.md#-contexts)!
 
 _Go forth, O scribe, and inscribe your truths into the Codex of Contexts. Let no flame of lore be lost, nor a single house rule be forgotten._

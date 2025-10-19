@@ -16,7 +16,11 @@ Before you invoke the Lorexicon’s power, ensure your realm meets these glyphs:
 
 ### Chapter II: Invoking the Module
 
-1. In Foundry’s **Add-on Modules → Install Module**, paste the manifest oracle:
+1. In Foundry’s **Add-on Modules → Install Module**, seek out Lorexicon and click Install:
+
+   ![Lorexicon Install](./images/installation.png)
+
+   Should you require, you may paste the manifest directly from the Oracle:
 
    ```
    https://raw.githubusercontent.com/Fergusware/lorexicon-support/refs/heads/main/manifests/module.json
