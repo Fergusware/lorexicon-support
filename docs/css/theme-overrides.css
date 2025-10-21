@@ -35,9 +35,12 @@ strong {
 .wrapper li,
 .wrapper h1,
 .wrapper h2,
-.wrapper h3,
-.wrapper a {
+.wrapper h3 {
   color: var(--fw-text-light) !important;
+}
+
+.wrapper a {
+  color: var(--fw-accent-green) !important;
 }
 
 .wrapper > header > h1 > a {
