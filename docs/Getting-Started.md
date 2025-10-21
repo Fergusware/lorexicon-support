@@ -16,7 +16,7 @@ Before you invoke the Lorexicon’s power, ensure your realm meets these glyphs:
 
 ### Chapter II: Invoking the Module
 
-1. In Foundry’s **Add-on Modules → Install Module**, seek out Lorexicon and click Install:
+1. In Foundry’s **Add-on Modules → Install Module**, seek out [Lorexicon](https://foundryvtt.com/packages/lorexicon) and click Install:
 
    ![Lorexicon Install](./images/installation.png)
 
