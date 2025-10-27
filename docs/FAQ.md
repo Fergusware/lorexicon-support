@@ -180,6 +180,12 @@ Should you wish to sever your ties with the Guild, just click the little chain-b
 
 **A:** Even the most seasoned wizards can hit a stubborn spell, and our conjuration engine is no exception. On rare occasions, it simply refuses to cooperate -- tricks of the arcane, we suppose. When that happens, we beg your pardon and humbly ask you to submit again. Know that with each hiccup, we’re probing its hidden runes and teaching it new lessons, so the next summoning has an ever-better chance of success.
 
+**Q: Why did my image never appear, even though the job completed?**
+
+**A:** Ah, the fickle whims of the aether! On occasion, our image conjurer stumbles upon a subject that the moderation wards deem too perilous to render. Rather than letting your entire ritual collapse in a puff of void, we allow the generation to finish without the visual component. This prevents a “permanent failure” that would block that and similar creations in the future. The incantation still consumes its allotted charge, as the energy was spent attempting the summon — even if the image itself was banished mid-ritual.
+
+You’ll know when this occurs: the Results panel will note that the conjuration completed without an image, marking the attempt safely contained by the wards.
+
 **Q: What happens if I cancel a job?**
 
 **A:** Canceling a job before it completes does **not** deduct from your monthly quota—think of it as calling off the ritual before the final incantation. Your resources remain intact, and you can try again immediately. _However_, if cancellations become frequent enough to resemble mischief (dozens of aborted runs in rapid succession), the Lorexicon Guild reserves the right to intercede and guard against abuse.
