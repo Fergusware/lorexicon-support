@@ -207,10 +207,6 @@ You’ll know when this occurs: the Results panel will note that the conjuration
 
 **A:** Great question! Most modules live entirely on your local map; they never leave your screen. Lorexicon, however, uses both client and server -- to authenticate you via Patreon, track your monthly guild dues, and securely invoke our backend service for you. That extra login ensures you’re truly the hero you claim to be.
 
-**Q: I'm using the Electron app. Why can't I log in?**
-
-**A:** The Electron app doesn't support the method we're currently using to handle Patreon authentication, but we will be addressing this in the near future. In the meantime, please use a browser to access Lorexicon.
-
 **Q: How do I get Free Tier access? Do I need to join the Patreon**
 
 **A:** No arcane rituals required! To gain Free Tier access (3 creations per month), simply log in with your Patreon account. If you’re an active patron, you’ll receive your Guild rank benefits automatically. Joining is encouraged for announcements, but it’s not required for Free Tier access.
