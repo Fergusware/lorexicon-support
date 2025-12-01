@@ -2,7 +2,7 @@
   "id": "lorexicon",
   "title": "Lorexicon",
   "description": "Tools to Level Up Your Foundry VTT Games",
-  "version": "0.9.11",
+  "version": "0.9.12",
   "library": false,
   "authors": [
     {
@@ -32,7 +32,7 @@
   },
   "scripts": [],
   "manifest": "https://raw.githubusercontent.com/Fergusware/lorexicon-support/refs/heads/main/manifests/module.json",
-  "download": "https://github.com/Fergusware/lorexicon-support/releases/download/v0.9.11/lorexicon-0.9.11.zip",
+  "download": "https://github.com/Fergusware/lorexicon-support/releases/download/v0.9.12/lorexicon-0.9.12.zip",
   "esmodules": ["main.js"],
   "styles": ["styles/main-app.css"],
   "packs": [],
