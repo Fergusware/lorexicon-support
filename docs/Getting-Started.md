@@ -67,7 +67,7 @@ When first summoned, Lorexicon will unfurl its greeting as a herald in the Chat 
 
 | **Arcane Element** | **Description**                                                                                                          |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| **Type**           | Lore Codex: **Encounter**, **NPC**, or **Creature**                                                                      |
+| **Type**           | Lore Codex: **NPC**, **Creature**, **Hazard**, or **Encounter**                                                          |
 | **Prompt**         | Vast textarea (up to 12,000 characters) for your narrative or mechanical visions                                         |
 | **Result**         | When the summoning is complete, displays your creation’s name, linked to its freshly born document                       |
 | **Usage Panel**    | • **Completed:** x / y<br>• **Remaining:** z (flames red at 0)<br>• **Patreon ID:** 12345 🔗<br>• **Subscription:** free |

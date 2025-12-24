@@ -31,9 +31,10 @@ Store them once, summon them whenever you weave new tales, and watch Lorexicon s
 ## 🎨 Examples
 
 A small gallery of sample creations brought to life by Lorexicon.  
-→ [Wrath of the Lava Lord - Encounter](examples/Wrath-of-the-Lava-Lord)  
 → [Ofbac Grimbeard - NPC](examples/Ofbac-Grimbeard)  
 → [Shadow-Tainted Dire Wolf - Creature](examples/Shadow-Dire-Wolf)
+→ [Lethal Dart Launchers - Hazard](examples/Lethal-Dart-Launchers)  
+→ [Wrath of the Lava Lord - Encounter](examples/Wrath-of-the-Lava-Lord)
 
 ---
 

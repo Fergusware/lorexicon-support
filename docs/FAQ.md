@@ -12,18 +12,6 @@ _Sharpen your quill, brave traveler —- here lie the answers to your most press
 
 **A:** Lorexicon channels the arcane intelligence of a complex Pathfinder 2e rules engine, assisted by AI, to conjure everything you need for your next session -- fully formed Pathfinder 2e Actors (NPCs and creatures) complete with backgrounds, GM notes, stats, skills, tactics, and entire encounters balanced to your party’s size. Speak your prompt, and watch as it weaves monster rosters, narrative text, and scene art, then binds them all into Foundry as ready-to-play journal entries, tokens, and maps -- just pure magical creation.
 
-**Q: What detailed runes does Lorexicon inscribe for me when creating an Encounter?**
-
-**A:** With every invocation, Lorexicon weaves a tapestry of arcane runes into a complete, ready-to-run encounter:
-
-- **Encounter Synopsis**: A thematic title, key objectives, and stakes to frame the scene.
-- **Monster Roster**: Suggestions for balanced bestiary—frontline brutes, skirmishers, and support minions.
-- **Scaling Guidance**: Automatic scaling for party-size adjustments.
-- **Environment & Hazards**: Terrain features, obstacles, and traps.
-- **Narrative Text**: Vivid scene-setting prose and GM cues to spark player immersion.
-- **Visual Summonings**: A generated scene illustration to anchor your players' imaginations.
-- **Journal Integration**: A Foundry-ready journal entry with title, description, tags, tokens, and map placement.
-
 **Q: What detailed runes does Lorexicon inscribe for me when creating an Actor?**
 
 **A:** Every spark of creation you invoke, Lorexicon weaves into a fully realized Actor, complete with every rune and detail you could desire:
@@ -44,6 +32,32 @@ _Sharpen your quill, brave traveler —- here lie the answers to your most press
 - **Portrait Images**: (Optional) A thematic illustration to grace your token and character sheet.
 
 All of this is conjured in one seamless ritual -- no tedious copy-pasting, no manually poring over tables in arcane tomes, no missing details -- so you can focus on the story, not the stat block.
+
+**Q: What detailed runes does Lorexicon inscribe for me when creating a Hazard?**
+
+**A:** Each Hazard Lorexicon forges arrives fully realized and ready to deploy in Foundry, with no manual assembly required:
+
+- **Hazard Concept**: A clear, thematic description grounded in your world, region, and scene context.
+- **Classification**: Trap, Haunt, or Environmental hazard; magical or mundane; with intent-based behavior (alerting, offensive, obstructive, and more).
+- **Statistics**: Level, Stealth, Disable conditions, Hardness, Hit Points, and relevant defenses.
+- **Reactions**: Fully automated reactions with inline rolls, saving throws, and rule element effects.
+- **Disable & Reset Logic**: Purpose-built text describing how the hazard can be disarmed, bypassed, or rearmed.
+- **Aura Support**: Optional auras that apply automated effects to creatures in range.
+- **Foundry Integration**: A PF2e-native Hazard actor—no copy-pasting, no missing automation.
+
+All of this is conjured in a single step, letting you add meaningful danger to your adventure without slowing down play—or prep.
+
+**Q: What detailed runes does Lorexicon inscribe for me when creating an Encounter?**
+
+**A:** With every invocation, Lorexicon weaves a tapestry of arcane runes into a complete, ready-to-run encounter:
+
+- **Encounter Synopsis**: A thematic title, key objectives, and stakes to frame the scene.
+- **Monster Roster**: Suggestions for balanced bestiary—frontline brutes, skirmishers, and support minions.
+- **Scaling Guidance**: Automatic scaling for party-size adjustments.
+- **Environment & Hazards**: Terrain features, obstacles, and traps.
+- **Narrative Text**: Vivid scene-setting prose and GM cues to spark player immersion.
+- **Visual Summonings**: A generated scene illustration to anchor your players' imaginations.
+- **Journal Integration**: A Foundry-ready journal entry with title, description, tags, tokens, and map placement.
 
 **Q: That name, tho...**
 
@@ -77,7 +91,7 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 
 **Q: Will it heed my detailed directives?**
 
-**A:** In most cases, yes. If you decree “Severe threat encounter with a group of bandits” or “Level 5 fire mage with a staff of ember, Knowledge (Arcana) focus, and Slow (Enchantment) cantrip,” the Lorexicon’s quill will strive to honor each rune. Yet know this: even the most precise spells allow for a spark of improvisation. While parsing your intent, the LLM may embellish or interpret your vision to keep the story alive.
+**A:** In most cases, yes. If you decree “Severe threat encounter with a group of bandits” or “Fire mage with a staff of ember, Knowledge (Arcana) focus, and Slow (Enchantment) cantrip,” the Lorexicon’s quill will strive to honor each rune. Yet know this: even the most precise spells allow for a spark of improvisation. While parsing your intent, the LLM may embellish or interpret your vision to keep the story alive.
 
 **Q: What if my prompt grows too long or labyrinthine?**
 
@@ -95,10 +109,6 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 
 ## 🛠️ Customization & Content
 
-**Q: Why do the encounters not provide specific creatures or statistics?**
-
-**A:** We’ve chosen to let the magic of prose paint the danger rather than drown you in numbers -- imagine a bard’s stirring tale of a haunted crypt instead of a dry list of modifiers. By focusing on vivid scene descriptions, balanced roles, and thematic hooks, Lorexicon leans into the LLM’s strength at evocative narrative. You still have full control: summon the Actors afterward to conjure precise stat blocks when you’re ready for the mechanics. _If you crave every die roll and damage formula up front, simply generate the corresponding Actors to pair with your encounter._
-
 **Q: Why do the Actors have so many abilities? It seems like too many.**
 
 **A:** We’ve deliberately over-provisioned each Actor with a generous suite of talents -- imagine gifting your adventurers a well-stocked armory rather than a single blade. This abundance ensures you, the GM, can cherry-pick the most evocative abilities to fit your story, rather than being constrained by a bare-bones template. Think of it as choice over scarcity: you’ll never wish you had more options when crafting the perfect encounter. _If you prefer a leaner build, simply remove or ignore the extras -- your game, your rules._
@@ -106,6 +116,18 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 **Q: Does Lorexicon understand prompts in languages other than English?**
 
 **A:** Indeed! The Lorexicon’s arcane engine can decipher incantations penned in tongues beyond Common. Yet, for now, its quill faithfully scripts its replies in the Common tongue alone. Fear not -- behind the scenes our scribes have etched the runes for a truly multilingual grimoire. As our patrons' voices rise, we shall prioritize weaving full localization into both prompts and interface, letting Elven, Dwarven, and other dialects join the chorus of creation. Should you wish to lend your own quill to this grand endeavor of translation, dispatch a raven to our scribes and join us on this journey!
+
+**Q: What kinds of hazards does Lorexicon support?**
+
+**A:** Lorexicon sets its hand to three well-worn crafts: **Environmental**, **Haunt**, and **Trap** hazards, each forged in accordance with Pathfinder 2e Remaster tradition. Environmental hazards shape the battlefield itself—treacherous ground, choking vapors, unstable stone -- ever-present and impartial in their cruelty. Traps are the cunning work of mortal hands, sprung by pressure, motion, or meddling fingers, their purpose swift and decisive. Haunts, by contrast, are wounds in the world -- echoes of grief, malice, or unfinished rites -- that lash out with uncanny will when disturbed. These forms share a common virtue: they strike cleanly, resolve clearly, and integrate seamlessly with Foundry’s automation, allowing danger to feel alive without demanding constant arbitration. In this trinity of peril, Lorexicon finds the perfect balance between atmosphere, mechanics, and reliable play at the table.
+
+**Q: Why doesn’t Lorexicon support Complex Hazards?**
+
+**A:** Because a Complex Hazard is no mere snare of wire and spring, but a clockwork contraption of malice—one that takes its own turn, shifts its posture with the passing moments, and answers meddling hands with layered reprisals. To conjure such a thing faithfully demands careful keeping of time, states, and consequences; done poorly, it becomes cacophony instead of challenge. Thus does Lorexicon choose the honest path: to craft simple hazards swiftly and well, while leaving these grand engines of peril to deliberate, bespoke forging by the GM's own hand. When at last Lorexicon takes up this heavier art, it shall do so with the same discipline and rigor granted to Actors—no sooner, and never in haste.
+
+**Q: Why do the encounters not provide specific creatures or statistics?**
+
+**A:** We’ve chosen to let the magic of prose paint the danger rather than drown you in numbers -- imagine a bard’s stirring tale of a haunted crypt instead of a dry list of modifiers. By focusing on vivid scene descriptions, balanced roles, and thematic hooks, Lorexicon leans into the LLM’s strength at evocative narrative. You still have full control: summon the Actors afterward to conjure precise stat blocks when you’re ready for the mechanics. _If you crave every die roll and damage formula up front, simply generate the corresponding Actors to pair with your encounter._
 
 ---
 
