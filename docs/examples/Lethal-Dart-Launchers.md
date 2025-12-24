@@ -14,13 +14,13 @@ carousel: true
       <img src="../images/lethal-dart-launchers/01-darts-prompt.jpg" alt="Prompt">
     </div>
     <div class="swiper-slide">
-      <img src="../images/lethal-dart-launchers/02-darts-hazard.jpg" alt="Actor">
+      <img src="../images/lethal-dart-launchers/02-darts-hazard.jpg" alt="Hazard">
     </div>
     <div class="swiper-slide">
-      <img src="../images/lethal-dart-launchers/03-reaction.jpg" alt="Notes tab">
+      <img src="../images/lethal-dart-launchers/03-darts-reaction.jpg" alt="Reaction">
     </div>
     <div class="swiper-slide">
-      <img src="../images/lethal-dart-launchers/04-image.jpg" alt="Portrait">
+      <img src="../images/lethal-dart-launchers/04-darts-image.jpg" alt="Image">
     </div>
   </div>
 
