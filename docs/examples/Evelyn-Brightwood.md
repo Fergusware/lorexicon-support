@@ -23,7 +23,7 @@ carousel: true
       <img src="../images/evelyn/04-healer-notes.jpg" alt="Notes tab">
     </div>
     <div class="swiper-slide">
-      <img src="../images/evelyn/05-portrait.jpg" alt="Portrait">
+      <img src="../images/evelyn/05-healer-portrait.jpg" alt="Portrait">
     </div>
   </div>
 
