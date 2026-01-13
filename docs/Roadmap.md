@@ -9,8 +9,7 @@ The following features are planned for upcoming releases:
 - **Further refinement of Encounter generation**
 - **Tighter integration with the Bestiary Browser for Encounters**
 - **Generation of Complex Hazards with routines**
-- **Support for fully detailed spellcasters with SRD spell selections**
 - **Improved GUI settings with configurable folder locations**
 - **Integration with third-party modules such as PF2e Subsystems and Stochastic, Fantastic!**
 
-Last updated: 2026-01-04
+_Last updated: 2026-01-12_

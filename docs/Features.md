@@ -14,6 +14,10 @@ Lorexicon currently offers the following features:
 - **Actor creation with embedded automation links**  
   All Actors are created automatically, complete with linked rolls for templates, damage, defense rolls, flat checks, perception checks, and skill checks. All markup follows the PF2e module's [Style Guide](https://github.com/foundryvtt/pf2e/wiki/Style-Guide).
 
+- **Spell assignment from the SRD for spellcasters**
+  All Actors created as spellcasters have a set of appropriate spells selected from the SRD
+  and are created with the necessary spellcasting entries, including attack bonus and DC.
+
 - **Effect Item generation for automation**  
   Each action template comes complete with the rule elements necessary to automate its effects. Simply drag the effect onto the appropriate actor and we'll take care of the rest.
 
