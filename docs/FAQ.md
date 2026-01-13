@@ -113,6 +113,10 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 
 **A:** We’ve deliberately over-provisioned each Actor with a generous suite of talents -- imagine gifting your adventurers a well-stocked armory rather than a single blade. This abundance ensures you, the GM, can cherry-pick the most evocative abilities to fit your story, rather than being constrained by a bare-bones template. Think of it as choice over scarcity: you’ll never wish you had more options when crafting the perfect encounter. _If you prefer a leaner build, simply remove or ignore the extras -- your game, your rules._
 
+**Q: What spells will my spellcaster receive?**
+
+**A:** When Lorexicon identifies an Actor as a primary spellcaster -- whether wizard, sorcerer, cleric, or another spell-slinging vocation -- it draws a curated selection of spells directly from the Pathfinder 2e SRD, carefully tailored to match the Actor's level, tradition, and role in combat. These spells arrive ready to use, integrated seamlessly into the Actor. No need to hunt through tomes and scrolls yourself -- your spellcaster emerges from the forge already armed with an arsenal of incantations, ready for battle or intrigue.
+
 **Q: Does Lorexicon understand prompts in languages other than English?**
 
 **A:** Indeed! The Lorexicon’s arcane engine can decipher incantations penned in tongues beyond Common. Yet, for now, its quill faithfully scripts its replies in the Common tongue alone. Fear not -- behind the scenes our scribes have etched the runes for a truly multilingual grimoire. As our patrons' voices rise, we shall prioritize weaving full localization into both prompts and interface, letting Elven, Dwarven, and other dialects join the chorus of creation. Should you wish to lend your own quill to this grand endeavor of translation, dispatch a raven to our scribes and join us on this journey!
@@ -128,8 +132,6 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 **Q: Why do the encounters not provide specific creatures or statistics?**
 
 **A:** We’ve chosen to let the magic of prose paint the danger rather than drown you in numbers -- imagine a bard’s stirring tale of a haunted crypt instead of a dry list of modifiers. By focusing on vivid scene descriptions, balanced roles, and thematic hooks, Lorexicon leans into the LLM’s strength at evocative narrative. You still have full control: summon the Actors afterward to conjure precise stat blocks when you’re ready for the mechanics. _If you crave every die roll and damage formula up front, simply generate the corresponding Actors to pair with your encounter._
-
----
 
 ## 📦 Contexts
 
