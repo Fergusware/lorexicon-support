@@ -1,3 +1,7 @@
+# 0.9.16
+
+- Add support for creature selection for encounters
+
 # 0.9.15
 
 - Add support for assigning SRD-related spells to spellcasters
