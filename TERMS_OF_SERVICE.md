@@ -34,4 +34,6 @@ We may modify these Terms at any time. We will give you 30 days’ notice by upd
 These Terms are governed by the laws of the State of Michigan, U.S.A., without regard to conflict-of-law rules. Any dispute must be brought in the state or federal courts located in Oakland County, Michigan.
 
 ## 10. Contact Us  
-If you have questions or notices under these Terms, please email: sfergus1@gmail.com
+If you have questions or notices under these Terms, please email: legal@fergusware.com
+
+Lorexicon is © 2026 Fergusware LLC. All rights reserved.

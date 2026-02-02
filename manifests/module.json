@@ -14,7 +14,7 @@
   ],
   "compatibility": {
     "minimum": "12",
-    "verified": "13.350",
+    "verified": "13.351",
     "maximum": "13"
   },
   "relationships": {
@@ -45,6 +45,7 @@
   ],
   "url": "https://github.com/Fergusware/lorexicon-support",
   "readme": "https://github.com/Fergusware/lorexicon-support/blob/main/README.md",
+  "license": "https://raw.githubusercontent.com/Fergusware/lorexicon-support/refs/heads/main/LICENSE.md",
   "changelog": "https://github.com/Fergusware/lorexicon-support/blob/main/CHANGELOG.md",
   "bugs": "https://github.com/Fergusware/lorexicon-support/issues",
   "media": [

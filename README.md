@@ -57,9 +57,11 @@ By keeping support and feature tracking transparent, everyone in the Lorexicon c
 
 # Dependencies
 
-This module requires a licensed copy of Foundry Virtual Tabletop to run.
+This module requires a licensed copy of Foundry Virtual Tabletop to run. It requires the Pathfinder 2e System to be installed and used.
 
 # Trademarks and Copyright
 
 Pathfinder® is a registered trademark of Paizo Inc. All rights reserved. See [Paizo Licenses](https://paizo.com/licenses) for full license terms.  
-Foundry Virtual Tabletop © 2025 Foundry Gaming, LLC. All rights reserved. Refer to [Foundry Virtual Tabletop End User License Agreement](https://foundryvtt.com/article/license/) for full license terms.
+Foundry Virtual Tabletop © 2026 Foundry Gaming, LLC. All rights reserved. Refer to [Foundry Virtual Tabletop End User License Agreement](https://foundryvtt.com/article/license/) for full license terms.
+
+Lorexicon is © 2026 Fergusware LLC. All rights reserved.
