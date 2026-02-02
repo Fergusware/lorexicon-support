@@ -11,7 +11,7 @@ carousel: true
 <div class="swiper" style="width:100%;max-width:600px;margin:2rem auto;">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <img src="../images/raid-at-dawn/01-raid-prompt.png" alt="Prompt">
+      <img src="../images/raid-at-dawn/01-raid-prompt.jpg" alt="Prompt">
     </div>
     <div class="swiper-slide">
       <img src="../images/raid-at-dawn/02-raid-image.jpg" alt="Scene Image">
