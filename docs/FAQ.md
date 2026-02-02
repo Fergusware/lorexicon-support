@@ -52,7 +52,7 @@ All of this is conjured in a single step, letting you add meaningful danger to y
 **A:** With every invocation, Lorexicon weaves a tapestry of arcane runes into a complete, ready-to-run encounter:
 
 - **Encounter Synopsis**: A thematic title, key objectives, and stakes to frame the scene.
-- **Monster Roster**: Suggestions for balanced bestiary—frontline brutes, skirmishers, and support minions.
+- **Monster Roster**: SRD creatures hand-picked to suit your theme—with a primary recommendation and one or two stalwart alternates, each fully detailed with stat blocks ready for immediate use.
 - **Scaling Guidance**: Automatic scaling for party-size adjustments.
 - **Environment & Hazards**: Terrain features, obstacles, and traps.
 - **Narrative Text**: Vivid scene-setting prose and GM cues to spark player immersion.
@@ -100,6 +100,11 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 **Q: Can I demand exact hazards, environments, abilities, or statistics?**
 
 **A:** You may petition for them, but know that the Lorexicon’s arcane muse values narrative over pedantic precision. Your specific requests -- “create a skill challenge in an active volcano” -- will often appear, but occasionally the forge substitutes or adjusts values for balance. Embrace the variance; it breeds freshness in your tales.
+**Q: Do the encounters provide specific creatures?**
+
+**A:** Indeed they do! Lorexicon's enchanted forge now selects creatures directly from the Pathfinder 2e SRD, weaving them into your encounter with a primary recommendation and one or two stalwart alternates-—should the first prove unsuitable for your tale. This marriage of narrative and mechanics means your encounter arrives with both evocative scene descriptions _and_ precise stat blocks ready to deploy.
+
+Should the forge's search prove fruitless (perchance a most peculiar thematic demand leaves the archives bare), Lorexicon will gracefully fall back to generic creature roles, ensuring your encounter still takes shape. Your creations are never left wanting—-only the form may shift.
 
 **Q: How do I master the forge’s creativity?**
 

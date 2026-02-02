@@ -25,7 +25,7 @@ Lorexicon currently offers the following features:
   Hazards benefit from the same automation pipeline as Actors, including rule elements, linked rolls, effects, and auras -- allowing hazards to apply conditions, influence movement, and interact dynamically with the battlefield without manual bookkeeping.
 
 - **Encounter creation with full details**  
-  Automatically craft fully balanced PF2e encounters—complete with smart monster composition, dynamic party-size scaling, ready-to-use scene art and narrative, and one-click Foundry journal entries—to slash your prep time.
+  Automatically craft fully balanced PF2e encounters—complete with creatures selected from the SRD (with primary and alternate recommendations), dynamic party-size scaling, ready-to-use scene art and narrative, and one-click Foundry journal entries—to slash your prep time.
 
 - **Reusable Context support for consistent results**
   [Define persistent context blocks](Contexts)—-like your campaign setting, house rules, or plot arcs—-and reuse them across creations to maintain narrative and mechanical consistency without rewriting the same prompt every time.
