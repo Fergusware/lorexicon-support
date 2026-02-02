@@ -59,6 +59,10 @@ All of this is conjured in a single step, letting you add meaningful danger to y
 - **Visual Summonings**: A generated scene illustration to anchor your players' imaginations.
 - **Journal Integration**: A Foundry-ready journal entry with title, description, tags, tokens, and map placement.
 
+**Q: When are creatures selected for my encounter?**
+
+**A:** Aye, the type of encounter you conjure determines what springs forth from the forge's vaults! For **Combat** and **Pursuit** encounters, Lorexicon reaches into the Bestiary and Monster Core, plucking forth fearsome creatures to test your party's mettle. For **Moral** and **Social** encounters, you'll instead summon forth **NPCs** from the NPC Core and NPC Gallery--vivid personas with their own agendas and convictions, ready to parley or persuade. The other encounter types—such as **Discovery**—concern themselves with the shape of the land and the secrets it holds, and thus don't involve direct creature selection. In short: the encounter's very nature determines who (or what) you'll meet.
+
 **Q: That name, tho...**
 
 **A:** Aye, Lorexicon is incanted as 'low-REX-ih-KAHN.' Slice together **Lore** and **Lexicon**, and you’ve bound a 'dictionary of lore' —- the perfect grimoire for your Foundry. Truth be told, we tried a few dozen other arcane titles, but every worthy name was already claimed by other wizards. Thus we arrived at Lorexicon: a unique fusion worthy of its magic.
