@@ -35,7 +35,7 @@ A small gallery of sample creations brought to life by Lorexicon.
 → [Evelyn Brightwood - NPC](examples/Evelyn-Brightwood)  
 → [Shadow-Tainted Dire Wolf - Creature](examples/Shadow-Dire-Wolf)  
 → [Lethal Dart Launchers - Hazard](examples/Lethal-Dart-Launchers)  
-→ [Wrath of the Lava Lord - Encounter](examples/Wrath-of-the-Lava-Lord)
+→ [Raid at Dawn - Encounter](examples/Raid-at-Dawn)
 
 ---
 
