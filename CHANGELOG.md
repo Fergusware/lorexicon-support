@@ -1,3 +1,7 @@
+# 0.9.17
+
+- Add support for innate spellcasters
+
 # 0.9.16
 
 - Add support for creature selection for encounters
