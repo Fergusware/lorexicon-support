@@ -1,3 +1,15 @@
+# 1.0.0
+
+- Revise skill implementation to improve handling of specials
+- Revise handling of perception details
+- Handle image upload failures gracefully in the client
+- Add support for variable affliction timing
+- Add support for virulent afflictions
+- Add TempHP rule element support for applicable actions
+- Display notification if client module is outdated
+- Add support for Sentry metrics
+- Simplify and speed up token counting logic
+
 # 0.9.17
 
 - Add support for innate spellcasters
