@@ -1,3 +1,13 @@
+# 1.1.0
+
+- Generate Merchant loot actors
+- Prompt Advisor - help with inspiration on writing detailed prompts
+- Death-effect reaction archetypes
+- Aura enhancements for actors and hazards
+- Boss toggle for NPC and creature generation
+- Numeric inputs replaced with select menus
+- Changelog link added to UI to support users not on Discord
+
 # 1.0.0
 
 - Revise skill implementation to improve handling of specials

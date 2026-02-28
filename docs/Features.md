@@ -24,8 +24,11 @@ Lorexicon currently offers the following features:
 - **Full Foundry automation support**
   Hazards benefit from the same automation pipeline as Actors, including rule elements, linked rolls, effects, and auras -- allowing hazards to apply conditions, influence movement, and interact dynamically with the battlefield without manual bookkeeping.
 
-- **Encounter creation with full details**  
+- **Encounter creation with full details**
   Automatically craft fully balanced PF2e encounters—complete with creatures selected from the SRD (with primary and alternate recommendations), dynamic party-size scaling, ready-to-use scene art and narrative, and one-click Foundry journal entries—to slash your prep time.
+
+- **Merchant generation with real compendium inventory**
+  Conjure fully stocked merchants as Foundry loot actors with the Merchant sheet—ready for your players to browse, barter, and buy. Choose from thirteen merchant types (Alchemist, Apothecary, Blacksmith, Bowyer, Dark Temple, Enchanter, Fletcher, General Store, Herbalist, Jeweler, Tanner, Temple, Weaponsmith) and combine multiple types for hybrid shops. Set a level to control the item range, and every piece of inventory is drawn straight from the PF2e compendium with correct stats and pricing. Stock quantity and variety scale to match the merchant's concept, and pricing may reflect thematic markups or discounts driven by the narrative. Each merchant comes with a vivid shopkeeper persona and a descriptive storefront setting.
 
 - **Reusable Context support for consistent results**
   [Define persistent context blocks](Contexts)—-like your campaign setting, house rules, or plot arcs—-and reuse them across creations to maintain narrative and mechanical consistency without rewriting the same prompt every time.
