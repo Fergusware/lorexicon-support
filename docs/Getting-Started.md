@@ -38,7 +38,7 @@ To call Lorexicon forth:
 1. Venture to either the **Actors** tab or **Journal** tab of your Foundry interface.
 2. Click the **Lorexicon** button nestled at the bottom.
 3. On first start, you will be prompted to **Bind Your Patreon Pact** (see below).
-4. Behold the enchanted prompt window, alive with your monthly usage runes.
+4. Behold the enchanted prompt window, alive with your monthly usage display.
 
 ---
 
@@ -65,15 +65,15 @@ When first summoned, Lorexicon will unfurl its greeting as a herald in the Chat 
 
 ### Chapter VI: Crafting Your Creation
 
-| **Arcane Element** | **Description**                                                                                                          |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| **Type**           | Lore Codex: **NPC**, **Creature**, **Hazard**, **Encounter**, or **Merchant**                                            |
-| **Prompt**         | Vast textarea (up to 50,000 characters) for your narrative or mechanical visions                                         |
-| **Result**         | When the summoning is complete, displays your creation’s name, linked to its freshly born document                       |
-| **Usage Panel**    | • **Completed:** x / y<br>• **Remaining:** z (flames red at 0)<br>• **Patreon ID:** 12345 🔗<br>• **Subscription:** free |
-| **Buttons**        | • **Submit**: commence creation<br>• **Cancel**: banish or close the portal<br>• **Reset**: clear all runes              |
+| **Element**     | **Description**                                                                                                          |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Type**        | **NPC**, **Creature**, **Hazard**, **Encounter**, or **Merchant**                                                        |
+| **Prompt**      | Textarea (up to 50,000 characters) for your narrative or mechanical visions                                              |
+| **Result**      | When the summoning is complete, displays your creation’s name, linked to its new document                                |
+| **Usage Panel** | • **Completed:** x / y<br>• **Remaining:** z (flames red at 0)<br>• **Patreon ID:** 12345 🔗<br>• **Subscription:** free |
+| **Buttons**     | • **Submit**: begin creation<br>• **Cancel**: close the window<br>• **Reset**: clear all fields                          |
 
-Below the runes, a **Progress Bar** pulses while the forge works its magic (~30-60 seconds).
+Below, a **Progress Bar** pulses while the forge works its magic (~30-60 seconds).
 
 ---
 
