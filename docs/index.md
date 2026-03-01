@@ -44,6 +44,7 @@ A small gallery of sample creations brought to life by Lorexicon.
 → [Shadow-Tainted Dire Wolf - Creature](examples/Shadow-Dire-Wolf)  
 → [Lethal Dart Launchers - Hazard](examples/Lethal-Dart-Launchers)  
 → [Raid at Dawn - Encounter](examples/Raid-at-Dawn)
+→ [Ironroot Forge & Armory - Merchant](examples/Ironroot-Forge-and-Armory)
 
 ---
 
