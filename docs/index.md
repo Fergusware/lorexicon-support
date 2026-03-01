@@ -28,6 +28,14 @@ Store them once, summon them whenever you weave new tales, and watch Lorexicon s
 
 ---
 
+## 🔮 Prompt Advisor
+
+Not sure what to write — or want to sharpen the prompt you have? The Prompt Advisor reviews your incantation and suggests ways to add detail and depth, free of charge against your quota.
+
+[→ Learn about the Prompt Advisor](Prompt-Advisor)
+
+---
+
 ## 🎨 Examples
 
 A small gallery of sample creations brought to life by Lorexicon.  

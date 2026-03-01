@@ -110,6 +110,14 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 
 Should the forge's search prove fruitless (perchance a most peculiar thematic demand leaves the archives bare), Lorexicon will gracefully fall back to generic creature roles, ensuring your encounter still takes shape. Your creations are never left wanting—only the form may shift.
 
+**Q: What is the Prompt Advisor?**
+
+**A:** The Prompt Advisor is your personal counsel, built right into the creation form. Click the **Advise** button (next to Submit) before committing your incantation, and it will study your prompt and return a revised version along with an explanation of what it changed and why. A dialog presents the counsel; click **Use** to accept the suggestions into your prompt, or **Discard** to keep your original text. For the full guide, see [The Prompt Advisor](Prompt-Advisor).
+
+**Q: Does the Prompt Advisor count against my monthly quota?**
+
+**A:** Not a single spell slot! The Prompt Advisor never deducts from your monthly allotment — only the final **Submit** that sends your prompt to the forge counts. If the Advisor's suggestions don't suit your vision, click **Discard** and consult it again if you wish. Only when you click **Use** does it step aside for that creation, its counsel now woven into your incantation.
+
 **Q: How do I master the forge’s creativity?**
 
 **A:** Treat your prompt as an invocation, not a blueprint. Name the soul or theme you desire, hint at its power and purpose, then step back. Lorexicon will sculpt the rest, blending your vision with its own enchanted insights. The result: Actors that feel alive, not just assembled.

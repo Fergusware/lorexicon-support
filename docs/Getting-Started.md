@@ -77,7 +77,15 @@ Below, a **Progress Bar** pulses while the forge works its magic (~30-60 seconds
 
 ---
 
-### Chapter VII: The Summoning of Your Creation
+### Chapter VII: Consulting the Prompt Advisor
+
+Before you commit your incantation to the forge, consider calling upon the **Prompt Advisor**. Click the **Advise** button (right next to Submit), and it will review your prompt and return a revised version with an explanation of what it changed and why. A dialog presents the Advisor's counsel — click **Use** to accept the suggestions, or **Discard** to keep your original text.
+
+The Prompt Advisor **does not count against your monthly quota** — only the final Submit spends a spell slot. Discard the suggestions and you can consult it again; once you click Use, the Advisor steps aside for that creation. For the full guide, see [The Prompt Advisor](Prompt-Advisor).
+
+---
+
+### Chapter VIII: The Summoning of Your Creation
 
 When the progress bar runs its course:
 
@@ -89,7 +97,7 @@ _No further import rituals are required to begin using your creation._
 
 ---
 
-### Chapter VIII: Tracking Your Magical Quota
+### Chapter IX: Tracking Your Magical Quota
 
 Each month’s magic is finite. Observe your Usage Panel:
 
@@ -102,7 +110,7 @@ Hover any rune for further illumination.
 
 ---
 
-### Chapter IX: When the Fates Frown
+### Chapter X: When the Fates Frown
 
 Should darkness cloud your ritual:
 
@@ -115,7 +123,7 @@ Should darkness cloud your ritual:
 
 ---
 
-### Chapter X: Sage Advice & Troubleshooting
+### Chapter XI: Sage Advice & Troubleshooting
 
 - **Lorexicon button vanished?** Ensure the module is enabled and your realm restarted.
 - **Pop-up barred?** Permit pop-ups for your Foundry domain.
