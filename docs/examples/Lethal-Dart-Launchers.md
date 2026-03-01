@@ -8,6 +8,8 @@ carousel: true
 
 > A kobold tunnel rigged with lethal dart launchers designed to kill, not deter.
 
+A look at what a generated hazard delivers in Foundry. The Hazard sheet shows the full stat block — Stealth DC, HP, hardness, immunities, weaknesses, and saves — alongside a thematic description, disable conditions with inline skill checks, and reset behavior. Scroll to the reaction to see the automated Dart Barrage action complete with trigger, area burst template, damage roll, and a linked Reflex save — all clickable and ready for play.
+
 <div class="swiper" style="width:100%;max-width:600px;margin:2rem auto;">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
