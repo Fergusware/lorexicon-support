@@ -1,16 +1,16 @@
 # Lorexicon's Frequently Asked Questions
 
-_Sharpen your quill, brave traveler —- here lie the answers to your most pressing inquiries, seasoned with a dash of humor and a pinch of RPG flair._
+_Sharpen your quill, brave traveler — here lie the answers to your most pressing inquiries, seasoned with a dash of humor and a pinch of RPG flair._
 
 ## 📜 General
 
 **Q: So what does it do?**
 
-**A:** Lorexicon is your enchanted grimoire, woven into the very heart of Foundry VTT. Speak your desire -- be it a harrowing dungeon showdown, a web of courtly intrigue, or the summons of a fearsome beast—and it will conjure a fully realized Pathfinder 2e encounter, NPC, or creature before your eyes. With a flourish of its arcane quill, it drafts balanced monster rosters with dynamic party-size scaling, weaves evocative scene art and narrative text, and inscribes every stat, skill check, and tactic directly into a Foundry document. When the ritual completes, your “Lorexicon” folder overflows with ready-to-play encounters, stat blocks, portraits, and tokens—no manual import, no tedium—just pure, instantaneous creation at your command.
+**A:** Lorexicon is your enchanted grimoire, woven into the very heart of Foundry VTT. Speak your desire — be it a harrowing dungeon showdown, a web of courtly intrigue, the summons of a fearsome beast, or a bustling merchant's shop — and it will conjure a fully realized Pathfinder 2e encounter, NPC, creature, hazard, or merchant before your eyes. With a flourish of its arcane quill, it drafts balanced monster rosters with dynamic party-size scaling, weaves evocative scene art and narrative text, and inscribes every stat, skill check, and tactic directly into a Foundry document. When the ritual completes, your “Lorexicon” folder overflows with ready-to-play encounters, stat blocks, portraits, and tokens — no manual import, no tedium — just pure, instantaneous creation at your command.
 
 **Q: What can Lorexicon summon for me?**
 
-**A:** Lorexicon channels the arcane intelligence of a complex Pathfinder 2e rules engine, assisted by AI, to conjure everything you need for your next session -- fully formed Pathfinder 2e Actors (NPCs and creatures) complete with backgrounds, GM notes, stats, skills, tactics, and entire encounters balanced to your party’s size. Speak your prompt, and watch as it weaves monster rosters, narrative text, and scene art, then binds them all into Foundry as ready-to-play journal entries, tokens, and maps -- just pure magical creation.
+**A:** Lorexicon channels the arcane intelligence of a complex Pathfinder 2e rules engine, assisted by AI, to conjure everything you need for your next session -- fully formed Pathfinder 2e Actors (NPCs and creatures), hazards, encounters balanced to your party’s size, and fully stocked merchants with real compendium inventory. Speak your prompt, and watch as it weaves monster rosters, narrative text, and scene art, then binds them all into Foundry as ready-to-play journal entries, tokens, and maps -- just pure magical creation.
 
 **Q: What detailed runes does Lorexicon inscribe for me when creating an Actor?**
 
@@ -22,7 +22,6 @@ _Sharpen your quill, brave traveler —- here lie the answers to your most press
 - **Skills**: All trained skill modifiers, ready for checks.
 - **Attacks**: Melee and Ranged weapon entries, each with damage formulas and traits.
 - **Actions**:
-
   - Standard Actions, Reactions, Free Actions, and Passive abilities
   - Flavor text to enliven each maneuver
   - Support for Area Effects and Checks (Defense, Flat, Perception, Skill)
@@ -65,7 +64,7 @@ All of this is conjured in a single step, letting you add meaningful danger to y
 
 **Q: That name, tho...**
 
-**A:** Aye, Lorexicon is incanted as 'low-REX-ih-KAHN.' Slice together **Lore** and **Lexicon**, and you’ve bound a 'dictionary of lore' —- the perfect grimoire for your Foundry. Truth be told, we tried a few dozen other arcane titles, but every worthy name was already claimed by other wizards. Thus we arrived at Lorexicon: a unique fusion worthy of its magic.
+**A:** Aye, Lorexicon is incanted as 'low-REX-ih-KAHN.' Slice together **Lore** and **Lexicon**, and you’ve bound a ‘dictionary of lore’ — the perfect grimoire for your Foundry. Truth be told, we tried a few dozen other arcane titles, but every worthy name was already claimed by other wizards. Thus we arrived at Lorexicon: a unique fusion worthy of its magic.
 
 ---
 
@@ -104,11 +103,12 @@ _Embark upon your journey with confidence, knowing that whether you walk the pat
 **Q: Can I demand exact hazards, environments, abilities, or statistics?**
 
 **A:** You may petition for them, but know that the Lorexicon’s arcane muse values narrative over pedantic precision. Your specific requests -- “create a skill challenge in an active volcano” -- will often appear, but occasionally the forge substitutes or adjusts values for balance. Embrace the variance; it breeds freshness in your tales.
+
 **Q: Do the encounters provide specific creatures?**
 
-**A:** Indeed they do! Lorexicon's enchanted forge now selects creatures directly from the Pathfinder 2e SRD, weaving them into your encounter with a primary recommendation and one or two stalwart alternates-—should the first prove unsuitable for your tale. This marriage of narrative and mechanics means your encounter arrives with both evocative scene descriptions _and_ precise stat blocks ready to deploy.
+**A:** Indeed they do! Lorexicon's enchanted forge now selects creatures directly from the Pathfinder 2e SRD, weaving them into your encounter with a primary recommendation and one or two stalwart alternates—should the first prove unsuitable for your tale. This marriage of narrative and mechanics means your encounter arrives with both evocative scene descriptions _and_ precise stat blocks ready to deploy.
 
-Should the forge's search prove fruitless (perchance a most peculiar thematic demand leaves the archives bare), Lorexicon will gracefully fall back to generic creature roles, ensuring your encounter still takes shape. Your creations are never left wanting—-only the form may shift.
+Should the forge's search prove fruitless (perchance a most peculiar thematic demand leaves the archives bare), Lorexicon will gracefully fall back to generic creature roles, ensuring your encounter still takes shape. Your creations are never left wanting—only the form may shift.
 
 **Q: How do I master the forge’s creativity?**
 
@@ -138,10 +138,6 @@ Should the forge's search prove fruitless (perchance a most peculiar thematic de
 
 **A:** Because a Complex Hazard is no mere snare of wire and spring, but a clockwork contraption of malice—one that takes its own turn, shifts its posture with the passing moments, and answers meddling hands with layered reprisals. To conjure such a thing faithfully demands careful keeping of time, states, and consequences; done poorly, it becomes cacophony instead of challenge. Thus does Lorexicon choose the honest path: to craft simple hazards swiftly and well, while leaving these grand engines of peril to deliberate, bespoke forging by the GM's own hand. When at last Lorexicon takes up this heavier art, it shall do so with the same discipline and rigor granted to Actors—no sooner, and never in haste.
 
-**Q: Why do the encounters not provide specific creatures or statistics?**
-
-**A:** We’ve chosen to let the magic of prose paint the danger rather than drown you in numbers -- imagine a bard’s stirring tale of a haunted crypt instead of a dry list of modifiers. By focusing on vivid scene descriptions, balanced roles, and thematic hooks, Lorexicon leans into the LLM’s strength at evocative narrative. You still have full control: summon the Actors afterward to conjure precise stat blocks when you’re ready for the mechanics. _If you crave every die roll and damage formula up front, simply generate the corresponding Actors to pair with your encounter._
-
 ## 📦 Contexts
 
 **Q: What are “Contexts,” and why should I care?**
@@ -154,11 +150,11 @@ Should the forge's search prove fruitless (perchance a most peculiar thematic de
 
 **Q: Is there a limit to how long each context can be?**
 
-**A:** Aye. Each individual context scroll may hold up to **2,500 characters** -- enough for a full town’s worth of flavor, but not an entire encyclopedia. Keep them focused and modular so they can be recombined like runes in a spell.
+**A:** Aye. Each individual context scroll may hold up to **8,000 characters** -- enough for a full town’s worth of flavor, but not an entire encyclopedia. Keep them focused and modular so they can be recombined like runes in a spell.
 
 **Q: Do contexts count toward the total prompt limit?**
 
-**A:** Indeed they do. All selected contexts are bound into your request before it is cast, and together with your main prompt, they must fit within the **12,000 character** ritual limit. If your summoning fails to ignite, trim a scroll or shorten your plea.
+**A:** Indeed they do. All selected contexts are bound into your request before it is cast, and together with your main prompt, they must fit within the **50,000 character** ritual limit. If your summoning fails to ignite, trim a scroll or shorten your plea.
 
 **Q: How are my Contexts stored and used?**
 
@@ -229,7 +225,7 @@ You’ll know when this occurs: the Results panel will note that the conjuration
 
 **Q: What happens if my payment fails? Or if I change tiers?**
 
-**A:** Fear not -- the Loreicon's magic is flexible.
+**A:** Fear not -- Lorexicon's magic is flexible.
 
 - If your payment fails, your access to the Guild’s forges will pause, but no penalties shall befall you.
 - If you resolve the issue, access returns as swiftly as a recalled familiar.
@@ -240,9 +236,9 @@ You’ll know when this occurs: the Results panel will note that the conjuration
 
 **A:** Great question! Most modules live entirely on your local map; they never leave your screen. Lorexicon, however, uses both client and server -- to authenticate you via Patreon, track your monthly guild dues, and securely invoke our backend service for you. That extra login ensures you’re truly the hero you claim to be.
 
-**Q: How do I get Free Tier access? Do I need to join the Patreon**
+**Q: How do I get Free Tier access? Do I need to join the Patreon?**
 
-**A:** No arcane rituals required! To gain Free Tier access (3 creations per month), simply log in with your Patreon account. If you’re an active patron, you’ll receive your Guild rank benefits automatically. Joining is encouraged for announcements, but it’s not required for Free Tier access.
+**A:** No arcane rituals required! To gain Free Tier access (3 creations per month), simply log in with your Patreon account. If you’re an active patron, you’ll receive your Guild rank benefits automatically. Joining the Fergusware Patreon is encouraged for announcements, but it’s not required for Free Tier access.
 
 _Note: Fergusware reserves the right to alter or remove Free Tier quotas at any time._
 

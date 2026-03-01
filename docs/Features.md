@@ -31,7 +31,7 @@ Lorexicon currently offers the following features:
   Conjure fully stocked merchants as Foundry loot actors with the Merchant sheet—ready for your players to browse, barter, and buy. Choose from thirteen merchant types (Alchemist, Apothecary, Blacksmith, Bowyer, Dark Temple, Enchanter, Fletcher, General Store, Herbalist, Jeweler, Tanner, Temple, Weaponsmith) and combine multiple types for hybrid shops. Set a level to control the item range, and every piece of inventory is drawn straight from the PF2e compendium with correct stats and pricing. Stock quantity and variety scale to match the merchant's concept, and pricing may reflect thematic markups or discounts driven by the narrative. Each merchant comes with a vivid shopkeeper persona and a descriptive storefront setting.
 
 - **Reusable Context support for consistent results**
-  [Define persistent context blocks](Contexts)—-like your campaign setting, house rules, or plot arcs—-and reuse them across creations to maintain narrative and mechanical consistency without rewriting the same prompt every time.
+  [Define persistent context blocks](Contexts)—like your campaign setting, house rules, or plot arcs—and reuse them across creations to maintain narrative and mechanical consistency without rewriting the same prompt every time.
 
 - **Images for all creations**  
   If you choose, automatically generate portrait and scene art for every creation.

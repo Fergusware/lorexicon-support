@@ -41,14 +41,13 @@ A small gallery of sample creations brought to life by Lorexicon.
 
 ## 💡 Inspiration
 
-Step right up, good traveler, and lend me thine ear! If thou seekest more than a mere list of wonders — if thou wouldst know how to wield Lorexicon, not just behold its works — then thou art in the right place.
+Sparks and seed-thoughts to stir your imagination — clever prompt ideas and playful notions to help you spin tales whether you have hours to prepare or but a heartbeat to spare. Take what pleases you, twist it to your liking, and make it your own. These ideas are tools, not commandments, and Lorexicon thrives in the hands of a bold improviser.
 
-Within lie sparks and seed-thoughts aplenty: clever promptings and playful notions meant to stir thy imagination, quicken thy wit, and help thee spin tales whether thou hast hours to prepare or but a heartbeat to spare. Take what pleases thee, twist it to thy liking, and make it thine own — for these ideas are tools, not commandments, and Lorexicon thrives in the hands of a bold improviser.
-
-→ [NPC Prompt Ideas](inspiration/npc-prompts.md)  
-→ [Creature Prompt Ideas](inspiration/creature-prompts.md)  
-→ [Encounter Prompt Ideas](inspiration/encounter-prompts.md)  
+→ [NPC Prompt Ideas](inspiration/npc-prompts.md)
+→ [Creature Prompt Ideas](inspiration/creature-prompts.md)
+→ [Encounter Prompt Ideas](inspiration/encounter-prompts.md)
 → [Hazard Prompt Ideas](inspiration/hazard-prompts.md)
+→ [Merchant Prompt Ideas](inspiration/merchant-prompts.md)
 
 ---
 

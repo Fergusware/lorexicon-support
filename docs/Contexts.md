@@ -30,13 +30,13 @@ Think of them as bound familiars--faithfully whispering the same truths into eve
 
 While mighty, contexts are not infinite in size or number:
 
-- **Each context scroll may hold up to 2,500 characters.**
+- **Each context scroll may hold up to 8,000 characters.**
   Enough for a robust chunk of lore--but not your entire setting. Keep them modular.
 
 - **You may select multiple contexts at once.**
   Stack your setting, tone, and rules together for richer conjurations.
 
-- **The total input limit (prompt + all selected contexts) is 12,000 characters.**
+- **The total input limit (prompt + all selected contexts) is 50,000 characters.**
   Should your combined rune-casting exceed this limit, Lorexicon shall reject your plea until it is trimmed.
 
 _Choose wisely. Layer cleverly. Create consistently._
@@ -46,7 +46,7 @@ _Choose wisely. Layer cleverly. Create consistently._
 ### Chapter IV: How to Use Contexts in Your Summoning
 
 1. **From the prompt portal**, any existing contexts will display automatically.
-2. **Create a new context** using the “Add” button. Give the missive a name and inscribe your scroll (up to 2,500 characters).
+2. **Create a new context** using the “Add” button. Give the missive a name and inscribe your scroll (up to 8,000 characters).
 3. **Check the box** next to any context you wish to include with your current ritual.
 4. The selected scrolls will be silently included when your prompt is forged.
 
@@ -64,7 +64,7 @@ Your contexts are remembered between sessions and can be reused across realms. Y
 
 - **Use consistent naming** so your future self understands the purpose of each scroll.
 
-- **Review your character count** in the bottom-right of the prompt panel to ensure you remain within the 12,000-character ritual limit.
+- **Review your character count** in the bottom-right of the prompt panel to ensure you remain within the 50,000-character ritual limit.
 
 - **When in doubt, test.** The best way to learn context stacking is to try it. See how your creations shift as you add or remove scrolls.
 
