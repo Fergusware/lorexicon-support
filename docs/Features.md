@@ -36,7 +36,10 @@ Lorexicon currently offers the following features:
 - **Reusable Context support for consistent results**
   [Define persistent context blocks](Contexts)—like your campaign setting, house rules, or plot arcs—and reuse them across creations to maintain narrative and mechanical consistency without rewriting the same prompt every time.
 
-- **Images for all creations**  
+- **Job History with reimport**
+  Browse your complete history of past creations and reimport any conjuration — JSON and images — back into Foundry for up to **30 days** after the original summoning. Reimporting does not count against your monthly quota.
+
+- **Images for all creations**
   If you choose, automatically generate portrait and scene art for every creation.
 
 - **Follows all guidance for encounter design per [Encounter Design](https://2e.aonprd.com/Rules.aspx?ID=2715)**

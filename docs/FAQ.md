@@ -276,11 +276,15 @@ _Note: Fergusware reserves the right to alter or remove Free Tier quotas at any 
 
 **Q: How long do you retain my creations?**
 
-**A:** Your quest log (or job history) lives forever in our archives, while the conjurations (JSON and images) remain in our vault for **90 days** before we gently release them back into the wild.
+**A:** Your quest log (Job History) lives forever in our archives, while the conjurations themselves (JSON and images) remain in our vault for **30 days** before we gently release them back into the wild.
+
+**Q: What is Job History?**
+
+**A:** Job History is your personal ledger of every creation the forge has wrought on your behalf. Open it from the Lorexicon window to browse past summonings — and if a conjuration is still within its **30-day** retention window, you can reimport it directly back into Foundry with a single click. No support ticket, no waiting — just reclaim your lost treasure and carry on. Reimporting never deducts from your monthly allotment; the spell slot was spent when the creation was first forged.
 
 **Q: I accidentally deleted my creation. Can I get it back?**
 
-**A:** Not automatically (yet), but our support scribes can assist. Visit our [Support Page](https://github.com/Fergusware/lorexicon-support) and we'll help recover your lost treasure.
+**A:** If fewer than **30 days** have passed since the original summoning, aye — open your **Job History** and reimport the creation yourself. Beyond that window, the conjuration's runes have faded from our vault and can no longer be restored.
 
 ---
 
