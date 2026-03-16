@@ -77,5 +77,5 @@ See what’s coming next: planned enhancements, upcoming releases, and long-term
 > **Note:** For legal, licensing, or version-specific details, check the  
 > [PRIVACY POLICY](https://github.com/Fergusware/lorexicon-support/blob/main/PRIVACY_POLICY.md),  
 > [CHANGELOG](https://github.com/Fergusware/lorexicon-support/blob/main/CHANGELOG.md),  
-> [LICENSE](https://github.com/Fergusware/lorexicon-support/blob/main/LICENSE), and  
+> [LICENSE](https://github.com/Fergusware/lorexicon-support/blob/main/LICENSE.md), and  
 > [TERMS OF SERVICE](https://github.com/Fergusware/lorexicon-support/blob/main/TERMS_OF_SERVICE.md) files in the main repository.
