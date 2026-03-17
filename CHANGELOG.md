@@ -1,3 +1,21 @@
+# 1.3.9
+
+- Add a new "bonus to all saves" passive archetype available at level 10+
+- Generate attacks from weapon items added to inventory
+- Correct the encounter party level min value to start at 1
+- Add a "Sample Loot" actor for encounters with preselected loot recommendations from the SRD
+- Add a link to open the Bestiary Browser with predefined filter from encounters
+- System prompt improvements for setup, narrative, and background text on encounters
+- Add a two-pass creature selection process for encounters to improve creature selections
+- Speed up backend testing process
+
+# 1.2.8
+
+- Add support for job history and reimport of previous generations
+- Add support for ancestry weapons on NPCs and creatures
+- Support negative intelligence modifiers on mindless, constructs, and animals
+- Backend code maintenance
+
 # 1.1.0
 
 - Generate Merchant loot actors
