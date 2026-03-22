@@ -1,3 +1,11 @@
+# 1.4.10
+
+- Assign gear to NPCs and creatures
+- Add armor selection for NPCs and creatures
+- Add magic weapon selection for NPCs and creatures where appropiate
+- Add ammunition to NPCs and creatures for crafted ranged weapons
+- Fix bug causing affliction effects to be associated with incorrect weapons
+
 # 1.3.9
 
 - Add a new "bonus to all saves" passive archetype available at level 10+
