@@ -21,6 +21,7 @@ _Sharpen your quill, brave traveler — here lie the answers to your most pressi
 - **Defenses**: AC, Fortitude, Reflex, Will -- plus Immunities, Resistances, and Weaknesses.
 - **Skills**: All trained skill modifiers, ready for checks.
 - **Attacks**: Melee and Ranged weapon entries, each with damage formulas and traits.
+- **Equipment**: Gear, armor, and weapons drawn from the SRD — including magic weapons selected to suit the Actor's level and role. Ranged combatants receive appropriate ammunition for their crafted weapons, so your summoned warrior arrives ready for battle, not rummaging through an empty quiver.
 - **Actions**:
   - Standard Actions, Reactions, Free Actions, and Passive abilities
   - Flavor text to enliven each maneuver
