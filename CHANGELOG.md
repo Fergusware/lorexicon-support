@@ -5,6 +5,7 @@
 - Add magic weapon selection for NPCs and creatures where appropiate
 - Add ammunition to NPCs and creatures for crafted ranged weapons
 - Fix bug causing affliction effects to be associated with incorrect weapons
+- Fix bug with certain types of crossbow and firearm handling
 
 # 1.3.9
 
