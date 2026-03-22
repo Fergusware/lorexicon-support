@@ -33,8 +33,12 @@
   "scripts": [],
   "manifest": "https://raw.githubusercontent.com/Fergusware/lorexicon-support/refs/heads/main/manifests/module.json",
   "download": "https://github.com/Fergusware/lorexicon-support/releases/download/v1.4.10/lorexicon-1.4.10.zip",
-  "esmodules": ["main.js"],
-  "styles": ["styles/main-app.css"],
+  "esmodules": [
+    "main.js"
+  ],
+  "styles": [
+    "styles/main-app.css"
+  ],
   "packs": [
     {
       "banner": "modules/lorexicon/assets/compendium-banner/natural-weapons.webp",
@@ -75,7 +79,11 @@
     {
       "name": "Lorexicon",
       "sorting": "m",
-      "packs": ["macros", "natural-weapons", "supplemental-weapons"]
+      "packs": [
+        "macros",
+        "natural-weapons",
+        "supplemental-weapons"
+      ]
     }
   ],
   "languages": [
