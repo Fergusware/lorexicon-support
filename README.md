@@ -13,6 +13,8 @@ Lorexicon is a GM assistant companion for Pathfinder 2e Remaster, available as b
 - Create immersive scene descriptions, creature compositions, and artwork
 - Generate fully formed, immediately usable Pathfinder 2e Remaster Actors on the fly
 - Conjure either unique NPCs or generic creatures
+- Craft hazards — traps, haunts, and environmental dangers
+- Assemble merchants with curated inventories and distinctive personalities
 - Optional: Produce NPC and creature portraits
 
 Lorexicon integrates seamlessly into your GM toolkit so you spend less time on prep and more time telling your story.
