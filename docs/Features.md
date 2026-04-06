@@ -12,7 +12,7 @@ Lorexicon currently offers the following features:
   Generate clear, rules-accurate simple hazards with defined triggers, effects, disable conditions, and reset behavior, ready to drop directly into play without additional cleanup.
 
 - **Actor creation with embedded automation links**  
-  All Actors are created automatically, complete with linked rolls for templates, damage, defense rolls, flat checks, perception checks, and skill checks — and outfitted with armor, weapons (including magic weapons from the SRD), and ammunition drawn straight from the compendium. All markup follows the PF2e module's [Style Guide](https://github.com/foundryvtt/pf2e/wiki/Style-Guide).
+  All Actors are created automatically, complete with linked rolls for templates, damage, defense rolls, flat checks, perception checks, and skill checks — and outfitted with armor, weapons (including magic weapons from the SRD), and ammunition drawn straight from the official PF2e item database. All markup follows the PF2e [Style Guide](https://github.com/foundryvtt/pf2e/wiki/Style-Guide).
 
 - **Spell assignment from the SRD for spellcasters**  
   All Actors created as spellcasters have a set of appropriate spells selected from the SRD
@@ -21,14 +21,14 @@ Lorexicon currently offers the following features:
 - **Effect Item generation for automation**  
   Each action template comes complete with the rule elements necessary to automate its effects. Simply drag the effect onto the appropriate actor and we'll take care of the rest.
 
-- **Full Foundry automation support**  
+- **Full rules automation support**  
   Hazards benefit from the same automation pipeline as Actors, including rule elements, linked rolls, effects, and auras -- allowing hazards to apply conditions, influence movement, and interact dynamically with the battlefield without manual bookkeeping.
 
 - **Encounter creation with full details**  
-  Automatically craft fully balanced PF2e encounters—complete with creatures selected from the SRD (with primary and alternate recommendations), dynamic party-size scaling, ready-to-use scene art and narrative, and one-click Foundry journal entries—to slash your prep time.
+  Automatically craft fully balanced PF2e encounters—complete with creatures selected from the SRD (with primary and alternate recommendations), dynamic party-size scaling, ready-to-use scene art and narrative, and one-click journal entries—to slash your prep time.
 
-- **Merchant generation with real compendium inventory**  
-  Conjure fully stocked merchants as Foundry loot actors with the Merchant sheet—ready for your players to browse, barter, and buy. Choose from a growing roster of merchant types, combine them for hybrid shops, and set a level to control the item range. Every piece of inventory is drawn straight from the PF2e compendium with correct stats and pricing, and each merchant comes with a vivid shopkeeper persona and storefront setting.
+- **Merchant generation with real inventory**  
+  Conjure fully stocked merchants ready for your players to browse, barter, and buy. Choose from a growing roster of merchant types, combine them for hybrid shops, and set a level to control the item range. Every piece of inventory is drawn straight from the official PF2e item database with correct stats and pricing, and each merchant comes with a vivid shopkeeper persona and storefront setting.
 
 - **Prompt Advisor for stronger prompts**  
   Click the **Advise** button to review and refine your prompt before submitting it to the forge. The Prompt Advisor analyzes your incantation and suggests ways to add detail, specificity, and narrative depth — at no cost to your monthly quota. Discard and try again as often as you like; only the final submission counts.
@@ -37,7 +37,7 @@ Lorexicon currently offers the following features:
   [Define persistent context blocks](Contexts)—like your campaign setting, house rules, or plot arcs—and reuse them across creations to maintain narrative and mechanical consistency without rewriting the same prompt every time.
 
 - **Job History with reimport**  
-  Browse your complete history of past creations and reimport any conjuration — JSON and images — back into Foundry for up to **30 days** after the original summoning. Reimporting does not count against your monthly quota.
+  Browse your complete history of past creations and reimport any conjuration — JSON and images — for up to **30 days** after the original summoning. Reimporting does not count against your monthly quota.
 
 - **Images for all creations**  
   If you choose, automatically generate portrait and scene art for every creation.

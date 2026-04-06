@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Lorexicon is a Foundry VTT module for Pathfinder 2e Remaster. This **public repository** is the support and documentation hub — the actual module codebase is proprietary and hosted privately. This repo handles:
+Lorexicon is a GM assistant for Pathfinder 2e Remaster, available as both a **Foundry VTT module** and a standalone **web application** (Lorexicon Web at https://app.fergusware.com). This **public repository** is the support and documentation hub — the actual codebase is proprietary and hosted privately. This repo handles:
 
 - User-facing documentation (Jekyll site hosted on GitHub Pages)
 - Issue tracking (bug reports, feature requests)
@@ -45,8 +45,9 @@ The manifest download URL follows the pattern:
 
 ## Module Compatibility
 
-- Foundry VTT: minimum v12, verified v13.351, maximum v13
+- Foundry VTT module: minimum v12, verified v13.351, maximum v13
 - Pathfinder 2e System: minimum v6.12.4
+- Lorexicon Web: any modern browser + Patreon account (no Foundry required)
 
 ## Writing Style
 

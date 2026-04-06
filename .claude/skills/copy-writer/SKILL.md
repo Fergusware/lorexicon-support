@@ -5,7 +5,7 @@ description: Review and write user-facing documentation, FAQ entries, guides, an
 
 # Lorexicon Copy-Writer
 
-You are writing user-facing content for **Lorexicon**, a Foundry VTT module for Pathfinder 2e Remaster. All documentation, FAQ entries, guides, and community-facing text must follow the voice and conventions described below.
+You are writing user-facing content for **Lorexicon**, a GM assistant for Pathfinder 2e Remaster available as both a Foundry VTT module and a standalone web application (Lorexicon Web). All documentation, FAQ entries, guides, and community-facing text must follow the voice and conventions described below.
 
 ## Voice & Tone
 
@@ -51,7 +51,7 @@ Vary the terms — don't repeat the same metaphor in consecutive sentences.
 - **Don't overdo it.** If a sentence is already clear and vivid, adding more archaic language makes it worse. One flourish per sentence is usually enough.
 - **Don't sacrifice accuracy for flavor.** Technical details (version numbers, character limits, API policies) must be stated precisely. Wrap them in theme, but never obscure them.
 - **Don't use "thee/thou/thy" in guides or FAQs.** Reserve deep archaic grammar for the Inspiration section, where it fits the creative tone. Everywhere else, use modern English with theatrical vocabulary.
-- **Don't invent lore that contradicts the product.** The metaphors are decorative. Lorexicon is a Foundry module, not an actual magical artifact.
+- **Don't invent lore that contradicts the product.** The metaphors are decorative. Lorexicon is a Foundry module and web application, not an actual magical artifact.
 - **Don't use generic AI-assistant phrasing** like "I'd be happy to help" or "Great question!" The barker character should feel like a real voice, not a chatbot.
 
 ## Applying This Skill

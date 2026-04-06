@@ -6,11 +6,11 @@ _Sharpen your quill, brave traveler — here lie the answers to your most pressi
 
 **Q: So what does it do?**
 
-**A:** Lorexicon is your enchanted grimoire, woven into the very heart of Foundry VTT. Speak your desire — be it a harrowing dungeon showdown, a web of courtly intrigue, the summons of a fearsome beast, or a bustling merchant's shop — and it will conjure a fully realized Pathfinder 2e encounter, NPC, creature, hazard, or merchant before your eyes. With a flourish of its arcane quill, it drafts balanced monster rosters with dynamic party-size scaling, weaves evocative scene art and narrative text, and inscribes every stat, skill check, and tactic directly into a Foundry document. When the ritual completes, your “Lorexicon” folder overflows with ready-to-play encounters, stat blocks, portraits, and tokens — no manual import, no tedium — just pure, instantaneous creation at your command.
+**A:** Lorexicon is your enchanted grimoire, woven into the very heart of your game — whether you wield it through the Foundry VTT module or [Lorexicon Web](https://app.fergusware.com). Speak your desire — be it a harrowing dungeon showdown, a web of courtly intrigue, the summons of a fearsome beast, or a bustling merchant's shop — and it will conjure a fully realized Pathfinder 2e encounter, NPC, creature, hazard, or merchant before your eyes. With a flourish of its arcane quill, it drafts balanced monster rosters with dynamic party-size scaling, weaves evocative scene art and narrative text, and inscribes every stat, skill check, and tactic directly into a ready-to-play document. When the ritual completes, your "Lorexicon" folder overflows with ready-to-play encounters, stat blocks, portraits, and tokens — no manual import, no tedium — just pure, instantaneous creation at your command.
 
 **Q: What can Lorexicon summon for me?**
 
-**A:** Lorexicon channels the arcane intelligence of a complex Pathfinder 2e rules engine, assisted by AI, to conjure everything you need for your next session -- fully formed Pathfinder 2e Actors (NPCs and creatures), hazards, encounters balanced to your party’s size, and fully stocked merchants with real compendium inventory. Speak your prompt, and watch as it weaves monster rosters, narrative text, and scene art, then binds them all into Foundry as ready-to-play journal entries, tokens, and maps -- just pure magical creation.
+**A:** Lorexicon channels the arcane intelligence of a complex Pathfinder 2e rules engine to conjure everything you need for your next session -- fully formed Pathfinder 2e Actors (NPCs and creatures), hazards, encounters balanced to your party’s size, and fully stocked merchants with real compendium inventory. Speak your prompt, and watch as it weaves monster rosters, narrative text, and scene art, then binds them all into ready-to-play journal entries, tokens, and maps -- just pure magical creation.
 
 **Q: What detailed runes does Lorexicon inscribe for me when creating an Actor?**
 
@@ -29,13 +29,13 @@ _Sharpen your quill, brave traveler — here lie the answers to your most pressi
   - Damage rolls with inline, clickable controls -- styled exactly to the [PF2e Style Guide](https://github.com/foundryvtt/pf2e/wiki/Style-Guide).
   - Effects -- ready to drag and drop onto actors on the scene to apply automated rule elements
 
-- **Portrait Images**: (Optional) A thematic illustration to grace your token and character sheet.
+- **Portrait Images**: (Optional) A thematic illustration to grace your creation.
 
 All of this is conjured in one seamless ritual -- no tedious copy-pasting, no manually poring over tables in arcane tomes, no missing details -- so you can focus on the story, not the stat block.
 
 **Q: What detailed runes does Lorexicon inscribe for me when creating a Hazard?**
 
-**A:** Each Hazard Lorexicon forges arrives fully realized and ready to deploy in Foundry, with no manual assembly required:
+**A:** Each Hazard Lorexicon forges arrives fully realized and ready to deploy, with no manual assembly required:
 
 - **Hazard Concept**: A clear, thematic description grounded in your world, region, and scene context.
 - **Classification**: Trap, Haunt, or Environmental hazard; magical or mundane; with intent-based behavior (alerting, offensive, obstructive, and more).
@@ -43,7 +43,7 @@ All of this is conjured in one seamless ritual -- no tedious copy-pasting, no ma
 - **Reactions**: Fully automated reactions with inline rolls, saving throws, and rule element effects.
 - **Disable & Reset Logic**: Purpose-built text describing how the hazard can be disarmed, bypassed, or rearmed.
 - **Aura Support**: Optional auras that apply automated effects to creatures in range.
-- **Foundry Integration**: A PF2e-native Hazard actor—no copy-pasting, no missing automation.
+- **Platform Integration**: A PF2e-native Hazard actor—no copy-pasting, no missing automation.
 
 All of this is conjured in a single step, letting you add meaningful danger to your adventure without slowing down play—or prep.
 
@@ -57,7 +57,7 @@ All of this is conjured in a single step, letting you add meaningful danger to y
 - **Environment & Hazards**: Terrain features, obstacles, and traps.
 - **Narrative Text**: Vivid scene-setting prose and GM cues to spark player immersion.
 - **Visual Summonings**: A generated scene illustration to anchor your players' imaginations.
-- **Journal Integration**: A Foundry-ready journal entry with title, description, tags, tokens, and map placement.
+- **Journal Integration**: A ready-to-use journal entry with title, description, tags, tokens, and map placement.
 
 **Q: When are creatures selected for my encounter?**
 
@@ -65,7 +65,7 @@ All of this is conjured in a single step, letting you add meaningful danger to y
 
 **Q: That name, tho...**
 
-**A:** Aye, Lorexicon is incanted as 'low-REX-ih-KAHN.' Slice together **Lore** and **Lexicon**, and you’ve bound a ‘dictionary of lore’ — the perfect grimoire for your Foundry. Truth be told, we tried a few dozen other arcane titles, but every worthy name was already claimed by other wizards. Thus we arrived at Lorexicon: a unique fusion worthy of its magic.
+**A:** Aye, Lorexicon is incanted as 'low-REX-ih-KAHN.' Slice together **Lore** and **Lexicon**, and you’ve bound a ‘dictionary of lore’ — the perfect grimoire for your game table. Truth be told, we tried a few dozen other arcane titles, but every worthy name was already claimed by other wizards. Thus we arrived at Lorexicon: a unique fusion worthy of its magic.
 
 ---
 
@@ -243,7 +243,7 @@ You’ll know when this occurs: the Results panel will note that the conjuration
 
 **Q: Why do I have to log into Patreon?**
 
-**A:** Great question! Most modules live entirely on your local map; they never leave your screen. Lorexicon, however, uses both client and server -- to authenticate you via Patreon, track your monthly guild dues, and securely invoke our backend service for you. That extra login ensures you’re truly the hero you claim to be.
+**A:** Great question! Lorexicon uses both client and server -- to authenticate you via Patreon, track your monthly guild dues, and securely invoke our backend service for you. Whether you access it through the Foundry module or [Lorexicon Web](https://app.fergusware.com), that Patreon login ensures you’re truly the hero you claim to be.
 
 **Q: How do I get Free Tier access? Do I need to join the Patreon?**
 
@@ -257,7 +257,7 @@ _Note: Fergusware reserves the right to alter or remove Free Tier quotas at any 
 
 **Q: Just to be clear, this service is backed by AI?**
 
-**A:** Only in part. The real magic lives in the code -- rule logic, automation, and Foundry integration all run on solid craftsmanship, not machine whimsy. The AI lends a hand for creative spark: parsing your prompt into a concept, weaving a bit of narrative flavor, and (if you wish) painting the scene with an image. Think of it less as an all-powerful sorcerer, and more as a clever apprentice helping translate your intent into something beautifully playable.
+**A:** Only in part. The real magic lives in the code -- rule logic, automation, and platform integration all run on solid craftsmanship, not machine whimsy. The AI lends a hand for creative spark: parsing your prompt into a concept, weaving a bit of narrative flavor, and (if you wish) painting the scene with an image. Think of it less as an all-powerful sorcerer, and more as a clever apprentice helping translate your intent into something beautifully playable.
 
 **Q: What AI service do you use?**
 
@@ -281,7 +281,7 @@ _Note: Fergusware reserves the right to alter or remove Free Tier quotas at any 
 
 **Q: What is Job History?**
 
-**A:** Job History is your personal ledger of every creation the forge has wrought on your behalf. Open it from the Lorexicon window to browse past summonings — and if a conjuration is still within its **30-day** retention window, you can reimport it directly back into Foundry with a single click. No support ticket, no waiting — just reclaim your lost treasure and carry on. Reimporting never deducts from your monthly allotment; the spell slot was spent when the creation was first forged.
+**A:** Job History is your personal ledger of every creation the forge has wrought on your behalf. Open it from the Lorexicon window to browse past summonings — and if a conjuration is still within its **30-day** retention window, you can reimport it with a single click. No support ticket, no waiting — just reclaim your lost treasure and carry on. Reimporting never deducts from your monthly allotment; the spell slot was spent when the creation was first forged.
 
 **Q: I accidentally deleted my creation. Can I get it back?**
 

@@ -8,7 +8,7 @@ carousel: true
 
 > Create an encounter with an ancient red dragon that takes place in an active volcano
 
-A high-level combat encounter forged from a single sentence. The journal entry opens with a generated scene illustration of the volcanic lair, followed by the full encounter breakdown — threat level, terrain features, environmental hazards, and creature selections matched to the fiery theme.
+A high-level combat encounter forged from a single sentence. The journal entry opens with a generated scene illustration of the volcanic lair, followed by the full encounter breakdown — threat level, terrain features, environmental hazards, and creature selections matched to the fiery theme. _(Foundry VTT interface shown — Lorexicon Web delivers the same creation through a standalone web application.)_
 
 <div class="swiper" style="width:100%;max-width:600px;margin:2rem auto;">
   <div class="swiper-wrapper">

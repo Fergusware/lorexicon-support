@@ -8,16 +8,16 @@ _A public space for feature requests and support questions for Lorexicon._
 
 ## Project Overview
 
-Lorexicon is a GM assistant companion module for Foundry VTT. Currently it is designed specifically for Pathfinder 2e Remaster. With Lorexicon, you can:
+Lorexicon is a GM assistant companion for Pathfinder 2e Remaster, available as both a **Foundry VTT module** and a standalone **web application** ([Lorexicon Web](https://app.fergusware.com)). With Lorexicon, you can:
 
-- Create immersive scene descriptions, creature compositions, and artwork directly in the Journal
+- Create immersive scene descriptions, creature compositions, and artwork
 - Generate fully formed, immediately usable Pathfinder 2e Remaster Actors on the fly
 - Conjure either unique NPCs or generic creatures
-- Optional: Produce NPC and creature portraits without leaving Foundry
+- Optional: Produce NPC and creature portraits
 
-Lorexicon integrates seamlessly into your GM toolkit so you spend less time on menus and more time telling your story.
+Lorexicon integrates seamlessly into your GM toolkit so you spend less time on prep and more time telling your story.
 
-**Fergusware covers all backend service costs** for Lorexicon through [Patreon](https://www.patreon.com/c/fergusware/about) memberships. You will not incur any additional fees when using this module. _An API key is NOT required to use Lorexicon._
+**Fergusware covers all backend service costs** for Lorexicon through [Patreon](https://www.patreon.com/c/fergusware/about) memberships. You will not incur any additional fees when using Lorexicon. _An API key is NOT required._
 
 > **Note:** Lorexicon is run as a hosted service on Amazon Web Services. The Lorexicon codebase is proprietary and hosted in a private repository. This public repo is dedicated solely to support, feedback, and community discussion.
 
@@ -25,7 +25,7 @@ See our current [Feature List](https://support.fergusware.com/lorexicon-support/
 
 You can find us on [Discord](https://discord.gg/Xb6FHpPdpF)!
 
-Check out our [Foundry module page](https://foundryvtt.com/packages/lorexicon)!
+Try [Lorexicon Web](https://app.fergusware.com) or check out our [Foundry module page](https://foundryvtt.com/packages/lorexicon)!
 
 More questions? Please read our [FAQ](https://support.fergusware.com/lorexicon-support/FAQ) or visit the full **[Lorexicon Docs site](https://support.fergusware.com/lorexicon-support/)** for tutorials, examples, and deep dives. We'll post occasional examples and video tutorials on **[YouTube](https://www.youtube.com/@Fergusware)**.
 
@@ -50,14 +50,16 @@ By keeping support and feature tracking transparent, everyone in the Lorexicon c
 2. Choose **New issue**.
 3. Give your issue a clear title.
 4. In the description, be as detailed as possible:
-   - **For bugs**: Include your Foundry version, Lorexicon version, steps to reproduce, and any error messages or screenshots.
+   - **For bugs**: Include your platform (Lorexicon Web or Foundry VTT), Lorexicon version (Foundry users), browser, steps to reproduce, and any error messages or screenshots.
    - **For feature requests**: Describe what you’d like to see, why it would be helpful, and any example use cases.
    - **For support questions**: Explain what you’re trying to do, what you’ve tried so far, and where you’re stuck.
 5. Click **Submit new issue**.
 
 # Dependencies
 
-This module requires a licensed copy of Foundry Virtual Tabletop to run. It requires the Pathfinder 2e System to be installed and used.
+**Lorexicon Web** ([app.fergusware.com](https://app.fergusware.com)) requires only a modern web browser and a Patreon account.
+
+**Foundry VTT Module** requires a licensed copy of Foundry Virtual Tabletop and the Pathfinder 2e System.
 
 # Trademarks and Copyright
 
