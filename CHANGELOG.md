@@ -1,3 +1,9 @@
+# 2.0.0
+
+- New standalone web portal for Lorexicon
+- Refactor and separate backend services
+- Convert Lambdas from AMD64 to ARM64 architecture
+
 # 1.4.10
 
 - Assign gear to NPCs and creatures
