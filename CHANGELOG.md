@@ -1,4 +1,9 @@
-# 2.0.0
+# 2.0.12
+
+- Fix bug in Reset button handling in Foundry client
+- Fix bug in magic weapon mapping in web UI
+
+# 2.0.11
 
 - New standalone web portal for Lorexicon
 - Refactor and separate backend services
