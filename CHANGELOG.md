@@ -1,3 +1,9 @@
+# 2.1.13
+
+- Add support for Foundry v14
+- Migrate image generation to gpt-image-2 model
+- Run image generation in parallel with other steps
+
 # 2.0.12
 
 - Fix bug in Reset button handling in Foundry client
