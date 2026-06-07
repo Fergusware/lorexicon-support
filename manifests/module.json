@@ -2,7 +2,7 @@
   "id": "lorexicon",
   "title": "Lorexicon",
   "description": "Tools to Level Up Your Foundry VTT Games",
-  "version": "2.1.13",
+  "version": "2.1.14",
   "library": false,
   "authors": [
     {
@@ -14,7 +14,7 @@
   ],
   "compatibility": {
     "minimum": "13",
-    "verified": "13.363",
+    "verified": "14.363",
     "maximum": "14"
   },
   "relationships": {
@@ -32,9 +32,13 @@
   },
   "scripts": [],
   "manifest": "https://raw.githubusercontent.com/Fergusware/lorexicon-support/refs/heads/main/manifests/module.json",
-  "download": "https://github.com/Fergusware/lorexicon-support/releases/download/v2.0.12/lorexicon-2.0.12.zip",
-  "esmodules": ["main.js"],
-  "styles": ["styles/main-app.css"],
+  "download": "https://github.com/Fergusware/lorexicon-support/releases/download/v2.1.14/lorexicon-2.1.14.zip",
+  "esmodules": [
+    "main.js"
+  ],
+  "styles": [
+    "styles/main-app.css"
+  ],
   "packs": [
     {
       "banner": "modules/lorexicon/assets/compendium-banner/natural-weapons.webp",
@@ -75,7 +79,11 @@
     {
       "name": "Lorexicon",
       "sorting": "m",
-      "packs": ["macros", "natural-weapons", "supplemental-weapons"]
+      "packs": [
+        "macros",
+        "natural-weapons",
+        "supplemental-weapons"
+      ]
     }
   ],
   "languages": [
