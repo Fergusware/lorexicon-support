@@ -86,3 +86,31 @@ header img {
   color: var(--fw-accent-orange);
   text-decoration: underline;
 }
+
+/* Inline code (e.g. `@lx ...`) — the theme's default code color is tuned for a
+   light page and is unreadable on our dark background. Give it strong contrast
+   and a subtle box so commands stand out (orange, distinct from green links). */
+.wrapper code {
+  color: var(--fw-accent-orange) !important;
+  background-color: #1e1e1e !important;
+  padding: 0.12em 0.4em;
+  border: 1px solid #333;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+/* Fenced code blocks: dark, readable, and a single border. Code within them
+   should inherit the block's styling rather than get the inline box again. */
+.wrapper pre {
+  background-color: #1e1e1e !important;
+  color: var(--fw-text-light) !important;
+  border: 1px solid #333;
+  border-radius: 6px;
+}
+.wrapper pre code {
+  color: var(--fw-text-light) !important;
+  background: transparent !important;
+  border: 0 !important;
+  padding: 0 !important;
+  font-size: inherit;
+}
