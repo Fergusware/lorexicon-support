@@ -179,6 +179,30 @@ Should the forge's search prove fruitless (perchance a most peculiar thematic de
 
 ---
 
+## 📖 The Lorekeeper
+
+**Q: What is the Lorekeeper, and how do I use it?**
+
+**A:** The Lorekeeper is the counselor standing behind the GM's chair — a voice woven into your Foundry chat that reads your _living_ game and answers questions about it. Type **`@lx `** followed by your question in the chat box (for instance, `@lx Which enemy is the greatest threat to my party?`), and its answer is whispered privately back to you alone. It grounds its counsel in the actual party, the creatures on the scene, the active encounter, token distances, and your map notes — and it fields Pathfinder 2e rules questions besides. For the full guide, see [The Lorekeeper](Lorekeeper).
+
+**Q: Who can use the Lorekeeper?**
+
+**A:** Only those seated in the GM's chair — it is a **GM-only** art. At present it is offered to the Guild's **paid subscription tiers** as an early-access enchantment, granted first to our patrons while its craft is honed.
+
+**Q: Does consulting the Lorekeeper cost me any creations?**
+
+**A:** Not a single spell slot — for now. Throughout this early-access period the Lorekeeper is **unmetered**, spending none of your monthly creation allotment. _As the feature matures, this will change; we'll give you fair warning before any such shift._
+
+**Q: Can my players or other GMs see what I ask the Lorekeeper?**
+
+**A:** Never. Every question and every answer is whispered privately to you, the asking GM. No player and no fellow GM glimpses the exchange — your counsel is yours alone.
+
+**Q: Why did the Lorekeeper give me a stale answer about creatures that aren't on my board anymore?**
+
+**A:** Because it remembers. The Lorekeeper holds onto your whole conversation, so facts and groupings it established earlier can linger and color a later answer — even after you've changed the scene or trimmed the fight. The cure is a single command: type **`@lx reset`** to begin a fresh conversation with its memory wiped clean. A good habit is one conversation per scene or encounter; when the board resets, reset the Lorekeeper. See the [Lorekeeper guide](Lorekeeper) for the full tale of memory and when to reset.
+
+---
+
 ## 🔒 Privacy & Security
 
 **Q: What does the Guild know of me?**
@@ -270,6 +294,10 @@ _Note: Fergusware reserves the right to alter or remove Free Tier quotas at any 
 **Q: Can I bring my own API key?**
 
 **A:** We’re deliberating that option at the council table. If lowering your personal cost is a quest you’d embark on, your feedback will help us decide!
+
+**Q: How much should I trust the Lorekeeper's answers?**
+
+**A:** Treat the Lorekeeper as a knowledgeable second opinion, not an infallible oracle. Like our other creative arts, its counsel is shaped in part by AI, and it remains an early, evolving feature — so it can occasionally misjudge a board or misremember a fine point of rules. Lean on it to surface options and weigh threats, but sanity-check its conclusions and verify exact rulings against the book. The final word at your table is always yours.
 
 ---
 

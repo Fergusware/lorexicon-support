@@ -1,3 +1,7 @@
+# 3.0.15
+
+- Add support for Lorekeeper - conversational in-game agent
+
 # 2.1.14
 
 - Add support for Foundry v14

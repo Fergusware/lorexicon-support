@@ -36,6 +36,14 @@ Not sure what to write — or want to sharpen the prompt you have? The Prompt Ad
 
 ---
 
+## 📖 The Lorekeeper
+
+Your in-game counselor for the GM's chair. Type `@lx` in Foundry chat to ask about the fight before you, a creature's weak saves, a point of PF2e law, or your map's lore — and receive private counsel grounded in your living game. An early-access gift for the Guild's subscribers.
+
+[→ Meet the Lorekeeper](Lorekeeper)
+
+---
+
 ## 🎨 Examples
 
 A small gallery of sample creations brought to life by Lorexicon.  

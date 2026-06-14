@@ -116,7 +116,17 @@ _No further import rituals are required to begin using your creation._
 
 ---
 
-### Chapter IX: Tracking Your Magical Quota
+### Chapter IX: Consulting the Lorekeeper _(Foundry VTT)_
+
+Beyond the forge lies a second counsel, woven into your Foundry chat: the **Lorekeeper**. Type **`@lx `** followed by a question — say, `@lx Which enemy is the greatest threat to my party?` — and it answers in a private whisper, grounded in your living game: the party, the creatures on the scene, the active encounter, token distances, your map notes, and the rules of Pathfinder 2e. It advises; the ruling is always yours.
+
+The Lorekeeper is a **GM-only** art, offered as an **early-access gift to paid subscribers** and **unmetered** for now — it spends none of your monthly creation allotment. One word of wisdom: it remembers your conversation, so type **`@lx reset`** whenever the scene changes and you want a fresh read of the board.
+
+For the full guide — what it can answer, how to scope your questions, and when to reset — see [The Lorekeeper](Lorekeeper).
+
+---
+
+### Chapter X: Tracking Your Magical Quota
 
 Each month's magic is finite. Observe your Usage Panel:
 
@@ -129,7 +139,7 @@ Hover any rune for further illumination.
 
 ---
 
-### Chapter X: When the Fates Frown
+### Chapter XI: When the Fates Frown
 
 Should darkness cloud your ritual:
 
@@ -142,7 +152,7 @@ Should darkness cloud your ritual:
 
 ---
 
-### Chapter XI: Sage Advice & Troubleshooting
+### Chapter XII: Sage Advice & Troubleshooting
 
 - **Lorexicon button vanished? (Foundry)** Ensure the module is enabled and your realm restarted.
 - **Pop-up barred? (Foundry)** Permit pop-ups for your Foundry domain.

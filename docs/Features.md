@@ -33,6 +33,9 @@ Lorexicon currently offers the following features:
 - **Prompt Advisor for stronger prompts**  
   Click the **Advise** button to review and refine your prompt before submitting it to the forge. The Prompt Advisor analyzes your incantation and suggests ways to add detail, specificity, and narrative depth — at no cost to your monthly quota. Discard and try again as often as you like; only the final submission counts.
 
+- **The Lorekeeper — in-game GM counsel** _(early access)_  
+  Type `@lx` in your Foundry chat to consult the Lorekeeper, a GM-only counselor that reads your living game — the party, the creatures on the scene, the active encounter, token distances, and your map notes — and answers PF2e tactics, threat, and rules questions in a private whisper. It advises; you decide. Currently a perk for paid subscribers, offered as an early-access gift while the feature is refined. [Meet the Lorekeeper](Lorekeeper).
+
 - **Reusable Context support for consistent results**  
   [Define persistent context blocks](Contexts)—like your campaign setting, house rules, or plot arcs—and reuse them across creations to maintain narrative and mechanical consistency without rewriting the same prompt every time.
 
