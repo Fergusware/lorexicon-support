@@ -1,3 +1,7 @@
+# 3.0.16
+
+- Fix issue with "wedged" conversations that require a reset
+
 # 3.0.15
 
 - Add support for Lorekeeper - conversational in-game agent
