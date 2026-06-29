@@ -60,10 +60,10 @@ A small gallery of sample creations brought to life by Lorexicon.
 
 Sparks and seed-thoughts to stir your imagination — clever prompt ideas and playful notions to help you spin tales whether you have hours to prepare or but a heartbeat to spare. Take what pleases you, twist it to your liking, and make it your own. These ideas are tools, not commandments, and Lorexicon thrives in the hands of a bold improviser.
 
-→ [NPC Prompt Ideas](inspiration/npc-prompts.md)
-→ [Creature Prompt Ideas](inspiration/creature-prompts.md)
-→ [Encounter Prompt Ideas](inspiration/encounter-prompts.md)
-→ [Hazard Prompt Ideas](inspiration/hazard-prompts.md)
+→ [NPC Prompt Ideas](inspiration/npc-prompts.md)  
+→ [Creature Prompt Ideas](inspiration/creature-prompts.md)  
+→ [Encounter Prompt Ideas](inspiration/encounter-prompts.md)  
+→ [Hazard Prompt Ideas](inspiration/hazard-prompts.md)  
 → [Merchant Prompt Ideas](inspiration/merchant-prompts.md)
 
 ---
